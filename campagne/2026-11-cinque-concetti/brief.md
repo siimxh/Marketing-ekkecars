@@ -17,6 +17,21 @@
 | Frontman | Beppe |
 | Avatar | Vedi `contesto/02-avatar-pain-obiezioni.md` |
 
+## Decisioni prese (grilling)
+
+| Tema | Decisione |
+|-|-|
+| Hook | Ogni concetto ha il **suo hook**. CTA C1a uguale per tutte |
+| Differenza tra i concetti | Diversi per **formato e angolo principale**. Se il pain viene banale, si torna a concetti diversi solo per formato |
+| Idee di partenza | Le 4 idee di Simone sono candidate forti, non blindate: entrano nella cernita con le alternative |
+| Lingua | **Solo italiano** (il test di fatto gira sul Ticino) |
+| Produzione | Tutto girato con il **cellulare**, in piazzale o in ufficio. AI ed editing li fa Simone. Si possono fare anche più concetti con molta parte visiva AI |
+| Limiti AI | Solo strumenti gratuiti: **niente avatar AI**, niente personaggi AI coerenti tra scene complesse |
+| Durata | Sotto i 90 secondi; obiettivo **sotto i 60** |
+| Tono verso i concorrenti | Categorie sì; piattaforme nominate solo con giudizio neutro (es. AutoScout = "ti fai le sere a cercare"); **mai nomi di aziende** |
+| Formato | **9:16**, nativo Reels/Stories, non deve sembrare uno spot |
+| UGC | **Escluso** |
+
 ## Processo
 
 1. Grilling: definire che tipo di concetti vogliamo e i paletti.
@@ -38,6 +53,5 @@
 ## Punti aperti
 
 - **Destinazione:** multi-step form o Meta form?
-- **Hook:** "stesso hook" per tutte e 5 le ad o un hook diverso per concetto?
 - **Pulsante del Meta form:** come si chiama?
 - **Quinto concetto** e conferma dei primi quattro.
