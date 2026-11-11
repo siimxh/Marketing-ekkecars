@@ -1,6 +1,9 @@
 # Regole di scrittura
 
-> Emerse dai feedback di Simone e Loris sulle ad di settembre 2026. Valgono per tutte le campagne, salvo eccezioni decise per un singolo concetto.
+> Emerse dai feedback di Simone e Loris sulle ad di settembre 2026.
+>
+> **Cosa vale sempre:** metodo di lavoro, lessico, tono, "non inventare", coerenza hook-body-CTA, CTA.
+> **Cosa NON vale automaticamente:** le strutture dei body (pain a fondo, passi numerati, riga sui tecnici obbligatoria, posizione della social proof). Erano regole di quei due concetti. **Ogni nuovo concetto ha le sue regole**, da definire nel suo doc.
 
 ## Metodo di lavoro
 

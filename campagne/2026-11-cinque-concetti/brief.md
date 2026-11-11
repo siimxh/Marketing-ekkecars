@@ -31,6 +31,13 @@
 | Tono verso i concorrenti | Categorie sì; piattaforme nominate solo con giudizio neutro (es. AutoScout = "ti fai le sere a cercare"); **mai nomi di aziende** |
 | Formato | **9:16**, nativo Reels/Stories, non deve sembrare uno spot |
 | UGC | **Escluso** |
+| Regole dei body | Ogni concetto ha **le sue regole**; le strutture di settembre non si applicano in automatico |
+| Recitazione di Beppe | Da evitare; ammessa solo se light, senza scenette |
+| Altre persone in camera | **Loris sì**; clienti no |
+| Angolo risparmio/prezzo | **No** come concetto principale |
+| Riferimenti ticinesi | Un pizzico, senza dialetto |
+| Marco | Mai in faccia: mani, schiena, POV, oggetti |
+| Formato brainstorming | Scheda per idea, 10 per blocco, numerazione I1, I2… |
 
 ## Processo
 
