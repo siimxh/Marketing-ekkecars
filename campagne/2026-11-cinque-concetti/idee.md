@@ -5,6 +5,12 @@
 - **Al cliente interessa l'output, non il processo.** Come troviamo l'auto, che domande facciamo in consulenza, come lavoriamo dietro le quinte: non gliene frega niente. Gli interessa cosa ottiene (l'auto giusta, il tempo risparmiato, nessuna fregatura).
 - Le domande della consulenza servono a noi per vendere meglio; per il cliente sono una rottura. Non sono un argomento di vendita.
 - Il processo si può mostrare solo se serve a togliere un'obiezione, e sempre tradotto in risultato (es. I7, borderline).
+- **Ma neanche la comodità basta.** "Dal divano", "zero fatica", "tutto dal telefono": bello, ma non abbastanza per far lasciare i dati. Serve una posta in gioco vera.
+- **Pubblico freddo = niente Q&A.** Nessuno si guarda un botta e risposta intero se non gli interessa già: quella è roba da retargeting.
+- **Niente che sembri fabbricato.** Recensioni lette apposta, chat ricostruite: non mostrano verità né trasparenza. Contenuti statici o poco movimentati: fuori da questa fase (niente statiche nel test).
+- **Cosa funziona:** concetto semplice da capire al volo, contenuto leggero da consumare, senza entrare troppo nel dettaglio del pain (es. I13 "Due sabati").
+- **Pain forte nuovo (da I16):** la trappola del leasing a 3 anni. Ti accontenti dell'auto del concessionario, le condizioni del leasing sono fatte per chiudere l'accordo e la rivendibilità non viene considerata: tra tre anni vuoi cambiarla e il saldo leasing è più alto di quanto vale l'auto. È un problema reale di tantissimi (ed è anche il motivo per cui tanti lead si bloccano sulla permuta).
+- **Leva forte (da I17):** andare controcorrente, dire di no a un cliente per il suo vantaggio.
 
 > Stato: 🟡 da valutare · ✅ tenuta · ❌ scartata
 
@@ -82,7 +88,7 @@
 - **Perché può vincere:** autorità, si capisce subito che siamo diversi.
 - **Rischio:** il leasing va trattato in modo light (la lezione del VB2 bocciato).
 
-### I10 – "Le domande che ci fanno tutti" ✏️ espansa
+### I10 – "Le domande che ci fanno tutti" ❌
 - **Formato:** botta e risposta a raffica, ~45 s. Due varianti:
   - **A – Beppe da solo:** domanda in sovrimpressione (grafica stile "domanda ricevuta", non screenshot finti di commenti), Beppe risponde in camera, taglio secco, domanda successiva.
   - **B – I fratelli:** Loris fuori campo (o in camera) fa le domande con il tono scettico del cliente, Beppe risponde. Più dinamica, ed è una scena vera tra due persone vere, non una recita.
@@ -102,7 +108,7 @@
 
 ## Blocco 2
 
-### I11 – "Richiesta → risultato" 🟡
+### I11 – "Richiesta → risultato" ❌
 - **Formato:** split screen o sequenza rapida: a sinistra la richiesta del cliente (testo), a destra l'auto consegnata (foto/video reali). 4-5 casi in ~30 s, Beppe in voce o a tratti in camera.
 - **Angolo:** l'auto esattamente come la volevi.
 - **Cosa si vede:** "SUV 7 posti, gancio traino, sotto i 50'000" → l'auto vera consegnata. Avanti il prossimo.
@@ -110,7 +116,7 @@
 - **Perché può vincere:** è tutto output, zero processo. Si vede il risultato.
 - **Rischio:** servono casi reali con foto delle auto consegnate (senza i clienti).
 
-### I12 – "L'unico giorno in cui ci vedi" 🟡
+### I12 – "L'unico giorno in cui ci vedi" ❌
 - **Formato:** vlog della consegna, girato col cellulare: la bisarca che arriva, l'auto che scende, le chiavi. ~30-40 s.
 - **Angolo:** zero fatica, il risultato finale.
 - **Cosa si vede:** l'auto che arriva e viene preparata; Beppe in camera: "Questo è l'unico giorno in cui ci vedi di persona. Tutto il resto l'hai fatto dal divano."
@@ -118,7 +124,7 @@
 - **Perché può vincere:** emozione del momento della consegna, senza spiegare niente.
 - **Rischio:** serve una consegna da filmare; il cliente non deve comparire (solo auto, mani, chiavi).
 
-### I13 – "Due sabati" 🟡
+### I13 – "Due sabati" ✅
 - **Formato:** split screen con immagini AI/stock: il sabato di chi compra dal concessionario classico vs il sabato di chi compra con noi. Beppe in voce fuori campo. ~30 s.
 - **Angolo:** il tempo restituito.
 - **Cosa si vede:** a sinistra coda in auto, piazzali, venditore, moduli; a destra lago, famiglia, bici. Alla fine lo stesso telefono che suona: "la tua auto è pronta".
@@ -126,7 +132,7 @@
 - **Perché può vincere:** visivo, immediato, si capisce senza audio.
 - **Rischio:** stesso angolo di I8 (e in parte di I2): ne resta probabilmente uno.
 
-### I14 – "Le tre cose che paghi senza volerle" 🟡
+### I14 – "Le tre cose che paghi senza volerle" ❌
 - **Formato:** Beppe nel piazzale davanti a un'auto, la indica pezzo per pezzo. ~40 s.
 - **Angolo:** il compromesso: in concessionario si compra la versione che c'è, non quella che si voleva.
 - **Cosa si vede:** "Il colore: non era quello che volevi. L'allestimento: hai pagato optional che non userai. Quello che volevi davvero: non c'era." Poi: "Da noi la scelta è tutta Europa."
@@ -134,7 +140,7 @@
 - **Perché può vincere:** chiunque si riconosce in almeno uno dei tre punti.
 - **Rischio:** vicino a I1 come ambientazione; va tenuto sull'output ("l'auto esatta"), non sul meccanismo del piazzale.
 
-### I15 – "Beppe reagisce agli annunci" 🟡
+### I15 – "Beppe reagisce agli annunci" ❌
 - **Formato:** reaction TikTok con green screen: dietro Beppe un annuncio d'auto anonimizzato, lui lo commenta. ~40 s.
 - **Angolo:** competenza: lui vede subito quello che tu non vedi.
 - **Cosa si vede:** "35'900 franchi, 'occasione'. Vediamo. Allestimento base, chilometri così e così, gli optional che volevi non ci sono." Chiude: "Non devi diventare un esperto. Basta dirci cosa vuoi."
@@ -142,7 +148,7 @@
 - **Perché può vincere:** format nativo, curiosità alta, dimostra competenza senza spiegare il processo.
 - **Rischio:** annunci da anonimizzare del tutto (niente venditore né piattaforma riconoscibile); non deve diventare un tutorial "fai da te".
 
-### I16 – "Il te tra tre anni" 🟡
+### I16 – "Il te tra tre anni" ✏️ rifatta sotto
 - **Formato:** Beppe in camera, tono da amico che ti avvisa, con brevi inserti AI. ~40 s.
 - **Angolo:** la scelta che non pesa dopo: l'auto che rivendi bene, con una rata che non ti pesa.
 - **Cosa si vede:** "Tra tre anni la vuoi cambiare. E scopri quanto vale davvero quella che hai preso di fretta." Poi: "Noi ti diciamo la verità prima, anche quando la risposta è no."
@@ -150,7 +156,7 @@
 - **Perché può vincere:** porta il cliente a pensare al futuro, cosa che nessun venditore fa.
 - **Rischio:** leasing e rivendibilità vanno toccati leggeri (lezione del VB2); nessun numero inventato sulle svalutazioni.
 
-### I17 – "Quando diciamo di no" 🟡
+### I17 – "Quando diciamo di no" ✏️ rifatta sotto
 - **Formato:** Beppe seduto in ufficio, racconta 2-3 casi veri in cui ha sconsigliato un'auto a un cliente. ~45 s.
 - **Angolo:** onestà come risultato: non ti fai fregare, neanche da noi.
 - **Cosa si vede:** "Un cliente voleva X. Gli ho detto di no, e ti dico perché." Chiusura: "Non abbiamo niente da piazzarti, quindi ti diciamo la verità."
@@ -158,7 +164,7 @@
 - **Perché può vincere:** un venditore che ti dice di no è inaspettato, e crea fiducia subito.
 - **Rischio:** servono aneddoti veri di Beppe (da raccogliere con lui).
 
-### I18 – "Tutto in una chat" 🟡
+### I18 – "Tutto in una chat" ❌
 - **Formato:** animazione di una chat stilizzata (chiaramente una ricostruzione, non uno screenshot spacciato per vero), con Beppe in piccolo in un angolo che commenta. ~30 s.
 - **Angolo:** semplicità: l'acquisto intero si fa dal telefono.
 - **Cosa si vede:** "Ciao, cerco un SUV comodo per la famiglia." → proposta in 48 ore → videochiamata → "È sotto casa tua." Il tutto in pochi messaggi.
@@ -166,7 +172,7 @@
 - **Perché può vincere:** mostra in 30 secondi quanto è facile, lo stesso formato che si usa per scrivere a un amico.
 - **Rischio:** se sembra una chat vera è un falso: deve essere dichiaratamente una ricostruzione.
 
-### I19 – "Tre errori da 35'000 franchi" 🟡
+### I19 – "Tre errori da 35'000 franchi" ❌
 - **Formato:** Beppe nel piazzale, lista numerata con testo a schermo. ~40 s.
 - **Angolo:** educativo: evitare gli errori classici di chi compra un'auto sopra i 35'000.
 - **Cosa si vede:** "Uno: ti innamori di quella che vedi. Due: guardi solo la rata. Tre: compri quella che c'è, non quella che vuoi." Poi il ponte su ekkecars.
@@ -174,10 +180,41 @@
 - **Perché può vincere:** è coerente col nome del funnel (educativo), dà valore anche a chi non compra subito.
 - **Rischio:** "quasi tutti" va bene come linguaggio parlato, ma niente statistiche; l'errore sulla rata va trattato leggero.
 
-### I20 – "Beppe legge le vostre recensioni" 🟡
+### I20 – "Beppe legge le vostre recensioni" ❌
 - **Formato:** Beppe col telefono in mano, legge recensioni vere e commenta in una riga. ~40 s.
 - **Angolo:** social proof sul risultato, raccontata dal CEO.
 - **Cosa si vede:** la recensione a schermo (vera, con il nome solo se autorizzato), Beppe che ci aggiunge la storia dietro in una frase.
 - **Hook indicativo:** "Ho letto le recensioni dei nostri clienti. Questa mi ha fatto ridere."
 - **Perché può vincere:** prova sociale senza UGC, con la faccia del capo che ci mette la firma.
 - **Rischio:** non so se avete recensioni (Google o altro) né quante: da verificare. Se non ci sono, l'idea cade.
+
+## Rifacimenti
+
+### I16b – "Il buco dei tre anni" 🟡
+- **Formato:** Beppe in ufficio davanti a una lavagna (o un foglio), disegna mentre parla. ~45 s. Due linee: il valore dell'auto che scende veloce, il saldo leasing che scende piano. Lo spazio tra le due è "il buco".
+- **Angolo:** la trappola del leasing. Non "il concessionario ti frega", ma: ti sei accontentato, l'accordo era fatto per chiudere la vendita, nessuno ha guardato la rivendibilità, e tra tre anni il problema ce l'hai tu.
+- **Struttura:**
+  1. "Tra tre anni vorrai cambiare auto."
+  2. La lavagna: valore vs saldo leasing → il buco. "Devi ancora più soldi di quanto vale. E quel buco o lo paghi, o te lo porti nella prossima auto."
+  3. Perché succede, in una frase: l'auto e il leasing sono stati scelti per chiudere l'accordo di oggi, non per come starai tra tre anni.
+  4. Il ponte: noi non abbiamo un'auto da far uscire, quindi guardiamo sia la rata di oggi sia quanto varrà l'auto quando la vorrai cambiare. E se la risposta è no, te lo diciamo.
+- **Hook indicativi:**
+  - "Tra tre anni vorrai cambiare la tua auto. E scoprirai che non puoi."
+  - "Ci chiamano in tantissimi per cambiare auto, e quasi tutti hanno lo stesso problema. Te lo disegno."
+  - "Stai per prendere un'auto da più di 35'000 franchi in leasing? Guarda questa linea prima di firmare."
+- **Perché può vincere:** è un pain che pochi vedono arrivare ma che tanti hanno già vissuto. Si capisce con un disegno. E ci posiziona come quelli che pensano anche al dopo.
+- **Rischio:** nessun numero inventato. Se vogliamo un esempio con cifre, serve un caso reale (anonimo) da Loris. Leasing trattato in modo chiaro, non tecnico.
+
+### I17b – "Oggi ho perso una vendita" 🟡
+- **Formato:** selfie vlog, Beppe esce dall'ufficio dopo una chiamata, cammina e parla a caldo, tono spontaneo. ~40 s.
+- **Angolo:** controcorrente: diciamo di no a un cliente quando gli conviene.
+- **Struttura:**
+  1. "Oggi ho perso una vendita. E sono contento."
+  2. Il caso in due frasi: cosa voleva il cliente e perché non gli conveniva (rata, auto che tra tre anni non si rivende, permuta che lo avrebbe affossato…).
+  3. Perché possiamo farlo: "Non ho un piazzale da svuotare. Se un'auto non ti conviene, non ho nessun motivo per vendertela."
+  4. Chiusura sul risultato per il cliente: quando ti diciamo sì, è perché ti conviene davvero.
+- **Hook indicativi:**
+  - "Oggi ho perso una vendita da 45'000 franchi. E rifarei tutto uguale."
+  - "Ho appena detto a un cliente di non comprare l'auto che voleva."
+- **Perché può vincere:** è l'opposto di quello che ci si aspetta da uno che vende auto. Lo spontaneo del vlog lo rende credibile.
+- **Rischio:** il caso dev'essere **vero** (da farsi raccontare da Beppe), altrimenti diventa proprio il prodotto fabbricato che non vogliamo. Si sovrappone in parte a I6 (onestà) e a I16b (se il "no" riguarda la rivendibilità).
