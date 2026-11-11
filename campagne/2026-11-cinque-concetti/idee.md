@@ -218,3 +218,149 @@
   - "Ho appena detto a un cliente di non comprare l'auto che voleva."
 - **Perché può vincere:** è l'opposto di quello che ci si aspetta da uno che vende auto. Lo spontaneo del vlog lo rende credibile.
 - **Rischio:** il caso dev'essere **vero** (da farsi raccontare da Beppe), altrimenti diventa proprio il prodotto fabbricato che non vogliamo. Si sovrappone in parte a I6 (onestà) e a I16b (se il "no" riguarda la rivendibilità).
+
+## Blocco 3
+
+> Filtri applicati: niente processo, niente "comodità" come leva principale, niente Q&A, niente contenuti fabbricati, niente statici. Concetti semplici, leggeri da guardare, con una posta in gioco vera. Spinta su trappola del leasing e controcorrente.
+
+### I21 – "La rata bassa" 🟡
+- **Formato:** selfie nel piazzale, Beppe conta sulle dita. ~35 s.
+- **Angolo:** trappola del leasing (lato rata): una rata bassa di solito nasconde qualcosa (durata lunga, acconto alto, valore residuo finale).
+- **Hook:** "Ti hanno proposto una rata bassissima per un'auto da 40'000 franchi? Ecco dove hanno nascosto il resto."
+- **Perché può vincere:** la rata è la prima cosa che guarda chi compra in leasing.
+- **Rischio:** va verificato con Loris quali meccanismi del leasing svizzero citare, senza errori tecnici.
+
+### I22 – "Indovina quanto vale" 🟡
+- **Formato:** gioco a quiz. Beppe accanto a un'auto: "Comprata tre anni fa a X. Quanto vale oggi?" Pausa, il cartello col numero, reveal. ~30 s.
+- **Angolo:** svalutazione / buco del leasing, in versione gioco.
+- **Hook:** "Questa l'hanno pagata 52'000 franchi tre anni fa. Indovina quanto vale oggi."
+- **Perché può vincere:** il formato quiz trattiene fino al reveal; il pain arriva da solo.
+- **Rischio:** servono numeri veri (da una permuta reale, anonima).
+
+### I23 – "Vale solo fino a sabato" 🟡
+- **Formato:** one-take selfie, 20-25 s, una sola frase al centro.
+- **Angolo:** la fretta come strumento di vendita, e perché da noi non c'è.
+- **Hook:** "'Quest'offerta vale solo fino a sabato.' Se te l'hanno detta, ascolta."
+- **Struttura:** perché esiste quella frase (l'auto deve uscire) → "Noi non abbiamo nessuna auto che deve uscire. Da noi niente scade sabato."
+- **Perché può vincere:** cortissima, riconoscibile, controcorrente.
+- **Rischio:** è una versione compatta di I6 (traduttore): probabilmente ne resta uno.
+
+### I24 – "I fratelli" 🟡
+- **Formato:** scena in ufficio, Loris e Beppe, ripresa fissa col telefono. ~40 s. Recitazione minima: è una discussione tra fratelli.
+- **Angolo:** controcorrente: diciamo di no anche quando ci costa.
+- **Hook:** Loris: "Beppe, gli hai detto di NON comprarla? Era una vendita!" Beppe: "Tra tre anni ci avrebbe odiato."
+- **Perché può vincere:** due persone vere che litigano trattengono più di un monologo.
+- **Rischio:** se suona recitata si perde tutto. Serve un caso vero alla base.
+
+### I25 – "POV: entri in un concessionario" 🟡
+- **Formato:** soggettiva. La camera è lo spettatore che entra nel piazzale; Beppe gli va incontro col sorriso da venditore… e a metà frase si ferma. ~40 s.
+- **Angolo:** come funziona il piazzale, ribaltato: "Ti avrei venduto questa. Non perché è giusta per te, ma perché è qui."
+- **Hook:** "Buongiorno! Cerca un'auto? Guardi, ho proprio quella che fa per lei…" (stop) "No, aspetta. Ti dico la verità."
+- **Perché può vincere:** POV è nativo, e il ribaltamento crea sorpresa.
+- **Rischio:** recitazione light ma presente; vicino a I1 come concetto (stesso piazzale, formato diverso).
+
+### I26 – "Giorno 1, giorno 90" 🟡
+- **Formato:** timelapse finto di un'auto ferma nel piazzale, contatore dei giorni a schermo (pioggia, sole, notte: AI o riprese diverse), Beppe in voce. ~30 s.
+- **Angolo:** il meccanismo del piazzale, ma visivo e senza spiegoni: ogni giorno ferma costa, e alla fine qualcuno paga.
+- **Hook:** "Quest'auto è ferma qui da 90 giorni. Indovina chi la pagherà."
+- **Perché può vincere:** il concetto di I1 in 30 secondi e un'immagine sola.
+- **Rischio:** niente cifre sui costi giornalieri (non le abbiamo); si contano solo i giorni.
+
+### I27 – "Tinder delle auto" 🟡
+- **Formato:** Beppe in camera, a lato schede auto che lui "swipa" a sinistra o a destra per un profilo dato ("famiglia, 20'000 km l'anno, la cambia tra quattro anni"). ~35 s.
+- **Angolo:** scegliere bene oggi per non pentirsi tra tre anni (rivendibilità, uso reale).
+- **Hook:** "Famiglia, 20'000 chilometri l'anno, budget 45'000 franchi. Swipe."
+- **Perché può vincere:** formato giocoso, veloce, ognuno ci mette il proprio profilo.
+- **Rischio:** i giudizi su modelli specifici vanno verificati con Beppe (niente affermazioni sbagliate su un modello).
+
+### I28 – "Il giorno dopo la firma" 🟡
+- **Formato:** linea del tempo visiva (AI/stock, niente volti): giorno 1 felice, mese 6 primi dubbi, anno 3 vuoi cambiarla… e il saldo leasing è più alto di quanto vale. Beppe in voce. ~35 s.
+- **Angolo:** trappola del leasing, raccontata come una mini-storia.
+- **Hook:** "Giorno uno: hai l'auto nuova. Anno tre: scopri quanto ti è costata davvero."
+- **Perché può vincere:** stesso pain di I16b ma in formato visivo e leggero.
+- **Rischio:** doppione di angolo con I16b: uno dei due.
+
+### I29 – "La mia prima auto" 🟡
+- **Formato:** Beppe in camera con una vecchia foto (sua, vera), racconta. ~45 s.
+- **Angolo:** autorità ed empatia: ci è passato anche lui, e da lì nasce ekkecars.
+- **Hook:** "La prima auto che ho comprato me l'hanno rifilata. E me ne sono accorto tre anni dopo."
+- **Perché può vincere:** storia vera del fondatore, verità al 100%.
+- **Rischio:** serve la storia vera di Beppe. Se non esiste, l'idea cade.
+
+### I30 – "L'evidenziatore" 🟡
+- **Formato:** riprese dall'alto su una scrivania, un contratto di leasing vero (anonimizzato) e un evidenziatore. Beppe evidenzia 3 righe e spiega. ~40 s.
+- **Angolo:** trappola del leasing, con trasparenza totale.
+- **Hook:** "Questo è un contratto di leasing vero. Ci sono tre righe che nessuno legge. Eccole."
+- **Perché può vincere:** documento vero = prova, non slogan. Visivamente ipnotico.
+- **Rischio:** serve un contratto reale anonimizzato; righe e spiegazioni da validare con Loris.
+
+### I31 – "Una domanda prima di firmare" 🟡
+- **Formato:** consiglio secco, 20 s, Beppe in camera.
+- **Angolo:** trappola del leasing, regalata come consiglio.
+- **Hook:** "Prima di firmare un leasing, fai al venditore una sola domanda: quanto varrà quest'auto quando finisce il contratto?"
+- **Struttura:** la domanda → "Se non ti sa rispondere, hai un problema" → "Noi te lo diciamo prima."
+- **Perché può vincere:** utile anche a chi non compra con noi; controcorrente perché regaliamo l'informazione.
+- **Rischio:** cortissimo, il ponte verso la CTA dev'essere naturale.
+
+### I32 – "Street: la rifaresti?" 🟡
+- **Formato:** Beppe per strada (Lugano/Mendrisio) col microfono, chiede ai passanti: "Quanto hai pagato la tua auto? La ricompreresti uguale?" Montaggio veloce. ~45 s.
+- **Angolo:** verità: quasi nessuno è contento fino in fondo di come ha comprato.
+- **Hook:** "Ho chiesto a dieci persone a Lugano se ricomprerebbero la loro auto. Nessuno ha detto sì senza pensarci."
+- **Perché può vincere:** formato street è nativo e molto guardato; risposte vere.
+- **Rischio:** dipende da cosa dicono davvero i passanti (l'hook va scritto dopo, sulle risposte reali); liberatorie per chi compare.
+
+### I33 – "Quanto guadagno su ogni auto" 🟡
+- **Formato:** Beppe in camera, diretto, ~40 s.
+- **Angolo:** trasparenza radicale: dichiara il margine medio e spiega perché può tenerlo così (niente stock, niente piazzale da pagare).
+- **Hook:** "Ti dico quanto guadagno su ogni auto che vendo. Nessun concessionario lo farebbe."
+- **Perché può vincere:** curiosità altissima, e nessuno nel settore lo fa.
+- **Rischio:** decisione delicata di business: va approvata da Beppe e Loris (il dato c'è, ~3'500 CHF lordi).
+
+### I34 – "Guarda cosa abbiamo trovato" 🟡
+- **Formato:** in officina, auto sul ponte, Beppe con Ivan. ~35 s.
+- **Angolo:** fiducia, ma con tensione: un difetto vero trovato su un'auto prima della consegna.
+- **Hook:** "Quest'auto doveva partire domani per il cliente. Guarda cosa abbiamo trovato."
+- **Perché può vincere:** risolve "non pago senza vederla" con una storia, non con una rassicurazione (quello che mancava a I7).
+- **Rischio:** serve un caso vero da filmare; sostituirebbe I7.
+
+### I35 – "1 contro 1" 🟡
+- **Formato:** grafica da incontro di boxe, round per round: concessionario classico vs ekkecars (scelta, fretta, prezzo trattato, dopo tre anni). ~35 s.
+- **Angolo:** confronto diretto, a punteggio.
+- **Hook:** "Concessionario classico contro ekkecars. Cinque round. Vediamo chi vince."
+- **Perché può vincere:** ritmo, gioco, tifo.
+- **Rischio:** vicino alla tier list (I4); ne resta uno. Va tenuto onesto (qualche round lo vince il concessionario, es. vederla subito dal vivo).
+
+### I36 – "Se lavorassi in un concessionario" 🟡
+- **Formato:** Beppe in camera, tono da confessione. ~40 s.
+- **Angolo:** il punto di vista di chi il settore lo conosce da dentro.
+- **Hook:** "Se lavorassi in un concessionario, ecco cosa ti direi per farti comprare oggi."
+- **Perché può vincere:** "insider" è uno dei formati più forti in assoluto.
+- **Rischio:** funziona solo se Beppe ha davvero un passato o esperienza diretta da cui parlare. Da verificare.
+
+### I37 – "Due contratti" 🟡
+- **Formato:** lo split screen di I13, applicato al leasing: due persone comprano la stessa auto; dopo tre anni una è nel buco, l'altra la cambia senza problemi. Immagini AI, Beppe in voce. ~30 s.
+- **Angolo:** trappola del leasing con il formato che ti è piaciuto.
+- **Hook:** "Due persone comprano la stessa auto. Tre anni dopo, una la cambia. L'altra non può."
+- **Perché può vincere:** prende il formato più apprezzato (I13) e il pain più forte (I16b).
+- **Rischio:** se teniamo I13, non possono stare entrambi (stesso formato).
+
+### I38 – "Compreresti casa così?" 🟡
+- **Formato:** Beppe cammina in una via residenziale, ~30 s.
+- **Angolo:** scelta limitata: "Non compreresti casa guardando solo quelle in vendita nella tua via. Con l'auto lo fai: guardi solo quelle che ha quel concessionario."
+- **Hook:** "Compreresti casa scegliendo solo tra quelle della tua via?"
+- **Perché può vincere:** analogia semplice, si capisce al volo, zero spiegoni.
+- **Rischio:** il passaggio da analogia a ekkecars dev'essere corto.
+
+### I39 – "L'anti-spot" 🟡
+- **Formato:** parte come uno spot d'auto patinato (AI: strada di montagna, musica epica), poi il disco che graffia e Beppe in ufficio. ~35 s.
+- **Angolo:** la realtà di comprare un'auto vs la pubblicità.
+- **Hook:** (visivo) spot epico → "Ecco. Questa è la pubblicità. Adesso ti racconto com'è davvero comprarla."
+- **Perché può vincere:** interruzione di schema forte nei primi 3 secondi, tono ironico.
+- **Rischio:** dopo il gancio serve un contenuto vero; il pezzo AI dev'essere credibile.
+
+### I40 – "4 contro 340" 🟡
+- **Formato:** Beppe in camera, numeri grandi a schermo. ~25 s.
+- **Angolo:** scelta: la stessa auto, stesso allestimento, quante ne trovi vicino a te e quante in Europa.
+- **Hook:** "Questa auto, con questo allestimento, in Ticino ce ne sono 4. In Europa 340."
+- **Perché può vincere:** un numero solo dice tutto. Output puro: hai scelta.
+- **Rischio:** i numeri devono venire da una ricerca vera fatta il giorno delle riprese.
