@@ -14,6 +14,8 @@
 - **Deve essere catchy.** Un'idea giusta ma poco "da guardare" (I22 quiz sul valore, I30 contratto) non passa.
 - **Niente uscite sul campo** (interviste in centro ecc.): ora non vale il tempo. Si gira in ufficio o in piazzale.
 - **Formati di gioco/confronto piacciono:** tier list, 1 contro 1, Tinder delle auto, Due sabati, analogie semplici.
+- **Troppo tecnico = fuori.** Se per capire l'ad serve parlare di valore residuo, acconto e condizioni del leasing (I52), è troppo complessa.
+- **Una buona battuta non è un concetto.** Alcune idee (I51, I57) funzionano come take dentro un'ad, non come ad intera.
 - **La svalutazione mostrata visivamente è un'idea buona**, ma il formato di I26 (timelapse dell'auto ferma) no: va trovato un altro modo di raccontarla.
 
 > Stato: 🟡 da valutare · ✅ tenuta · ❌ scartata
@@ -327,7 +329,7 @@
 - **Perché può vincere:** risolve "non pago senza vederla" con una storia, non con una rassicurazione (quello che mancava a I7).
 - **Rischio:** serve un caso vero da filmare; sostituirebbe I7.
 
-### I35 – "1 contro 1" ✅
+### I35 – "1 contro 1" ❌ (prima tenuta, poi scartata)
 - **Formato:** grafica da incontro di boxe, round per round: concessionario classico vs ekkecars (scelta, fretta, prezzo trattato, dopo tre anni). ~35 s.
 - **Angolo:** confronto diretto, a punteggio.
 - **Hook:** "Concessionario classico contro ekkecars. Cinque round. Vediamo chi vince."
@@ -398,28 +400,28 @@
 
 > Filtri: catchy, leggero, posta in gioco vera, output e non processo, girabile in ufficio o in piazzale, niente Q&A, niente fabbricato, niente statiche. Più formati di gioco/confronto.
 
-### I41 – "Red flag, green flag" 🟡
+### I41 – "Red flag, green flag" ✅
 - **Formato:** trend red flag / green flag: Beppe dice una frase, a schermo 🚩 o 🟢. ~35 s.
 - **Angolo:** riconoscere quando ti stanno spingendo verso l'auto sbagliata.
 - **Hook:** "Stai per comprare un'auto da più di 35'000 franchi? Red flag e green flag. Quante ne hai sentite?"
 - **Perché può vincere:** trend conosciuto, ritmo alto, lo spettatore si autovaluta.
 - **Rischio:** le red flag devono riguardare il sistema, non insultare i venditori.
 
-### I42 – "Il contatore" 🟡
+### I42 – "Il contatore" ✅
 - **Formato:** Beppe parla in camera di tutt'altro (anche solo 20 secondi di presentazione), mentre in alto un contatore scende: "valore della tua auto". A un certo punto si ferma e lo indica.
 - **Angolo:** la svalutazione mostrata visivamente (l'idea di I26 raccontata in un altro modo).
 - **Hook:** "Non guardare me. Guarda il numero in alto."
 - **Perché può vincere:** pattern interrupt forte e il pain arriva senza spiegoni.
 - **Rischio:** il ritmo del contatore va calcolato su un dato reale di svalutazione (da Loris), altrimenti è inventato.
 
-### I43 – "Preferiresti…?" 🟡
+### I43 – "Preferiresti…?" ❌
 - **Formato:** trend "would you rather": due opzioni a schermo, Beppe sceglie e spiega in una riga. ~35 s.
 - **Angolo:** misto, ogni dilemma tocca un pain (auto subito ma di ripiego vs quella giusta in 20 giorni; rata bassa oggi vs nessun buco tra tre anni; scegliere tra 4 o tra tutta Europa).
 - **Hook:** "Preferiresti l'auto che vuoi tra 20 giorni, o quella che c'è, oggi?"
 - **Perché può vincere:** format di gioco, ogni dilemma fa scegliere lo spettatore.
 - **Rischio:** "20 giorni" contro "oggi" può spingere chi ha fretta verso il concessionario: vanno scelti dilemmi dove la nostra opzione vince netta.
 
-### I44 – "Quello che dici, quello che sente" 🟡
+### I44 – "Quello che dici, quello che sente" ✅
 - **Formato:** a schermo "Tu dici:" / "Il venditore sente:", Beppe legge con tono ironico. ~30 s.
 - **Angolo:** il sistema del piazzale, rovesciato rispetto a I6.
 - **Hook:** "Tu dici: 'Sto solo guardando.' Il venditore sente: …"
@@ -433,105 +435,105 @@
 - **Perché può vincere:** metafora fisica, si capisce senza audio, catchy.
 - **Rischio:** vicino a I21 (rata bassa): stesso angolo, formato diverso. Ne resta uno.
 
-### I46 – "Speedrun fallito" 🟡
+### I46 – "Speedrun fallito" ❌
 - **Formato:** grafica da videogioco: "Comprare un'auto in Svizzera, any%". Timer, livelli (concessionario 1, 2, 3, trattativa, firma), poi "Anno 3: GAME OVER – saldo leasing più alto del valore". Poi la "route" ekkecars. Beppe in voce. ~35 s.
 - **Angolo:** tempo + trappola del leasing, in versione gioco.
 - **Hook:** "Speedrun: comprare un'auto da 40'000 franchi in Svizzera. Vediamo quanto ci metti a perdere."
 - **Perché può vincere:** estetica gaming = nativo, ironico, diverso da tutto il resto.
 - **Rischio:** la fascia 32-62 non tutta mastica il linguaggio gaming.
 
-### I47 – "Bingo del concessionario" 🟡
+### I47 – "Bingo del concessionario" ❌
 - **Formato:** cartella del bingo a schermo con le frasi tipiche ("Ultima disponibile", "Vale solo fino a sabato", "Glielo sistemiamo noi il leasing"…). Beppe le barra una a una. ~30 s.
 - **Angolo:** riconoscere la pressione.
 - **Hook:** "Bingo del concessionario. Se ne hai sentite almeno tre, hai già perso."
 - **Perché può vincere:** gioco, ironia, condivisibile.
 - **Rischio:** stesso territorio di I6 e I44.
 
-### I48 – "La sfida dei fratelli" 🟡
+### I48 – "La sfida dei fratelli" ❌
 - **Formato:** Loris vs Beppe, stesso profilo cliente e stesso budget: chi trova l'auto migliore? Si vede solo l'inizio (la sfida) e la fine (le due auto a confronto). ~40 s.
 - **Angolo:** il risultato che si ottiene quando si cerca in tutta Europa.
 - **Hook:** "Io e mio fratello, stesso budget, 45'000 franchi. Chi trova l'auto migliore?"
 - **Perché può vincere:** competizione + due persone vere = trattiene fino al verdetto.
 - **Rischio:** se si scivola sul come cercano, ricade nel processo. Va montata solo come sfida e verdetto.
 
-### I49 – "Le due chiavi" 🟡
+### I49 – "Le due chiavi" ❌
 - **Formato:** primo piano di Beppe con due chiavi in mano. ~25 s.
 - **Angolo:** accontentarsi: "Questa è l'auto che volevi. Questa è quella che hai preso."
 - **Hook:** "In una mano l'auto che volevi. Nell'altra quella che ti hanno venduto."
 - **Perché può vincere:** immagine semplicissima, si capisce in un secondo.
 - **Rischio:** il concetto di "accontentarsi" è già coperto da Marco (I2).
 
-### I50 – "La mappa" 🟡
+### I50 – "La mappa" ❌
 - **Formato:** Beppe davanti a una mappa d'Europa (reale appesa o in grafica). Un puntino: "Il tuo concessionario." Poi si accende tutta la mappa: "Noi." ~25 s.
 - **Angolo:** scelta.
 - **Hook:** "Questo puntino è dove stai cercando la tua auto. Adesso guarda il resto."
 - **Perché può vincere:** un'immagine, un concetto.
 - **Rischio:** vicino a I40 (4 contro 340) e I38 (casa): territorio "scelta" affollato.
 
-### I51 – "Con quei soldi…" 🟡
+### I51 – "Con quei soldi…" ❌ (take carino, da usare come riga dentro un'altra ad)
 - **Formato:** Beppe in camera, a schermo appare cosa potresti comprare con i soldi del buco a fine leasing (vacanza, mesi di spesa…). ~30 s.
 - **Angolo:** trappola del leasing, resa concreta.
 - **Hook:** "Il buco che trovi a fine leasing? Con quei soldi ci facevi due settimane di vacanza."
 - **Perché può vincere:** trasforma un numero astratto in qualcosa che fa male.
 - **Rischio:** serve un ordine di grandezza reale del buco (da un caso vero).
 
-### I52 – "Test: tra tre anni avrai un problema?" 🟡
+### I52 – "Test: tra tre anni avrai un problema?" ❌
 - **Formato:** Beppe fa tre domande secche, lo spettatore risponde sì/no nella testa; alla fine il "risultato". ~35 s.
 - **Angolo:** trappola del leasing, personale.
 - **Hook:** "Tre domande per capire se tra tre anni la tua auto ti metterà nei guai. Rispondi sinceramente."
 - **Perché può vincere:** lo spettatore si sente chiamato in causa e resta fino al risultato.
 - **Rischio:** le domande vanno validate con Loris (devono essere davvero predittive).
 
-### I53 – "Tre motivi per NON comprare da noi" 🟡
+### I53 – "Tre motivi per NON comprare da noi" ❌
 - **Formato:** Beppe nel piazzale, diretto. ~40 s.
 - **Angolo:** controcorrente totale: "Non la vedi dal vivo prima di sceglierla. Devi aspettare 20 giorni. Se cerchi il prezzo più basso di tutta la Svizzera, ci sono i big della Svizzera interna." Poi: "Se queste tre ti vanno bene…"
 - **Hook:** "Tre motivi per non comprare un'auto da noi."
 - **Perché può vincere:** nessuno lo fa; onestà che si vede, non che si dichiara.
 - **Rischio:** va calibrato: i tre "difetti" devono suonare come cose piccole rispetto a quello che ottieni.
 
-### I54 – "Quanto costa la fretta" 🟡
+### I54 – "Quanto costa la fretta" ❌
 - **Formato:** Beppe in camera, ~25 s.
 - **Angolo:** comprare oggi quello che c'è vs aspettare 20 giorni quello che vuoi.
 - **Hook:** "Vuoi l'auto oggi? Allora paghi la fretta."
 - **Perché può vincere:** ribalta l'unico punto in cui il concessionario è più forte (l'auto subito).
 - **Rischio:** concetto sottile, va reso molto chiaro.
 
-### I55 – "Le scritte piccole" 🟡
+### I55 – "Le scritte piccole" ❌
 - **Formato:** Beppe con un'offerta di leasing generica (ricostruita, chiaramente un esempio tipo, nessun marchio) e una lente d'ingrandimento sulle scritte piccole. ~35 s.
 - **Angolo:** trappola del leasing.
 - **Hook:** "'Rata da 299 franchi al mese.' Leggiamo insieme le scritte piccole."
 - **Perché può vincere:** quelle offerte le hanno viste tutti.
 - **Rischio:** stesso angolo di I21 e I45; deve essere dichiaratamente un esempio, non un'offerta vera spacciata per tale.
 
-### I56 – "Mito o verità" 🟡
+### I56 – "Mito o verità" ❌
 - **Formato:** cartelli "MITO" / "VERITÀ", Beppe risponde secco. ~35 s.
 - **Angolo:** autorità: le convinzioni sbagliate su come si compra un'auto (fine mese conviene? km zero è sempre un affare? la rata bassa è un buon segno?).
 - **Hook:** "Comprare un'auto a fine mese conviene? Mito o verità."
 - **Perché può vincere:** curiosità, format veloce.
 - **Rischio:** ogni risposta va validata da Beppe; nessuna affermazione che non sappiamo provare.
 
-### I57 – "Diario di un'auto ferma" 🟡
+### I57 – "Diario di un'auto ferma" ❌ (idea carina, non come ad)
 - **Formato:** un'auto nel piazzale "parla" (voce fuori campo, tono comico), con riprese dell'auto da varie angolazioni e didascalie tipo diario. Alla fine Beppe entra in scena. ~35 s.
 - **Angolo:** il meccanismo del piazzale e la svalutazione, raccontati in modo comico.
 - **Hook:** "Giorno 94 in questo piazzale. Oggi il venditore mi ha guardato in modo strano. Credo voglia rifilarmi al prossimo che entra."
 - **Perché può vincere:** comico, umanizza il problema, nessuno se l'aspetta.
 - **Rischio:** il tono comico può togliere peso al pain.
 
-### I58 – "Se fossi tuo amico" 🟡
+### I58 – "Se fossi tuo amico" ❌
 - **Formato:** Beppe come al bar, tono da amico, ~30 s.
 - **Angolo:** il consiglio che nessun venditore ti darebbe (scegliere pensando a quando la rivendi, non firmare per la rata).
 - **Hook:** "Se fossi tuo amico e stessi per spendere 40'000 franchi per un'auto, ti direi solo una cosa."
 - **Perché può vincere:** tono vicino, un pizzico di Ticino, zero vendita apparente.
 - **Rischio:** vicino a I31 (una domanda prima di firmare).
 
-### I59 – "La scommessa" 🟡
+### I59 – "La scommessa" 🟡 forse (simile alle altre)
 - **Formato:** Beppe in camera, punta il dito: "Scommetto che…". ~30 s.
 - **Angolo:** riconoscimento immediato del problema.
 - **Hook:** "Scommetto che l'ultima auto che hai comprato non era quella che volevi all'inizio."
 - **Perché può vincere:** chiamata diretta, lo spettatore vuole vedere se ha ragione.
 - **Rischio:** se la scommessa non colpisce, scorrono via. Va scelta quella che vale per quasi tutti.
 
-### I60 – "Il venditore onesto non esiste. Te lo dimostro." 🟡
+### I60 – "Il venditore onesto non esiste. Te lo dimostro." ✅
 - **Formato:** Beppe nel piazzale, tono provocatorio, ~40 s.
 - **Angolo:** il venditore non è cattivo, è pagato per vendere quello che c'è ("non è cattiveria, è matematica"); noi siamo pagati solo se trovi quella giusta.
 - **Hook:** "Il venditore onesto non esiste. E non è colpa sua."
