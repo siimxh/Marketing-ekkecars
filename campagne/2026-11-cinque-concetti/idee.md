@@ -16,6 +16,7 @@
 - **Formati di gioco/confronto piacciono:** tier list, 1 contro 1, Tinder delle auto, Due sabati, analogie semplici.
 - **Troppo tecnico = fuori.** Se per capire l'ad serve parlare di valore residuo, acconto e condizioni del leasing (I52), è troppo complessa.
 - **Una buona battuta non è un concetto.** Alcune idee (I51, I57) funzionano come take dentro un'ad, non come ad intera.
+- **Beppe ha poca fiducia nel marketing:** niente formati dove deve recitare o "fare la scena" (es. Q6 al tavolo del ristorante). Meglio formati dove parla normale, sta in voce fuori campo o compare poco.
 - **La svalutazione mostrata visivamente è un'idea buona**, ma il formato di I26 (timelapse dell'auto ferma) no: va trovato un altro modo di raccontarla.
 
 > Stato: 🟡 da valutare · ✅ tenuta · ❌ scartata
@@ -547,32 +548,66 @@
 
 ## Quinto concetto: 10 proposte (derivate da I2, I38, I42)
 
-### Q1 – La lista di Marco 🟡 (da I2)
+### Q1 – La lista di Marco ✅ (sul doc) (da I2)
 All'inizio a schermo la lista di cosa vuole Marco: colore, tetto panoramico, gancio traino, cambio automatico, budget. A ogni concessionario visitato una voce viene barrata. Alla fine compra un'auto con una voce su cinque. Beppe in voce: "Marco non ha comprato l'auto che voleva. Ha comprato quella che c'era." Chiusura: da noi la lista la scrivi tu, e la cerchiamo in tutta Europa.
 
-### Q2 – Riavvolgi 🟡 (da I2)
+### Q2 – Riavvolgi ❌ (da I2)
 Soggettiva: chi guarda è Marco, entra nel concessionario, sente il venditore, firma, prende le chiavi. Sul più bello entra Beppe in camera: "Stop. Riavvolgiamo." Il video va all'indietro fino all'inizio e riparte nel modo ekkecars, in pochi secondi.
 
-### Q3 – Il conto di Marco 🟡 (da I2 + I42)
+### Q3 – Il conto di Marco ❌ (da I2 + I42)
 La storia di Marco raccontata con contatori a schermo che salgono: giorni di ferie, concessionari visitati, auto viste. L'ultimo contatore resta fermo a zero: "auto che voleva davvero". Beppe chiude in camera.
 
-### Q4 – Marco, tre anni dopo 🟡 (da I2 + I42)
+### Q4 – Marco, tre anni dopo ❌ (da I2 + I42)
 Il seguito di Marco: vuole cambiare auto. A schermo due numeri, quanto vale l'auto e quanto deve ancora pagare; il primo è più basso. Beppe, semplice: "Marco ha un'auto che vale meno di quello che deve ancora pagare. E nessuno gliel'aveva detto." Serve un caso reale per i numeri.
 
-### Q5 – Due contatori 🟡 (da I42)
+### Q5 – Due contatori ❌ (da I42)
 Beppe in camera, ai lati due contatori: "valore della tua auto" che scende, "la tua rata" che resta uguale. Beppe li indica: "Vedi il problema?" Nessun termine tecnico, si capisce dall'immagine. Chiude: noi guardiamo tutti e due prima che firmi. Ritmo dei contatori da dati reali.
 
-### Q6 – Il ristorante degli avanzi 🟡 (da I38)
+### Q6 – Il ristorante degli avanzi ❌ (molto bella, ma Beppe non se la sente) (da I38)
 Beppe seduto a un tavolo: "Immagina un ristorante dove il cameriere ti porta solo quello che è avanzato in cucina. E ti dice che è proprio quello che volevi." Pausa. "Ecco, il concessionario classico funziona così." Chiude: noi prima ascoltiamo cosa vuoi, poi lo cerchiamo.
 
-### Q7 – Tre domande in 20 secondi 🟡 (da I38)
+### Q7 – Tre domande in 20 secondi ❌ (da I38)
 Raffica di analogie, stile drill: "Compreresti casa scegliendo solo tra quelle della tua via? Il telefono solo tra i tre del negozio sotto casa? E allora perché l'auto la scegli solo tra quelle di un piazzale?" Stacco secco, CTA.
 
-### Q8 – Zoom out 🟡 (da I38)
+### Q8 – Zoom out ❌ (da I38)
 Beppe in strada: "Il concessionario è questa via." Effetto zoom out tipo mappa satellitare: la via, il quartiere, il Ticino, la Svizzera, l'Europa. "Noi cerchiamo qui." Un'immagine sola, si capisce senza audio.
 
-### Q9 – La mappa di Marco 🟡 (da I2 + I38)
+### Q9 – La mappa di Marco ❌ (da I2 + I38)
 Su una mappa del Ticino si disegnano i giri di Marco tra i concessionari, con i sabati segnati. Poi la mappa si allarga all'Europa: "Marco ha cercato qui. L'auto che voleva era qui." Beppe in voce.
 
-### Q10 – La versione da 15 secondi 🟡 (da I38)
+### Q10 – La versione da 15 secondi ❌ (da I38)
 Un solo take: Beppe fa la domanda della casa, risponde in una frase e chiude con la CTA. Serve a testare se un'ad cortissima, con un'analogia sola, regge contro le altre quattro.
+
+## Quinto concetto: altre 10 proposte (R1-R10)
+
+> Partono da Q1 (piaciuta) e da quello che Beppe è disposto a fare: parlare normale, voce fuori campo o comparire poco. Niente scenette.
+
+### R1 – Aspettativa / realtà 🟡
+Formato meme a schermo diviso: a sinistra l'auto che Marco voleva (immagine AI con la sua configurazione), a destra quella che ha comprato. Le differenze vengono cerchiate una alla volta: colore, tetto, cerchi, chilometri. Beppe in voce: "Aspettativa. Realtà. Succede a quasi tutti quelli che comprano dal piazzale."
+
+### R2 – Il calendario di Marco 🟡
+Un calendario a schermo: ogni sabato viene barrato con il nome di un concessionario (Mendrisio, Lugano, Bellinzona…). L'ultimo sabato c'è scritto "firma". Scritta finale: "4 sabati per un'auto che non voleva." Beppe chiude in camera con una frase.
+
+### R3 – La lista spuntata 🟡
+Il contrario di Q1: compare la lista (colore, tetto, gancio, automatico, budget) e ogni voce si spunta in verde, una dopo l'altra. Beppe in voce: "Da noi la lista non si accorcia. Si spunta." Chiude sulla CTA.
+
+### R4 – E tu quante ne avevi? 🟡
+Beppe in camera fa una domanda sola: "L'ultima volta che hai comprato un'auto, delle cose che volevi quante ne hai portate a casa?" A schermo una lista che chi guarda spunta mentalmente. Chiude: "Se la risposta è meno di tutte, guarda qui sotto."
+
+### R5 – Il domino 🟡
+Motion graphic: una fila di tessere del domino, ognuna con un compromesso (colore, allestimento, chilometri, prezzo). La prima cade e si porta dietro tutte le altre. L'ultima: "50'000 franchi per un'auto che non volevi." Beppe in voce.
+
+### R6 – La storia in sottotitoli 🟡
+La storia di Marco raccontata solo con sottotitoli grandi su immagini di piazzali, strade, chiavi, nessuna voce, solo musica. Beppe compare negli ultimi 5 secondi con una frase: "Da noi questo non succede." Per Beppe è lo sforzo minimo.
+
+### R7 – Le cose che non voleva 🟡
+Il rovescio di Q1: la lista di Marco non si accorcia, si allunga, con voci in rosso che non aveva chiesto: optional inutili, chilometri in più, colore sbagliato, rata più lunga. Beppe in voce: "Marco ha portato a casa un sacco di cose. Nessuna era sulla sua lista."
+
+### R8 – I post-it 🟡
+La versione fisica di Q1. Beppe davanti a una lavagna in ufficio attacca cinque post-it, cioè la lista di Marco, e ne stacca uno a ogni concessionario mentre racconta. Non deve recitare niente: parla e stacca.
+
+### R9 – Scrivi la tua lista 🟡
+Q1 compressa in 15 secondi, poi il passaggio diretto alla CTA: "Marco la lista l'ha persa per strada. Tu scrivila qui sotto." A schermo il configuratore che si compila. Lega il concetto alla CTA. Da verificare quando si decide la destinazione (multi-step o Meta form).
+
+### R10 – I cartelli 🟡
+Beppe non parla. Tiene in mano dei cartelli scritti a pennarello e li fa scorrere uno alla volta: la storia di Marco in 6-7 cartelli, l'ultimo è la CTA. Formato muto, si guarda anche senza audio, e a Beppe chiede solo di tenere i cartelli.
