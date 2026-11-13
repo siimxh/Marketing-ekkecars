@@ -539,3 +539,40 @@
 - **Hook:** "Il venditore onesto non esiste. E non è colpa sua."
 - **Perché può vincere:** provocazione forte nell'hook, poi assolve le persone e attacca il sistema.
 - **Rischio:** "non esiste" è forte: va visto se Beppe se la sente di dirlo.
+
+## Stato al 13/11 (dal Google Doc di Simone)
+
+**Fissi (4):** I3 Vendita diretta (solo servizio, corta) · I1 Storytelling classico (pain profondo) · I41 Red flag, green flag · I4 Tier list.
+**Evidenziati e ancora in gioco per il quinto posto:** I2 Marco · I38 Compreresti casa così? · I42 Il contatore.
+
+## Quinto concetto: 10 proposte (derivate da I2, I38, I42)
+
+### Q1 – La lista di Marco 🟡 (da I2)
+All'inizio a schermo la lista di cosa vuole Marco: colore, tetto panoramico, gancio traino, cambio automatico, budget. A ogni concessionario visitato una voce viene barrata. Alla fine compra un'auto con una voce su cinque. Beppe in voce: "Marco non ha comprato l'auto che voleva. Ha comprato quella che c'era." Chiusura: da noi la lista la scrivi tu, e la cerchiamo in tutta Europa.
+
+### Q2 – Riavvolgi 🟡 (da I2)
+Soggettiva: chi guarda è Marco, entra nel concessionario, sente il venditore, firma, prende le chiavi. Sul più bello entra Beppe in camera: "Stop. Riavvolgiamo." Il video va all'indietro fino all'inizio e riparte nel modo ekkecars, in pochi secondi.
+
+### Q3 – Il conto di Marco 🟡 (da I2 + I42)
+La storia di Marco raccontata con contatori a schermo che salgono: giorni di ferie, concessionari visitati, auto viste. L'ultimo contatore resta fermo a zero: "auto che voleva davvero". Beppe chiude in camera.
+
+### Q4 – Marco, tre anni dopo 🟡 (da I2 + I42)
+Il seguito di Marco: vuole cambiare auto. A schermo due numeri, quanto vale l'auto e quanto deve ancora pagare; il primo è più basso. Beppe, semplice: "Marco ha un'auto che vale meno di quello che deve ancora pagare. E nessuno gliel'aveva detto." Serve un caso reale per i numeri.
+
+### Q5 – Due contatori 🟡 (da I42)
+Beppe in camera, ai lati due contatori: "valore della tua auto" che scende, "la tua rata" che resta uguale. Beppe li indica: "Vedi il problema?" Nessun termine tecnico, si capisce dall'immagine. Chiude: noi guardiamo tutti e due prima che firmi. Ritmo dei contatori da dati reali.
+
+### Q6 – Il ristorante degli avanzi 🟡 (da I38)
+Beppe seduto a un tavolo: "Immagina un ristorante dove il cameriere ti porta solo quello che è avanzato in cucina. E ti dice che è proprio quello che volevi." Pausa. "Ecco, il concessionario classico funziona così." Chiude: noi prima ascoltiamo cosa vuoi, poi lo cerchiamo.
+
+### Q7 – Tre domande in 20 secondi 🟡 (da I38)
+Raffica di analogie, stile drill: "Compreresti casa scegliendo solo tra quelle della tua via? Il telefono solo tra i tre del negozio sotto casa? E allora perché l'auto la scegli solo tra quelle di un piazzale?" Stacco secco, CTA.
+
+### Q8 – Zoom out 🟡 (da I38)
+Beppe in strada: "Il concessionario è questa via." Effetto zoom out tipo mappa satellitare: la via, il quartiere, il Ticino, la Svizzera, l'Europa. "Noi cerchiamo qui." Un'immagine sola, si capisce senza audio.
+
+### Q9 – La mappa di Marco 🟡 (da I2 + I38)
+Su una mappa del Ticino si disegnano i giri di Marco tra i concessionari, con i sabati segnati. Poi la mappa si allarga all'Europa: "Marco ha cercato qui. L'auto che voleva era qui." Beppe in voce.
+
+### Q10 – La versione da 15 secondi 🟡 (da I38)
+Un solo take: Beppe fa la domanda della casa, risponde in una frase e chiude con la CTA. Serve a testare se un'ad cortissima, con un'analogia sola, regge contro le altre quattro.
