@@ -56,9 +56,25 @@ Riattivare i lead B2C vecchi (inattivi da 6+ mesi) con una sequenza WhatsApp. Il
 ## Nota per Loris
 Il messaggio è firmato da Giuseppe, ma chiama Loris: in apertura di chiamata va agganciato ("Giuseppe mi ha girato il tuo messaggio…").
 
-## Metodo bozze (A/B sulle skill)
-- **20 bozze** per messaggio: **10 "ordinarie"** (scritte da Claude, poi passate con Humanizer + Structural Humanizer) e **10 con la skill di Andrei Pascu**.
-- Scopo: capire con quale metodo andare avanti.
+## Metodo bozze
+- Messaggio 1: A/B su 20 bozze (10 ordinarie + Humanizer, 10 skill Andrei). **Ha vinto Andrei**: parla meglio, più naturale.
+- **Da qui in avanti, in questa riattivazione si usa solo la skill di Andrei Pascu**, con libertà sul modo di scrivere (pochi paletti di forma).
+
+## Regole emerse dalla cernita del messaggio 1
+- **Chi dice "ci siamo sentiti":** se firma **Giuseppe**, il richiamo deve legarsi all'annuncio, a un'offerta o a una proposta che il lead ha visto ("ci avevi lasciato il tuo contatto per un'auto"). **Mai** "ci siamo sentiti": al telefono li ha sentiti Loris. Se firma **Loris**, il richiamo è la chiamata.
+- **Mai presentarci come "quelli che te la cercano in tutta Europa"** come se il lead lo sapesse già: Loris non ha mai fatto quel claim al telefono. La ricerca in Europa si può dire come cosa che facciamo, non come cosa che "si ricorda".
+- **Niente richieste che costano fatica:** cercare un preventivo, scaricare un PDF, girarlo in chat = il lead si perde (B4 scartata).
+- **Non contro l'urgenza:** frasi tipo "non devi comprare domani" tolgono la voglia di rispondere ora (B7 scartata).
+- **Il tempo perso non è il pain giusto:** al cliente girare i concessionari tutto sommato piace (B3 scartata).
+- **Niente procrastinazione:** non è vero che la gente rimanda l'auto per anni (B5 scartata).
+- **Niente liste di modelli nell'hook:** chi cerca altro si sente escluso (B9 scartata).
+- **Non troppo corto:** una riga e basta è esagerato (B10 scartata).
+- **Il meccanismo del piazzale va spiegato:** il lead può non avere il contesto per capire "l'auto ferma in piazzale". Dire che il concessionario quelle auto le ha già comprate e che ferme gli costano.
+- **Cosa è piaciuto:** esempi specifici e concreti (la Serie 4 grigia con il pacchetto M), modelli da gioiellino (GLC, A7), "ci arrivi dopo anni di lavoro" → il regalo va fatto in modo ponderato, non di fretta. Copy snelli e diretti (B8).
+
+## Esito messaggio 1
+- **Tenute (nel doc):** B1, B2, B8 (B1 e B8 con il richiamo corretto, B8 con il meccanismo spiegato meglio).
+- Scartate: tutto il gruppo A, B3, B4, B5, B6, B7, B9, B10.
 
 ## Google Doc
 - Dove vanno le bozze tenute: doc "Messaggio 1: 21 Novembre" (`1_41RVuSSUCRLArgT5LvAuLleMn0ive6nLnvRTy9r_AQ`).

@@ -13,6 +13,9 @@
 - Quando Simone dice "fermati", ci si ferma: niente copy non richiesti.
 - Quando si aggiornano gli approvati, si aggiorna **solo** quello che è stato chiesto.
 - Italiano, tono diretto e informale; feedback franchi.
+- **Quale skill usare (emerso a novembre 2026):**
+  - **Skill di Andrei Pascu** quando si dà al modello **libertà** sul modo di scrivere: interpreta da sola come scrivere il copy e suona molto più naturale, da parlato. Nella riattivazione WhatsApp ha battuto nettamente Humanizer.
+  - **Humanizer + Structural Humanizer** quando il copy ha già **tanti paletti** (es. le ads della campagna 5 concetti): lì rende meglio.
 
 ## Lessico
 
