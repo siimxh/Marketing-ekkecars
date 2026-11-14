@@ -1,6 +1,6 @@
 # I3 Vendita diretta: riscrittura del copy
 
-> Doc di lavoro: Google Doc "Format 1: Vendita Diretta". Stato al 14/11/2026: tornate 1 e 2 (VD1-VD20) mandate in chat per la revisione. **Processo:** le bozze si revisionano in chat; sul doc va solo quello che si decide insieme.
+> Doc di lavoro: Google Doc "Format 1: Vendita Diretta". Stato al 14/11/2026: revisione delle tornate 1 e 2 fatta; tenute VD1, VD2, VD4, VD5, VD7, VD8, VD9, VD10 (sul doc, VD1 e VD10 con le modifiche chieste). Tornata 2 (andreiskill) scartata in blocco: si prosegue con Humanizer. Tornata 3 (VD21-VD30) in revisione in chat. **Processo:** le bozze si revisionano in chat; sul doc va solo quello che si decide insieme.
 
 ## Decisioni prese (grilling)
 
@@ -180,3 +180,91 @@
 **Body:** "Funziona così. Tu ci dici cosa vuoi; va bene anche un'idea vaga, la chiariamo insieme. Noi la cerchiamo tra fornitori fidati in tutta Europa, e sul prezzo trattiamo noi. Lo facciamo dal 2020, e decine di nostri clienti hanno risparmiato migliaia di franchi rispetto al concessionario classico. Entro 48 ore hai la proposta in videochiamata. Prima della consegna la controllano i nostri tecnici, e se c'è un difetto lo sistemiamo noi."
 
 - **Leva:** Hook con "CTA di lettura" (dammi trenta secondi) per gestire l'obiezione "skippo". È l'elemento di test della tornata, come vuole il metodo: base solida + una sola novità.
+
+## Esito revisione tornate 1-2
+
+- **Tenute:** VD1 (tolta la ripetizione nell'hook), VD2, VD4, VD5, VD7, VD8, VD9, VD10 ("in videochiamata" → "ti mostriamo").
+- **Scartate:** VD3 (hook lungo, apre con "venditore"), VD6 (ammettere di non essere i più economici senza compensare; concetto da tenere: anche i più economici hanno piazzale, rata bassa e riscatto altissimo), VD11-VD20 (skill di Andrei abbandonata).
+- **Regole emerse:** hook corti e senza ripetizioni; niente "venditore" in apertura; body schietti; niente "videochiamata" nell'ad; il controcorrente funziona come promessa concreta; frase del concessionario + "si può fare diversamente"; tono da amico.
+
+## Tornata 3 – contesto + Humanizer + Structural Humanizer
+
+### VD21 – Guarda cosa ti vendono i più economici 🟡
+
+**Hook:** "Per un'auto da più di 35'000 franchi non siamo i più economici della Svizzera. Ma guarda bene cosa ti vendono quelli che lo sono."
+
+**Body:** "Anche loro hanno un piazzale pieno, e quelle auto devono uscire. Così ti propongono una rata bassissima, con un riscatto finale altissimo che scopri solo tra tre anni. Noi un piazzale da svuotare non ce l'abbiamo. Ci dici cosa vuoi, anche solo un'idea, la cerchiamo tra fornitori fidati in tutta Europa e trattiamo noi il prezzo. E se la rata tra tre anni ti mette nei guai, te lo diciamo. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Il concetto di VD6 compensato come mi hai chiesto: anche i più economici hanno il piazzale, la rata bassa e il riscatto alto. ⚠️ "Riscatto finale altissimo" detto dei grandi è una tua affermazione: va bene come claim pubblico o lo ammorbidiamo?
+
+### VD22 – Un consiglio da amico 🟡
+
+**Hook:** "Un consiglio da amico, prima di spendere più di 35'000 franchi per un'auto: non partire dal concessionario."
+
+**Body:** "Parti da te. Cosa ti serve, quanto vuoi spendere, anche se per ora hai solo un'idea. Poi lascia che la cerchiamo noi, tra fornitori fidati in tutta Europa, e che sul prezzo trattiamo noi. Lo facciamo dal 2020, per centinaia di clienti. Entro 48 ore te la mostriamo. Non ti convince? Si cerca ancora. E prima della consegna passa dai nostri tecnici: se c'è un difetto, lo sistemiamo noi."
+
+- **Leva:** Il tono da amico di VD5, con un hook più corto e un consiglio secco.
+
+### VD23 – Gliela consegno domani 🟡
+
+**Hook:** "Un'auto da più di 35'000 franchi, "gliela consegno anche domani". Bello. Ma è quella che volevi?"
+
+**Body:** "Se te la danno domani, è perché ce l'hanno già in piazzale. E se ce l'hanno già, devono venderla. Noi ci mettiamo 20 giorni, perché l'auto la cerchiamo dopo che ci hai detto cosa vuoi, anche solo un'idea, tra fornitori fidati in tutta Europa. Entro 48 ore te la mostriamo, sul prezzo trattiamo noi, e prima della consegna la controllano i nostri tecnici. Venti giorni per quella giusta, invece di domani per quella che c'era."
+
+- **Leva:** Stessa meccanica di VD7 (la frase del concessionario, poi "si può fare diversamente"), e i 20 giorni ribaltati in vantaggio.
+
+### VD24 – Questa non prenderla 🟡
+
+**Hook:** "Cerchi un'auto da più di 35'000 franchi? Da noi potresti sentirti dire: "Questa non prenderla.""
+
+**Body:** "Sembra strano, detto da chi vende auto. Ma noi non abbiamo un piazzale da svuotare, quindi non c'è nessuna auto che ti dobbiamo rifilare. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Se quella che hai in testa tra tre anni si rivende male, o la rata ti pesa, te lo diciamo prima. Quando è quella giusta, trattiamo noi il prezzo, la controllano i nostri tecnici e in 20 giorni è sotto casa tua."
+
+- **Leva:** Il controcorrente di VD2, detto con una frase che Beppe può dire in camera.
+
+### VD25 – Zero concessionari 🟡
+
+**Hook:** "Un'auto da più di 35'000 franchi. Zero concessionari. Ti spiego come."
+
+**Body:** "Ci dici cosa vuoi. Basta un'idea. La cerchiamo in tutta Europa e sul prezzo trattiamo noi. In 48 ore te la mostriamo: se non è lei, si cerca ancora. Prima della consegna la controllano i nostri tecnici. In 20 giorni è sotto casa tua."
+
+- **Leva:** La sorella di VD8: hook di tre frasi corte, body all'osso (circa 20 secondi in tutto).
+
+### VD26 – Quella che vuoi tu, un po' meno 🟡
+
+**Hook:** "Un'auto da più di 35'000 franchi la trovi ovunque. Quella che vuoi tu, un po' meno."
+
+**Body:** "Perché in concessionario scegli tra quelle che hanno. Noi facciamo al contrario: prima ci dici cosa vuoi, anche solo un'idea, poi la cerchiamo tra fornitori fidati in tutta Europa. Confrontiamo allestimenti e chilometri, trattiamo noi il prezzo, ed entro 48 ore te la mostriamo. Non ti convince? Si cerca ancora. Prima della consegna passa dai nostri tecnici, e se c'è un difetto lo sistemiamo noi."
+
+- **Leva:** Stessa forma di VD9 e VD10: un'affermazione snella con la svolta nella seconda frase.
+
+### VD27 – Una cosa sola 🟡
+
+**Hook:** "Per comprare un'auto da più di 35'000 franchi con noi ti chiediamo una cosa sola. Il resto è affare nostro."
+
+**Body:** "La cosa sola: dirci cosa vuoi. Va bene anche "un SUV comodo per la famiglia". Poi tocca a noi. Uno, la cerchiamo tra fornitori fidati in tutta Europa. Due, trattiamo il prezzo. Tre, entro 48 ore te la mostriamo, e se non ti convince si cerca ancora. Quattro, importazione, burocrazia e controllo dei nostri tecnici. In 20 giorni è sotto casa tua."
+
+- **Leva:** Riprende quello che ti è piaciuto di VD4 (passi asimmetrici, l'esempio del SUV) con un attacco diverso.
+
+### VD28 – Tre sabati 🟡
+
+**Hook:** "Comprare un'auto da più di 35'000 franchi non dovrebbe costarti tre sabati."
+
+**Body:** "Eppure di solito va così: un concessionario la mattina, uno il pomeriggio, e il sabato dopo si ricomincia. Con noi il sabato resta tuo, e l'auto che arriva è quella che volevi, non quella che c'era. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Sul prezzo trattiamo noi. Entro 48 ore te la mostriamo. Prima della consegna passa dai nostri tecnici, e in 20 giorni è sotto casa tua."
+
+- **Leva:** Il tempo come attacco, ma con la posta in gioco vera (l'auto giusta), perché la comodità da sola non basta. I "tre sabati" sono un modo di dire, non un dato.
+
+### VD29 – A grandi linee 🟡
+
+**Hook:** "Hai in testa un'auto da più di 35'000 franchi, ma solo a grandi linee? Perfetto, si parte da lì."
+
+**Body:** "Non serve sapere modello e allestimento. Ci dici come la usi, quanto vuoi spendere e cosa ti piace. Al resto pensiamo noi: la cerchiamo tra fornitori fidati in tutta Europa, confrontiamo e trattiamo il prezzo. Entro 48 ore te la mostriamo. Se non è lei, si cerca ancora, senza fretta: non abbiamo nessuna auto che deve uscire. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Parla all'avatar che arriva con un'idea vaga (la maggior parte dei lead) e gli toglie l'imbarazzo di non sapere ancora cosa vuole.
+
+### VD30 – Pensaci adesso 🟡
+
+**Hook:** "Tra tre anni vorrai cambiare l'auto da più di 35'000 franchi che compri oggi. Pensaci adesso."
+
+**Body:** "Perché è lì che si vede se hai scelto bene: quanto vale e quanto devi ancora pagare. Noi ci pensiamo prima. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo e ti diciamo se la rata regge e se l'auto si rivende bene, anche quando la risposta è no. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Variante di VD9 (hook snello con un messaggio), ma con un invito diretto invece di un'affermazione.
