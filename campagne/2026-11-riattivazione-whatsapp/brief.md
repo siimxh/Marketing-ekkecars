@@ -40,7 +40,7 @@ Riattivare i lead B2C vecchi (inattivi da 6+ mesi) con una sequenza WhatsApp. Il
 | Q3 | Promessa | **"Mandaci l'auto o l'offerta che hai trovato: te ne troviamo una migliore."** È un bait voluto: poi chiama Loris |
 | Q4 | Chi firma | **Giuseppe, CEO di ekkecars** |
 | Q5 | Apertura | Diversa tra le varianti: richiamo neutro ("qualche mese fa ci avevi scritto…"), richiamo + chi siamo in una riga, hook diretto. Mai dire se ha comprato o no |
-| Q6 | Setup tecnico WhatsApp | Fuori da questa chat: qui si scrivono solo i copy |
+| Q6 | Setup tecnico WhatsApp | Fuori da questa chat: qui si scrivono solo i copy. **L'automazione la imposta Ivan Lao** (template, invii nelle 5 date, risposte nel CRM con la nota) |
 | Q8 | Soglia 35'000 | Ha senso un riferimento ad auto da almeno 35'000 franchi, ma **meglio prendere un lead in più e scartarlo dopo** che perderlo. Auto sotto soglia: scartate da Loris |
 | Q9 | Tono | **Niente parolacce**, ma tono diretto e simile alla lavagna ("senza farti fregare") |
 | Q10 | Lunghezza | Mista tra le varianti |
@@ -77,6 +77,7 @@ Il messaggio è firmato da Giuseppe, ma chiama Loris: in apertura di chiamata va
 - Scartate: tutto il gruppo A, B3, B4, B5, B6, B7, B9, B10.
 
 ## Google Doc
+- Doc di strategia per Loris: "Riattivazione 21 Nov - 12 Dic: Strategia" (`1jWEBTOXb7fZeEEyZmUHOnU9YMR9K2CmtEBzANBHcSDE`).
 - Dove vanno le bozze tenute: doc "Messaggio 1: 21 Novembre" (`1_41RVuSSUCRLArgT5LvAuLleMn0ive6nLnvRTy9r_AQ`).
 - Stile di riferimento: doc "Brainstorming idee campaign z" (`17eALVM6cOHk9kzcyJ1XVraALJYv-8XCbIkoGNio5q30`). Poppins, titolo blu, sezioni con bordo sotto, ogni voce "ID · Titolo" e testo sotto.
 
