@@ -268,3 +268,23 @@
 **Body:** "Perché è lì che si vede se hai scelto bene: quanto vale e quanto devi ancora pagare. Noi ci pensiamo prima. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo e ti diciamo se la rata regge e se l'auto si rivende bene, anche quando la risposta è no. Prima della consegna la controllano i nostri tecnici."
 
 - **Leva:** Variante di VD9 (hook snello con un messaggio), ma con un invito diretto invece di un'affermazione.
+
+## Esito revisione tornata 3
+
+- **Tenute (sul doc):** VD21, VD24, VD25, VD28.
+- **Tenute con riscrittura (in revisione in chat):** VD26 (aggiungere pain che spiega il take), VD30 (spiegare il take: riscatto alto, permuta che costa).
+- **Scartate:** VD22 (non convince), VD23 (l'ad no, ma la frase "se ce l'hanno già, devono venderla" sì), VD27 (hook brutto; restano il bello/noioso e il SUV per la famiglia), VD29 (buono togliere la pressione, ma non regge da sola).
+
+### Riscritture
+
+#### VD26 – Quella che vuoi tu, un po' meno (v2)
+
+**Hook:** "Un'auto da più di 35'000 franchi la trovi ovunque. Quella che vuoi tu, un po' meno."
+
+**Body:** "Lo so: vuoi il gancio traino, il colore beige e proprio quell'allestimento. E so ancora meglio che in concessionario tutto insieme non lo trovi quasi mai. Una cosa sì, forse due, a volte nessuna. Perché lì scegli tra quelle che hanno. Noi facciamo al contrario: ci dici cosa vuoi, nei dettagli o anche solo a grandi linee, e la cerchiamo tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo ed entro 48 ore te la mostriamo. Prima della consegna passa dai nostri tecnici."
+
+#### VD30 – Pensaci adesso (v2)
+
+**Hook:** "Tra tre anni vorrai cambiare l'auto da più di 35'000 franchi che compri oggi. Pensaci adesso."
+
+**Body:** "È lì che scopri se hai comprato bene, e da chi. In tanti si ritrovano un riscatto finale altissimo e un'auto che vale meno di quello che devono ancora pagare, con una permuta che invece di aiutarli costa ancora un botto. Noi ci pensiamo prima. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo e ti diciamo se la rata regge, anche quando la risposta è no. Prima della consegna la controllano i nostri tecnici."
