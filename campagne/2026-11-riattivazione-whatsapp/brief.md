@@ -32,7 +32,29 @@ Riattivare i lead B2C vecchi (inattivi da 6+ mesi) con una sequenza WhatsApp. Il
 | Profili | 40-50 ditta individuale che vuole un deal e un regalino · 35-40 che cerca una via di mezzo (Kuga, Formentor, Golf) · 50+ che vuole il gioiellino (GLC, GLE, Serie 4, A5/S5, A7/S7) |
 
 ## Decisioni del grilling
-*(si riempie man mano)*
+
+| # | Tema | Decisione |
+|-|-|-|
+| Q1 | Quanti messaggi scriviamo | Si pianifica l'arco di tutti e 5 (ruolo e angolo di ognuno), ma i copy si scrivono **un messaggio alla volta**, partendo dal primo |
+| Q2 | Promo / scadenza | **Nessuna scadenza dichiarata nei copy**: solo l'angolo Natale |
+| Q3 | Promessa | **"Mandaci l'auto o l'offerta che hai trovato: te ne troviamo una migliore."** È un bait voluto: poi chiama Loris |
+| Q4 | Chi firma | **Giuseppe, CEO di ekkecars** |
+| Q5 | Apertura | Diversa tra le varianti: richiamo neutro ("qualche mese fa ci avevi scritto…"), richiamo + chi siamo in una riga, hook diretto. Mai dire se ha comprato o no |
+| Q6 | Setup tecnico WhatsApp | Fuori da questa chat: qui si scrivono solo i copy |
+| Q8 | Soglia 35'000 | Ha senso un riferimento ad auto da almeno 35'000 franchi, ma **meglio prendere un lead in più e scartarlo dopo** che perderlo. Auto sotto soglia: scartate da Loris |
+| Q9 | Tono | **Niente parolacce**, ma tono diretto e simile alla lavagna ("senza farti fregare") |
+| Q10 | Lunghezza | Mista tra le varianti |
+| Q11 | Struttura delle varianti | Struttura tipo ad: **attenzione → problema → soluzione → obiezioni → CTA**. Ogni variante ha un'etichetta con angolo e struttura |
+| Q12 | Lingua e valuta | Solo italiano, franchi |
+| Q13 | Regole generali | Valgono: mai "salone", "concessionario classico", non inventare, mai nomi di aziende. **Qui il deal / risparmio può essere un hook principale**. Social proof del repo, se serve, dal messaggio 2 |
+
+## Metodo bozze (A/B sulle skill)
+- **20 bozze** per messaggio: **10 "ordinarie"** (scritte da Claude, poi passate con Humanizer + Structural Humanizer) e **10 con la skill di Andrei Pascu**.
+- Scopo: capire con quale metodo andare avanti.
+
+## Google Doc
+- Dove vanno le bozze tenute: doc "Messaggio 1: 21 Novembre" (`1_41RVuSSUCRLArgT5LvAuLleMn0ive6nLnvRTy9r_AQ`).
+- Stile di riferimento: doc "Brainstorming idee campaign z" (`17eALVM6cOHk9kzcyJ1XVraALJYv-8XCbIkoGNio5q30`). Poppins, titolo blu, sezioni con bordo sotto, ogni voce "ID · Titolo" e testo sotto.
 
 ## Processo di scrittura
 1. Grilling sulle regole dei copy.
@@ -43,5 +65,4 @@ Riattivare i lead B2C vecchi (inattivi da 6+ mesi) con una sequenza WhatsApp. Il
 
 ## Punti aperti
 - Il gift / biscottino discusso in call (PDF top auto, regole per scegliere l'auto): ancora valido o superato dalla promessa?
-- Fine promo: sabato 12 o domenica 13?
 - Ford Kuga tra i profili: l'avatar in `contesto/02` ammette Ford solo per il Ranger.
