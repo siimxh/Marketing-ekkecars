@@ -46,7 +46,15 @@ Riattivare i lead B2C vecchi (inattivi da 6+ mesi) con una sequenza WhatsApp. Il
 | Q10 | Lunghezza | Mista tra le varianti |
 | Q11 | Struttura delle varianti | Struttura tipo ad: **attenzione → problema → soluzione → obiezioni → CTA**. Ogni variante ha un'etichetta con angolo e struttura |
 | Q12 | Lingua e valuta | Solo italiano, franchi |
+| Q14 | Arco dei 5 messaggi | Per ora: 1) regalo + promessa · 2) il piazzale del concessionario classico · 3) il "piazzale più grande" (Europa) + social proof · 4) perché noi + obiezione "non pago senza vederla" · 5) ultimo messaggio ("poi non ti scrivo più"). Si rivede dopo i dati del primo |
+| Q15 | Presentazione | Prima l'**hook**, poi "Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars". Mai "CEO" |
+| Q16 | Natale | Un angolo tra tanti, non in tutte le varianti |
+| Q17 | Obiezioni | Distribuite tra le varianti |
+| Q18 | A/B | Ogni skill sceglie liberamente angoli e strutture |
 | Q13 | Regole generali | Valgono: mai "salone", "concessionario classico", non inventare, mai nomi di aziende. **Qui il deal / risparmio può essere un hook principale**. Social proof del repo, se serve, dal messaggio 2 |
+
+## Nota per Loris
+Il messaggio è firmato da Giuseppe, ma chiama Loris: in apertura di chiamata va agganciato ("Giuseppe mi ha girato il tuo messaggio…").
 
 ## Metodo bozze (A/B sulle skill)
 - **20 bozze** per messaggio: **10 "ordinarie"** (scritte da Claude, poi passate con Humanizer + Structural Humanizer) e **10 con la skill di Andrei Pascu**.
