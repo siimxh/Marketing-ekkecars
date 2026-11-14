@@ -20,6 +20,8 @@ Prima di scrivere qualsiasi copy, leggi `contesto/` per intero. È la fonte di v
 | `campagne/` | Una cartella per campagna: brief, idee, copy in lavorazione e approvati |
 | `archivio/` | Lavori chiusi o mai andati online, con lo storico di cosa è stato bocciato e perché |
 
-## Campagna in corso
+## Campagne in corso
 
 `campagne/2026-11-cinque-concetti/` – 5 video con Beppe frontman, stesso adset, stessa CTA. Obiettivo: far trovare a Meta il concetto vincente, poi espanderlo con più angoli, hook e CTA.
+
+`campagne/2026-11-riattivazione-whatsapp/` – riattivazione WhatsApp dei lead B2C vecchi (5 messaggi, 21/11 → 12/12). Progetto separato dalle Meta Ads.

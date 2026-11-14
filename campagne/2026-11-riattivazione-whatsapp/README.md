@@ -1,5 +1,9 @@
 # Riattivazione WhatsApp lead inattivi – dicembre 2026
 
-> Progetto B2C separato dalle Meta Ads. Stato al 14 novembre 2026: **raccolta contesto**, in attesa della registrazione della call Simone–Hamza.
+Progetto B2C separato dalle Meta Ads. Sequenza di 5 messaggi WhatsApp ai lead vecchi (21/11 → 12/12).
 
-- `fonti/lavagna-miro.png`: lavagna Miro della sessione di progettazione (fa fede sulle decisioni finali, la registrazione va presa con le pinze).
+| File | Cosa contiene |
+|-|-|
+| `brief.md` | Obiettivo, cosa sappiamo, decisioni del grilling, punti aperti. **Parti da qui** |
+| `fonti/lavagna-miro.png` | Lavagna Miro della progettazione (fa fede) |
+| `fonti/call-simone-hamza-2026-11-14.md` | Sintesi della call Simone–Hamza (da prendere con le pinze) |
