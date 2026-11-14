@@ -288,3 +288,90 @@
 **Hook:** "Tra tre anni vorrai cambiare l'auto da più di 35'000 franchi che compri oggi. Pensaci adesso."
 
 **Body:** "È lì che scopri se hai comprato bene, e da chi. In tanti si ritrovano un riscatto finale altissimo e un'auto che vale meno di quello che devono ancora pagare, con una permuta che invece di aiutarli costa ancora un botto. Noi ci pensiamo prima. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo e ti diciamo se la rata regge, anche quando la risposta è no. Prima della consegna la controllano i nostri tecnici."
+
+## Esito riscritture
+
+- VD26 v2 e VD30 v2 approvate: sul doc in "Bozze tenute" e nella sezione "Le migliori" in cima (così Loris le vede subito).
+- Regola: da qui in avanti ogni bozza ha un po' di pain all'inizio del body, come VD26 e VD30.
+
+## Tornata 4 – contesto + Humanizer + Structural Humanizer (pain come VD26/VD30)
+
+### VD31 – Se ce l'hanno già 🟡
+
+**Hook:** "Entri in un concessionario per un'auto da più di 35'000 franchi e ti mostrano quella che hanno. Indovina perché."
+
+**Body:** "Se ce l'hanno già, devono venderla. L'hanno pagata, e ogni mese che resta lì gli costa. Così tu chiedi un SUV comodo per la famiglia e torni a casa con quello che c'era: il colore sbagliato, optional che non userai e la sensazione di esserti accontentato. Noi un piazzale da svuotare non ce l'abbiamo. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Riusa "se ce l'hanno già, devono venderla" e l'esempio del SUV. Il pain è il ritorno a casa con il compromesso.
+
+### VD32 – Le sere sugli annunci 🟡
+
+**Hook:** "Cerchi un'auto da più di 35'000 franchi e la sera ti addormenti sugli annunci?"
+
+**Body:** "Lo so come va. Filtri, salvi, confronti. Quella giusta è a Zurigo, quella vicina ha il motore sbagliato, e quella che sembra un affare ha qualcosa che non torna. Dopo un mese sei ancora lì, e sei stanco di cercare. Lascia fare a noi. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo ed entro 48 ore te la mostriamo. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Stesso schema di VD26 ("lo so come va" + dettagli concreti). Zurigo è un esempio, non un dato.
+
+### VD33 – Vuoi cambiarla ma non puoi 🟡
+
+**Hook:** "Vorresti cambiare la tua auto da più di 35'000 franchi, ma ti hanno detto che non conviene?"
+
+**Body:** "Succede a tantissimi. L'hai presa tre anni fa, la rata era comoda, e adesso scopri che vale meno di quello che devi ancora pagare. La permuta copre poco e il buco te lo porti nella prossima. Quell'auto e quel contratto erano pensati per chiudere la vendita, non per il tuo dopo. Stavolta partiamo da te. Ci dici cosa vuoi, anche solo un'idea, valutiamo gratis la tua permuta e cerchiamo in tutta Europa. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Il pain di VD30 visto da chi ci è già dentro (è anche il motivo per cui tanti lead si bloccano sulla permuta). ⚠️ Non promettiamo di chiudere il buco: il body non lo dice e non deve dirlo.
+
+### VD34 – Cose che non hai chiesto 🟡
+
+**Hook:** "Per un'auto da più di 35'000 franchi paghi anche cose che non hai mai chiesto."
+
+**Body:** "Il pacchetto sport che non ti serve, i cerchi più grandi, quel colore che "va via subito". In concessionario prendi l'allestimento che c'è, e paghi tutto quello che ci hanno messo sopra. A noi invece dici cosa ti serve, e basta. Anche solo un'idea, tipo un SUV comodo per la famiglia. Lo cerchiamo tra fornitori fidati in tutta Europa, con l'allestimento giusto, e sul prezzo trattiamo noi. Entro 48 ore te lo mostriamo. Prima della consegna lo controllano i nostri tecnici."
+
+- **Leva:** Pain sugli optional pagati e mai voluti, con un elenco concreto come in VD26.
+
+### VD35 – Da amico: non in piazzale 🟡
+
+**Hook:** "Te lo dico da amico: l'auto da più di 35'000 franchi non si sceglie in piazzale."
+
+**Body:** "Perché in piazzale scegli tra le poche che hanno, e ti portano verso quella che deve uscire. Ti dici che va bene così. Poi dopo sei mesi la guardi e pensi che volevi un'altra cosa. Da noi si parte da quello che vuoi tu, anche se è solo un'idea. La cerchiamo tra fornitori fidati in tutta Europa e sul prezzo trattiamo noi. E se una scelta non ti conviene, te lo diciamo. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Tono da amico (VD5) con il pain del ripensamento dopo sei mesi.
+
+### VD36 – Non questo sabato 🟡
+
+**Hook:** "Non comprare un'auto da più di 35'000 franchi questo sabato."
+
+**Body:** "Lo so, ti hanno detto che l'offerta scade. Ma pensa a cosa stai firmando: un'auto scelta tra quelle che avevano, con una rata fatta per chiudere oggi e un riscatto che vedrai tra tre anni. La fretta è loro, non tua. Noi non abbiamo auto che devono uscire. Ci dici cosa vuoi, anche solo un'idea, la cerchiamo in tutta Europa ed entro 48 ore te la mostriamo. Se ti convince, la controllano i nostri tecnici e in 20 giorni è sotto casa tua."
+
+- **Leva:** Hook con controversia (come VD24) e il pain della fretta (come VD7), spiegato fino al riscatto.
+
+### VD37 – Non quella che c'era 🟡
+
+**Hook:** "Un'auto da più di 35'000 franchi. Quella che vuoi, non quella che c'era."
+
+**Body:** "In concessionario chiedi un'auto e te ne propongono un'altra, perché la tua non ce l'hanno. Da noi no. Ci dici cosa vuoi, anche solo un'idea. La cerchiamo in tutta Europa e sul prezzo trattiamo noi. In 48 ore te la mostriamo: se non è lei, si cerca ancora. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Versione snella come VD25, con una sola riga di pain.
+
+### VD38 – Questa è un'occasione 🟡
+
+**Hook:** "Quante volte ti hanno detto "questa è un'occasione" per un'auto da più di 35'000 franchi?"
+
+**Body:** "E quante volte era un'occasione per te, e non per chi doveva svuotare il piazzale? A un certo punto non sai più a chi credere. Per questo da noi funziona al contrario: ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Nessuna auto da piazzarti, quindi niente "occasioni". Se una scelta non ti conviene, te lo diciamo. Prima della consegna la controllano i nostri tecnici, e in 20 giorni è sotto casa tua."
+
+- **Leva:** La frase del concessionario ribaltata con una domanda; il pain è la sfiducia.
+
+### VD39 – Il SUV comodo per la famiglia 🟡
+
+**Hook:** "Hai chiesto un SUV da più di 35'000 franchi, comodo per la famiglia. Ti hanno venduto quello che avevano."
+
+**Body:** "Bagagliaio più piccolo di come pensavi, consumi che non ti aspettavi, e i sedili dietro che con i seggiolini sono una tortura. Te ne accorgi la prima domenica che parti con tutti. Noi partiamo da come la usi: quanti siete, quanti chilometri fai, cosa ci carichi. Poi la cerchiamo tra fornitori fidati in tutta Europa e trattiamo noi il prezzo. Entro 48 ore te la mostriamo. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** L'esempio del SUV diventa tutta l'ad. Il pain è la prima domenica in famiglia.
+
+### VD40 – Accontentarsi 🟡
+
+**Hook:** "Un'auto da più di 35'000 franchi te la tieni per anni. Vale la pena accontentarsi?"
+
+**Body:** "Succede spesso: arrivi con un'idea precisa ed esci con un compromesso. Il colore va bene lo stesso, l'allestimento quasi, il prezzo pazienza. E poi ci giri tutti i giorni. Noi l'auto la cerchiamo dopo che ci hai detto cosa vuoi, anche solo un'idea, tra fornitori fidati in tutta Europa. Trattiamo noi il prezzo ed entro 48 ore te la mostriamo. Se non è lei, si cerca ancora. Prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Il pain del compromesso che ti porti dietro ogni giorno; hook corto con una domanda.
