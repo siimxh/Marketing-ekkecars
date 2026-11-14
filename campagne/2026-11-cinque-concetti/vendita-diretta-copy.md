@@ -1,6 +1,6 @@
 # I3 Vendita diretta: riscrittura del copy
 
-> Doc di lavoro: Google Doc "Format 1: Vendita Diretta". Stato al 14/11/2026: tornata 1 (VD1-VD10) in revisione.
+> Doc di lavoro: Google Doc "Format 1: Vendita Diretta". Stato al 14/11/2026: tornate 1 e 2 (VD1-VD20) mandate in chat per la revisione. **Processo:** le bozze si revisionano in chat; sul doc va solo quello che si decide insieme.
 
 ## Decisioni prese (grilling)
 
@@ -17,7 +17,7 @@
 | A/B test | Tornata 1: contesto + Humanizer + Structural Humanizer. Tornata 2: skill del corso (andreiskill), da zero, senza correzioni |
 | Descrizione Meta | Solo sulle vincitrici |
 
-## Tornata 1
+## Tornata 1 – contesto + Humanizer + Structural Humanizer
 
 ### VD1 – Il giro l'hai già fatto 🟡
 
@@ -98,3 +98,85 @@
 **Body:** "La parte bella è scegliere. Ci dici cosa vuoi, anche solo un'idea, ed entro 48 ore ti presentiamo in videochiamata quella che abbiamo trovato tra i nostri fornitori in tutta Europa. Se non è lei, si cerca ancora. Quella noiosa la facciamo noi: trattare sul prezzo, importarla, la burocrazia, il trasporto. E prima che arrivi la controllano i nostri tecnici. Se c'è un difetto, lo sistemiamo noi, non tu."
 
 - **Leva:** Divide l'acquisto in "bello" (tuo) e "noioso" (nostro): il processo c'è, ma raccontato come lavoro che ti togliamo.
+
+## Tornata 2 – andreiskill (metodo Andrei Pascu)
+
+### VD11 – La stai pagando troppo? 🟡
+
+**Hook:** "Stai per spendere più di 35'000 franchi per un'auto. Come fai a sapere che non la stai pagando troppo?"
+
+**Body:** "In concessionario un confronto vero non te lo fa nessuno: vedi solo le auto che hanno loro. Noi confrontiamo per te. Ci dici cosa vuoi, anche solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa, mettendo a confronto allestimenti, chilometri e prezzi. Poi sul prezzo trattiamo noi. Entro 48 ore hai la proposta in videochiamata, e prima della consegna l'auto passa dai nostri tecnici. Se c'è un difetto, lo sistemiamo noi."
+
+- **Leva:** Pain point 3 (pagare troppo) come domanda che il target si fa già. Rischio: il prezzo è vicino al main hook. La domanda è sul "come fai a saperlo", non su "costiamo meno", ma va valutato.
+
+### VD12 – La lista che si accorcia 🟡
+
+**Hook:** "Quante delle cose che volevi c'erano davvero nell'ultima auto da più di 35'000 franchi che hai comprato?"
+
+**Body:** "Il colore, il cambio automatico, il gancio traino, il tetto panoramico. Di solito qualcosa si perde per strada, perché in concessionario scegli tra quello che hanno. Da noi la lista la scrivi tu, anche se all'inizio è solo un'idea, e la cerchiamo tra fornitori fidati in tutta Europa. Entro 48 ore hai la proposta in videochiamata. Manca qualcosa? Si cerca ancora. Prima della consegna la controllano i nostri tecnici, e in 20 giorni è sotto casa tua."
+
+- **Leva:** Show don't tell: la lista concreta al posto di "non trovi quello che vuoi". Attenzione: si avvicina al concetto Q1 "La lista di Marco", candidato al quinto posto nello stesso adset.
+
+### VD13 – Convinto, non scelto 🟡
+
+**Hook:** "Ti è mai capitato di uscire da un concessionario con un'auto da più di 35'000 franchi e la sensazione di essere stato convinto, più che di aver scelto?"
+
+**Body:** "Non è colpa del venditore. Deve far uscire le auto che ha già pagato: non è cattiveria, è matematica. Noi un piazzale da svuotare non ce l'abbiamo. L'auto la cerchiamo solo dopo che ci hai detto cosa vuoi, anche se è solo un'idea, tra fornitori fidati in tutta Europa. E se una scelta non ti conviene, te lo diciamo. Quando è quella giusta, passa dai nostri tecnici e in 20 giorni è sotto casa tua."
+
+- **Leva:** Pain point emotivo (sentirsi spinti) + la frase già testata "non è cattiveria, è matematica". Il controcorrente arriva come conseguenza logica: niente stock, quindi possiamo dire di no.
+
+### VD14 – Tra tre anni, il conto 🟡
+
+**Hook:** "Stai per firmare un leasing per un'auto da più di 35'000 franchi? Tra tre anni potresti scoprire che vale meno di quello che devi ancora pagare."
+
+**Body:** "Succede quando auto e contratto vengono scelti per chiudere la vendita di oggi, e nessuno pensa a come starai tu dopo. Noi partiamo da te: come usi l'auto, quanto vuoi spendere, cosa hai da dare in permuta, che valutiamo gratis. Poi la cerchiamo tra fornitori fidati in tutta Europa, trattiamo il prezzo e ti diciamo se la rata regge anche tra tre anni. Prima della consegna, i nostri tecnici la controllano da cima a fondo."
+
+- **Leva:** Conseguenza del non agire (la trappola del leasing) nell'hook, in versione leggera, senza valore residuo né acconto. Rischio: è il pain più forte, ma anche il più vicino al "troppo tecnico".
+
+### VD15 – Le sere sugli annunci 🟡
+
+**Hook:** "Cerchi un'auto da più di 35'000 franchi e la sera scorri annunci sul divano finché ti si chiudono gli occhi?"
+
+**Body:** "Filtri, confronti, salvi, e alla fine non sai di quale fidarti. Quel lavoro lascialo a noi: è il nostro mestiere dal 2020. Ci dici cosa cerchi, anche solo un'idea. Noi confrontiamo allestimenti, chilometri e prezzi tra fornitori fidati in tutta Europa, e sul prezzo trattiamo noi. Entro 48 ore ti presentiamo la migliore in videochiamata. Prima della consegna passa dai nostri tecnici: se c'è un difetto, lo sistemiamo noi."
+
+- **Leva:** Pain point 4 (le sere su AutoScout) con una scena specifica, senza nominare la piattaforma. Autorità (dal 2020) usata per giustificare "lascialo a noi".
+
+### VD16 – Perché costa quello che costa 🟡
+
+**Hook:** "Perché un'auto da più di 35'000 franchi in concessionario costa quello che costa? Te lo spiego in dieci secondi."
+
+**Body:** "Il concessionario l'ha già comprata e pagata. Ogni mese che resta ferma in piazzale gli costa interessi e spazio, e quel costo finisce nel prezzo. Noi l'auto la compriamo solo dopo che ci hai detto cosa vuoi, anche se è solo un'idea. La cerchiamo tra fornitori fidati in tutta Europa e trattiamo noi. Così clienti come Michele, Brandon e Stefano hanno risparmiato migliaia di franchi rispetto al concessionario classico. E prima della consegna la controllano i nostri tecnici."
+
+- **Leva:** Catena logica (conferma → motivo → conclusione) e social proof sul risparmio con i nomi. Rischio doppio: il meccanismo del piazzale è l'angolo di I1 (storytelling, stesso adset) e il prezzo si avvicina al main hook.
+
+### VD17 – Dal primo messaggio a casa tua 🟡
+
+**Hook:** "Se stai pensando a un'auto da più di 35'000 franchi, ecco esattamente cosa succede se la cerchi con noi. Dal primo messaggio a quando ce l'hai sotto casa."
+
+**Body:** "Oggi ci dici cosa vuoi, anche solo "un SUV comodo per la famiglia". Noi la cerchiamo tra fornitori fidati in tutta Europa e trattiamo il prezzo. Entro 48 ore te la presentiamo in videochiamata, e decidi tu. Se dici sì, importazione e burocrazia le gestiamo noi, i nostri tecnici la controllano e in 20 giorni è sotto casa tua. Tu, in tutto questo, hai fatto una cosa sola: dirci cosa volevi."
+
+- **Leva:** Chiarezza post-click: la linea del tempo concreta toglie l'ansia del "come funziona". Chiude richiamando lo sforzo minimo. Strutturalmente è la più vicina all'idea originale dei passi.
+
+### VD18 – Due modi di scegliere 🟡
+
+**Hook:** "Un'auto da più di 35'000 franchi si può scegliere in due modi: partendo da quello che c'è, o partendo da te."
+
+**Body:** "Nel concessionario classico si parte da quello che c'è: le auto in piazzale, gli allestimenti disponibili, la rata che fa chiudere oggi. Da noi si parte da te. Da cosa ti serve, anche se è solo un'idea. Da quanto vuoi spendere. Poi la cerchiamo tra fornitori fidati in tutta Europa e sul prezzo trattiamo noi. Entro 48 ore hai la proposta. E prima che arrivi a casa tua, la controllano i nostri tecnici."
+
+- **Leva:** Il concetto chiave ("si parte da te") ripetuto da tre angoli, come vuole il metodo per gli acquisti non impulsivi. Rischio: è vicino all'hook VH5 "Chi sceglie" dello storytelling, quindi possibile doppione sullo stesso pubblico.
+
+### VD19 – La frase del terzo concessionario 🟡
+
+**Hook:** "Cerchi un'auto da più di 35'000 franchi e al terzo concessionario ti senti dire di nuovo: "Quel modello al momento non ce l'abbiamo, ma guardi questa"?"
+
+**Body:** "Da noi quella frase non esiste, perché un piazzale da svuotare non ce l'abbiamo. Ci dici il modello che volevi, o anche solo un'idea, e lo cerchiamo tra fornitori fidati in tutta Europa. Confrontiamo allestimenti e chilometri, trattiamo il prezzo, ed entro 48 ore te lo presentiamo in videochiamata. Non è lui? Si cerca ancora. Quando lo è, passa dai nostri tecnici e in 20 giorni è sotto casa tua."
+
+- **Leva:** Riprende la frase già approvata di S18 come scena riconoscibile: descrive il problema come il cliente l'ha vissuto. La risposta all'hook è immediata.
+
+### VD20 – Trenta secondi 🟡
+
+**Hook:** "Cerchi un'auto da più di 35'000 franchi? Dammi trenta secondi e ti risparmio i prossimi sabati in giro per concessionari."
+
+**Body:** "Funziona così. Tu ci dici cosa vuoi; va bene anche un'idea vaga, la chiariamo insieme. Noi la cerchiamo tra fornitori fidati in tutta Europa, e sul prezzo trattiamo noi. Lo facciamo dal 2020, e decine di nostri clienti hanno risparmiato migliaia di franchi rispetto al concessionario classico. Entro 48 ore hai la proposta in videochiamata. Prima della consegna la controllano i nostri tecnici, e se c'è un difetto lo sistemiamo noi."
+
+- **Leva:** Hook con "CTA di lettura" (dammi trenta secondi) per gestire l'obiezione "skippo". È l'elemento di test della tornata, come vuole il metodo: base solida + una sola novità.
