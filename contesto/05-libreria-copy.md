@@ -10,7 +10,7 @@ Punto aperto: nome del pulsante del Meta form (es. "Scopri di più"). Se si cono
 
 ## Hook approvati
 
-Soglia: **30'000 franchi** (confermata il 18/11/2026 dopo il feedback di Loris; prima era 30'000).
+Soglia: **30'000 franchi** (confermata il 18/11/2026 dopo il feedback di Loris; prima era 35'000).
 
 ### Nati per un'ad con pain (storytelling)
 
