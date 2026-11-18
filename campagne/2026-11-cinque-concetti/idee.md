@@ -106,7 +106,7 @@
   3. "Come faccio a sapere che è quella giusta per me?" → partiamo da come la usi e cosa vuoi spendere, e la scelta è tutta Europa, non un piazzale. Output: non ti accontenti di quella che c'è.
   4. "Online non mi fido." → dal 2020, centinaia di clienti; e non abbiamo nessuna auto che DEVE uscire, quindi non abbiamo motivo di rifilartene una. Output: nessuno ti spinge.
 - **Hook indicativi:**
-  - "Comprare un'auto da più di 35'000 franchi senza vederla in un concessionario? Ecco le quattro domande che ci fanno tutti."
+  - "Comprare un'auto da più di 30'000 franchi senza vederla in un concessionario? Ecco le quattro domande che ci fanno tutti."
   - "'Quindi l'auto non la vedo mai di persona?' Ce lo chiedono tutti. Rispondo a questa e alle altre tre."
   - (variante B) Loris: "Beppe, io un'auto da 40'000 franchi senza vederla non la compro." Beppe: "Giusto. Allora ascolta."
 - **Regole del concetto:** massimo 1-2 frasi per risposta; ogni risposta finisce sul risultato per il cliente; niente spiegazioni di processo oltre lo stretto necessario.
@@ -179,11 +179,11 @@
 - **Perché può vincere:** mostra in 30 secondi quanto è facile, lo stesso formato che si usa per scrivere a un amico.
 - **Rischio:** se sembra una chat vera è un falso: deve essere dichiaratamente una ricostruzione.
 
-### I19 – "Tre errori da 35'000 franchi" ❌
+### I19 – "Tre errori da 30'000 franchi" ❌
 - **Formato:** Beppe nel piazzale, lista numerata con testo a schermo. ~40 s.
-- **Angolo:** educativo: evitare gli errori classici di chi compra un'auto sopra i 35'000.
+- **Angolo:** educativo: evitare gli errori classici di chi compra un'auto sopra i 30'000.
 - **Cosa si vede:** "Uno: ti innamori di quella che vedi. Due: guardi solo la rata. Tre: compri quella che c'è, non quella che vuoi." Poi il ponte su ekkecars.
-- **Hook indicativo:** "Stai per spendere più di 35'000 franchi per un'auto? Tre errori che fanno quasi tutti."
+- **Hook indicativo:** "Stai per spendere più di 30'000 franchi per un'auto? Tre errori che fanno quasi tutti."
 - **Perché può vincere:** è coerente col nome del funnel (educativo), dà valore anche a chi non compra subito.
 - **Rischio:** "quasi tutti" va bene come linguaggio parlato, ma niente statistiche; l'errore sulla rata va trattato leggero.
 
@@ -208,7 +208,7 @@
 - **Hook indicativi:**
   - "Tra tre anni vorrai cambiare la tua auto. E scoprirai che non puoi."
   - "Ci chiamano in tantissimi per cambiare auto, e quasi tutti hanno lo stesso problema. Te lo disegno."
-  - "Stai per prendere un'auto da più di 35'000 franchi in leasing? Guarda questa linea prima di firmare."
+  - "Stai per prendere un'auto da più di 30'000 franchi in leasing? Guarda questa linea prima di firmare."
 - **Perché può vincere:** è un pain che pochi vedono arrivare ma che tanti hanno già vissuto. Si capisce con un disegno. E ci posiziona come quelli che pensano anche al dopo.
 - **Rischio:** nessun numero inventato. Se vogliamo un esempio con cifre, serve un caso reale (anonimo) da Loris. Leasing trattato in modo chiaro, non tecnico.
 
@@ -404,7 +404,7 @@
 ### I41 – "Red flag, green flag" ✅
 - **Formato:** trend red flag / green flag: Beppe dice una frase, a schermo 🚩 o 🟢. ~35 s.
 - **Angolo:** riconoscere quando ti stanno spingendo verso l'auto sbagliata.
-- **Hook:** "Stai per comprare un'auto da più di 35'000 franchi? Red flag e green flag. Quante ne hai sentite?"
+- **Hook:** "Stai per comprare un'auto da più di 30'000 franchi? Red flag e green flag. Quante ne hai sentite?"
 - **Perché può vincere:** trend conosciuto, ritmo alto, lo spettatore si autovaluta.
 - **Rischio:** le red flag devono riguardare il sistema, non insultare i venditori.
 

@@ -19,7 +19,7 @@
 - **Mai "salone"**: "concessionario" o "garage".
 - Nei confronti: **"concessionario classico"** (circa il 90% dei casi, senza appesantire). La campagna si contrappone al modello classico.
 - Si parla di **franchi**, anche per i risparmi.
-- Il budget nell'hook è **35'000 franchi** ("più di 35'000 franchi").
+- Il budget nell'hook è **30'000 franchi** ("più di 30'000 franchi").
 - Italiano corretto e chiaro: niente frasi ambigue o costruite male.
 
 ## Tono

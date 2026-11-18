@@ -4,7 +4,7 @@
 
 - **Età:** 32-62 anni
 - **Zona:** Svizzera tedesca + Ticino (svizzeri o con permesso B/C)
-- **Budget:** auto da **35'000 CHF in su**
+- **Budget:** auto da **30'000 CHF in su**
 - **Marchi:** tedesche e derivati (Audi, Mercedes, BMW, VW, Skoda, Seat, Cupra), Toyota, Volvo. Ford solo Ranger.
 - **Pagamento:** quasi sempre leasing
 - **Esperienza:** nel 99% dei casi ha già fatto il giro dei concessionari

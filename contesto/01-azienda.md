@@ -43,7 +43,7 @@ Al momento non c'è un focus prioritario tra le aree.
 ## 3. B2C – il modello
 
 - **Nessuno stock per i clienti:** l'auto si cerca su richiesta specifica del cliente, tra fornitori fidati in tutta Europa. ekkecars ha un piccolo piazzale in sede, ma **le auto vendute ai clienti non vengono da lì** (si può usare come ambientazione nei video).
-- **Fascia:** auto da **35'000 CHF in su**, medio-premium, quasi sempre in **leasing**.
+- **Fascia:** auto da **30'000 CHF in su**, medio-premium, quasi sempre in **leasing**.
 - **Vendita online/da remoto**, consegna in sede o con trasportatore.
 - Le transazioni possono avere componenti transfrontaliere.
 

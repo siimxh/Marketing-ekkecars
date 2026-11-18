@@ -10,29 +10,29 @@ Punto aperto: nome del pulsante del Meta form (es. "Scopri di più"). Se si cono
 
 ## Hook approvati
 
-Soglia corretta a **35'000 franchi** (nella lista incollata l'11/11 c'era 30'000 per errore).
+Soglia: **30'000 franchi** (confermata il 18/11/2026 dopo il feedback di Loris; prima era 30'000).
 
 ### Nati per un'ad con pain (storytelling)
 
 **VH5 – Chi sceglie**
-"Stai per comprare un'auto da più di 35'000 franchi. Una domanda sola: quell'auto la stai scegliendo tu, o te la sta scegliendo il piazzale?"
+"Stai per comprare un'auto da più di 30'000 franchi. Una domanda sola: quell'auto la stai scegliendo tu, o te la sta scegliendo il piazzale?"
 
 **S5 – La scelta già fatta**
-"Quando entri in un concessionario per un'auto da più di 35'000 franchi, la scelta è già stata fatta. Solo che non l'hai fatta tu."
+"Quando entri in un concessionario per un'auto da più di 30'000 franchi, la scelta è già stata fatta. Solo che non l'hai fatta tu."
 
 **S18 – Guardi questa**
-"'Quel modello al momento non ce l'abbiamo, ma guardi questa.' Se stai cercando un'auto da più di 35'000 franchi, questa frase l'hai già sentita."
+"'Quel modello al momento non ce l'abbiamo, ma guardi questa.' Se stai cercando un'auto da più di 30'000 franchi, questa frase l'hai già sentita."
 
 ### Nati per un'ad di vendita diretta (servizio)
 
 **VH4 – Senza metterci piede**
-"Cerchi un'auto da più di 35'000 franchi? Smetti di girare concessionari. In un minuto ti spiego come comprarla senza metterci piede."
+"Cerchi un'auto da più di 30'000 franchi? Smetti di girare concessionari. In un minuto ti spiego come comprarla senza metterci piede."
 
 **VH7 – Quattro passi**
-"Comprare un'auto da più di 35'000 franchi senza girare un solo concessionario e risparmiando? Si fa in quattro passi, vieni che ti spiego."
+"Comprare un'auto da più di 30'000 franchi senza girare un solo concessionario e risparmiando? Si fa in quattro passi, vieni che ti spiego."
 
 **N5 – Nessuno**
-"Il miglior concessionario per un'auto da 35'000 franchi? Nessuno. Te la troviamo noi."
+"Il miglior concessionario per un'auto da 30'000 franchi? Nessuno. Te la troviamo noi."
 
 ## Frasi forti già testate in revisione
 
