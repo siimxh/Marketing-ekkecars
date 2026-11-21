@@ -123,9 +123,11 @@ Con circa 1.270 lead WhatsApp, ondate da 200-300 e risposte attese del 5-10%, og
 
 | Segmento | Chi | Lead | Leva del messaggio | Dato da inserire nel template |
 |-|-|-:|-|-|
-| **S1 · Auto nota** | Modello preciso (Prezzo Basso, Sito WEB, parte di IT-IT) | ~413 | Richiamo con **la loro auto**: "ci avevi chiesto una Stelvio…". La promessa "te ne troviamo una migliore" diventa concreta | `{{auto}}` (da pulire lead per lead: "Alfa Stelvio", "Mercedes GLC"…) |
-| **S2 · Profilo noto** | Tipo di auto, budget, tempistica (Auto ITA, Profilazione, Furgoni, 21OTT, 10NOV) | ~646 | Richiamo con **il tipo**: "cercavi un SUV usato…" + rata + permuta | `{{tipo}}` (SUV, berlina, station, furgone…) dove c'è |
-| **S3 · Solo frustrazione** | 29MAG Modulo Acquisto (solo risposte "psicologiche") e lead con solo il contatto (26OTT, parte di IT-IT) | ~215 | Le **loro risposte**: girare tanti concessionari senza trovarla, "spinto" verso un'altra auto, poca trasparenza. Angolo del piazzale | nessuno (solo `{{nome}}`) |
+| **S1 · Auto nota** | Modello preciso o marca premium (Prezzo Basso, Sito WEB, parte di IT-IT), **escluse le auto economiche** | **323** | Richiamo con **la loro auto**: "ci avevi lasciato il contatto per un'Audi Q3…". La promessa "te ne troviamo una migliore" diventa concreta | `{{auto}}` **con l'articolo** ("un'Audi Q3", "una Mercedes GLC", "una BMW"): un solo campo |
+| **S2 · Profilo noto** | Tipo di auto (Auto ITA, Profilazione, Furgoni, 21OTT, 10NOV) + le auto economiche di S1 con un tipo noto | **639** | Richiamo con **il tipo**: "cercavi un SUV usato…" + rata + permuta | `{{tipo}}` con l'articolo ("un SUV usato", "una station wagon") |
+| **S3 · Solo frustrazione** | 29MAG, solo contatto, auto economiche e modelli non riconosciuti senza tipo | **312** | Le **loro risposte**: girare tanti concessionari senza trovarla, "spinto" verso un'altra auto, poca trasparenza. Angolo del piazzale | nessuno (solo `{{nome}}`) |
+
+**Regole (21/11):** in S1 niente auto economiche (500, Panda, Yaris, Polo, Captur, Mini…) e niente budget sotto i 20k: "una Fiat Panda non si compra tutti gli anni" suona male, quindi vanno in S2 se si conosce il tipo, altrimenti in S3 (53 lead spostati). I 37 modelli che lo script non riconosce vanno in S2 o S3. Il controllo lead per lead è in `_privato/Segmenti-da-controllare.xlsx`. Assegnazione: `script/segmenti.py`.
 
 - **Sito WEB (22)** e i lead **con una conversazione vera** vanno nella **prima ondata**: sono i più caldi, e le prime reazioni positive tengono alto il quality rating del numero.
 - **I 5 messaggi possono avere lo stesso arco per tutti** (brief Q14). Cambia solo **l'apertura** del messaggio 1 (e magari del 2) per segmento. Così i copy da scrivere restano pochi: 3 varianti dell'apertura, non 15 messaggi.
