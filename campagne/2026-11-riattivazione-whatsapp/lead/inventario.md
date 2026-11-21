@@ -5,7 +5,9 @@
 
 ## In una riga
 
-**1.689 iscrizioni → 1.482 persone uniche → 1.281 lead riattivabili** (1.274 via WhatsApp + 7 numeri fissi solo da chiamare).
+**1.689 iscrizioni → 1.482 persone uniche → 1.274 lead riattivabili** (1.267 via WhatsApp + 7 numeri fissi solo da chiamare).
+
+> Aggiornamento del 21/11 sera: tolti **7 lead che nelle chat WhatsApp di maggio avevano scritto "Disiscriviti"** (5 Prezzo Basso Timing, 1 Prezzo IT-IT, 1 Auto ITA). Le tabelle di dettaglio sotto sono ancora a 1.281: la differenza è solo questa.
 
 La stima del brief (500-700) era bassa di circa la metà.
 
@@ -62,7 +64,8 @@ Le colonne "Persone uniche" e "Nel perimetro" contano la persona nella campagna 
 | − Form compilato in tedesco | 144 | 1.338 |
 | − Nota del consulente: "parla tedesco" | 11 | 1.327 |
 | − Numero non valido (lo dice la nota) | 24 | 1.303 |
-| − Telefono vuoto o `#ERROR!` nel file | 22 | **1.281** |
+| − Telefono vuoto o `#ERROR!` nel file | 22 | 1.281 |
+| − Hanno chiesto la disiscrizione su WhatsApp (maggio 2026) | 7 | **1.274** |
 | di cui numero fisso (niente WhatsApp, solo chiamata) | 7 | |
 
 - **Duplicati:** 151 persone si sono iscritte a più campagne (120 due volte, 24 tre volte, 7 da quattro a sette volte). Le coppie più frequenti sono 25FEB Auto ITA con 15MAR Altamente profilante e con Prezzo Basso Timing. Come record si tiene il più recente; le note delle altre iscrizioni restano nel CSV (`id_persona`).

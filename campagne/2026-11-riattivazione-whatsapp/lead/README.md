@@ -16,7 +16,7 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 |-|-|-|
 | 1 | **Inventario** + revisione di Simone e Loris | ✅ fatta, revisione applicata (v2) → `inventario.md` |
 | 2 | Differenze tra campagne: richieste, tipo di lead, informazioni, tassi di contatto e risposta | da fare |
-| 3 | Voce dei lead (parole e auto da riusare nei messaggi) + proposta di segmenti e test (anche A/B sabato vs lunedì, orari scaglionati) | 🟡 parte 1 fatta (file), parte 2 da fare (108 chat) → `voce-dei-lead.md` |
+| 3 | Voce dei lead (parole e auto da riusare nei messaggi) + proposta di segmenti e test (anche A/B sabato vs lunedì, orari scaglionati) | ✅ fatta (file + 108 chat). Segmenti approvati → `voce-dei-lead.md` |
 | 4 | Costi WhatsApp via GoHighLevel (simulazioni a 5, 10, 15 messaggi) + rischi di blocco Meta | ✅ chiusa: 5 messaggi entro il 14/12 → `costi-e-rischi.md` |
 
 ## Decisioni prese (grilling del 21/11)
@@ -56,6 +56,8 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | Possibili duplicati (6) | Nessuna certezza: **si tengono entrambi** |
 | Telefoni illeggibili (22) | **Non si recuperano**: restano fuori |
 | Lingua: Poschiavo e "parla spagnolo" | **Dentro** (il lead di Poschiavo era già dentro con un'altra iscrizione in italiano) |
+| Segmenti | **Approvati i 3 segmenti** (S1 auto nota, S2 profilo noto, S3 solo frustrazione) |
+| Chi ha scritto "Disiscriviti" nelle chat di maggio (7) | **Fuori** (chi chiede stop esce da tutto) |
 | Lead seguiti da ex consulenti | **Nessun problema**: non si ricordano chi li ha chiamati, si ricordano solo che qualcuno gli ha parlato |
 
 ## File

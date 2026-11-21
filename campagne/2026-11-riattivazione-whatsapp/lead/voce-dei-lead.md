@@ -1,7 +1,7 @@
 # Voce dei lead e proposta di segmenti (tappa 3)
 
-> 21/11/2026. **Parte 1: fatta** (dal file Excel: risposte ai form, auto richieste, note di Loris e dei consulenti). **Parte 2: da fare** (le 108 chat WhatsApp su Google Doc).
-> Base: i 1.281 lead del perimetro (`inventario.md`). Le citazioni sono anonimizzate.
+> 21/11/2026. **Parte 1** (sezioni 1-4): dal file Excel, cioè risposte ai form, auto richieste, note di Loris e dei consulenti. **Parte 2** (sezione 5): le 108 chat WhatsApp su Google Doc.
+> Base: i lead del perimetro (`inventario.md`), **1.274** dopo l'esclusione dei 7 che su WhatsApp avevano scritto "Disiscriviti". Le citazioni sono anonimizzate.
 
 ## 1. Cosa rispondono quando glielo chiediamo noi (form)
 
@@ -61,7 +61,7 @@ Temi ricorrenti nei 548 lead con una conversazione (note di contenuto + WhatsApp
 
 I "gioiellini" del brief (GLC, GLE, Serie 4, A5/S5, A7) ci sono, insieme a un gruppo consistente di **Alfa** e di **SUV medi tedeschi**. In coda ci sono le piccole (500, Panda, Yaris), che sono sotto soglia.
 
-## 4. Lead che contano per i messaggi
+## 4. Cosa conta per i messaggi
 
 1. **Parlano in rata, non in prezzo.** "250 al mese", "4/500 CHF", "acconto 0". Un messaggio che parla solo di "migliore offerta" su un'auto da 40'000 può non arrivargli. "La rata giusta per l'auto che vuoi" parla la loro lingua. (Il prezzo resta fuori come hook principale, ma nella riattivazione il deal è ammesso: brief Q13.)
 2. **La permuta è dappertutto.** Metà dei profilati ce l'ha, ed è il blocco storico (contesto, sezione 4). Una riga tipo "e valutiamo anche la tua" toglie un'obiezione prima che arrivi.
@@ -72,28 +72,75 @@ I "gioiellini" del brief (GLC, GLE, Serie 4, A5/S5, A7) ci sono, insieme a un gr
 7. **Budget sotto soglia:** una parte grossa dichiara meno di 30-35k. Il brief ha già deciso: meglio un lead in più da scartare dopo che uno perso. Nei copy, quindi, niente soglia esplicita; al limite un riferimento indiretto al tipo di auto.
 8. **Dalla prima chat letta:** *"Mandami per favore la lista di cosa avete… prima di sprecare tempo in telefonate"* e *"Dipende se avete qualcosa per me di interessante"*. Vogliono vedere qualcosa di concreto **prima** della telefonata. Il bait "ti trovo un'offerta migliore" funziona se la risposta richiesta è facile (scrivere il modello), non "chiamaci".
 
-## 5. Proposta di segmenti (da discutere)
+## 5. Cosa scrivono su WhatsApp (108 chat lette)
 
-Con 1.274 lead WhatsApp, ondate da 200-300 e risposte attese del 5-10%, ogni gruppo ha qualche decina di risposte. Bastano **3 segmenti**, separati da quello che sappiamo del lead, non dalla campagna:
+Le chat sono di 108 lead italiani, quasi tutti di Prezzo Basso Timing (95) e Prezzo IT-IT (12). Sono di **due tipi**:
+
+| Tipo | Chat | Cosa sono |
+|-|-:|-|
+| **Gennaio-febbraio 2026: "Sofia"** | 67 | Bot di qualificazione per i lead appena entrati: "Ciao, sono Sofia di EKKECARS… un paio di cose rapide ok?", poi domande su tipo di auto, pagamento, tempi, permuta e 3 solleciti ("ultimo messaggio e poi non ti disturbo più"). **36 su 67 non hanno mai risposto** |
+| **Maggio 2026: risposte a un messaggio di Loris** | 41 | I lead rispondono a un messaggio arrivato da Loris ("Ciao Loris, grazie del pensiero", "mi fa molto piacere che mi hai pensato", "piacere leggerti") e poi entra Sofia con le sue domande. **Sembra una riattivazione già fatta a inizio maggio** (vedi la domanda in fondo) |
+
+### Come hanno risposto al messaggio di maggio (41 chat)
+
+| Risposta | Chat | Esempi |
+|-|-:|-|
+| **Già comprato / sono a posto** | 15 | "ho già preso una Toyota Yaris ma non si sa mai, il giorno che cambio ti farò sapere" · "Trovata, ma oltre cantone, perché qua era come cercare oro" · "ho già venduto e comprato, grazie ancora" |
+| **Interessato / chiede** | 12 | "mandamele qualche offerta" · "Offerte tipo???" · "mi ricordo di te! Avevo messo in pausa la ricerca… Che offerte ci sono?" · "Mi piacerebbe una Lexus RX 350h dopo il 2022, max 50'000" |
+| **Più avanti** | 7 | "a fine anno cambio auto e ci sentiamo" · "devo aspettare 2/3 mesi che sistemo alcune cose" · "sono via per vacanze" |
+| **Disiscriviti** | 7 (+2 ripensati) | tolti dal perimetro. Due hanno scritto "Disiscriviti" e subito dopo "ho sbagliato" / "sì, mi interessa": restano dentro |
+
+**Anche chi ha già comprato risponde con calore**, e quasi sempre ringrazia. Il tono personale ("Loris ti ha pensato") genera risposte, anche quando la risposta è "no".
+
+### Cosa ci dicono, con le loro parole
+
+1. **Vogliono vedere qualcosa di concreto, subito.** "mandamele qualche offerta" · "Volevo solo vedere le offerte, se me le puoi inviare" · "Ma la macchina che ho richiesto, avete qualcosa?" · "C'è l'hai sto Suzuki Vitara?" · "Avete qualcosa?" · "Dipende se avete qualcosa per me di interessante". → Il bait "te ne troviamo una migliore" crea un'aspettativa precisa: **Loris deve richiamare con qualcosa in mano** (anche solo 1-2 annunci trovati), non con altre domande.
+2. **Non sopportano le domande ripetute e i bot.** "Ma parlo con robot?" · "Stesse domande…" · "All'inizio avevi detto che erano qualche domanda veloce… Ora basta che son stufo" · "Ancora? Ho già detto tutto prima" · "Mi sembra di scrivere con un computer, senti, io adesso ti blocco" · "Guarda, non rispiego tutto, ho già parlato con Loris". → Chi risponde alla riattivazione deve parlare con **una persona**, non con un questionario.
+3. **Rata e tasso contano quanto il prezzo.** "potrei chiederti che tassi di leasing avete?" · "Con chi collaborate di solito delle società leasing?" · "dipende dal leasing, se si va tramite banca" · "Dipende de %" · "Rata leasing economica".
+4. **La permuta è il primo pensiero.** "voi non ritirate auto vero?" · "Permuta con la mia Fiat 500 elettrica, più conguaglio" · "ho un Pikap da vendere" · "Ho un'auto ma non vale più nulla". → La riga "valutiamo anche la tua" è confermata.
+5. **"Dove siete? Le auto dove sono?"** Uno, sentito che il servizio è online con poche auto in sede, ha chiuso con "No grazie, non mi interessa allora". → Nei messaggi successivi serve l'obiezione "posso vederla?" (è già il messaggio 4 dell'arco del brief).
+6. **Aspettano "l'occasione".** "Non ho fretta, aspetto l'occasione giusta per me" · "quando salta fuori l'occasione ed è l'auto che dico io…" · "La Macan, occasione, per 50'000".
+7. **Chi ha comprato altrove l'ha cercata lontano.** "Trovata ma oltre cantone, perché qua era come cercare oro". È la frase perfetta per l'angolo "il piazzale più grande" (messaggio 3).
+8. **Attenzione al "praticamente uguale".** Un lead scrive a Loris: "non avevi soddisfatto nessuna delle mie richieste: Q3 o Serie 3, mi proponesti A3; ti chiesi bianca e mi proponi un colore non richiesto; leasing al 6%; preventivo senza ritiro della mia auto". È esattamente il pain della bozza B1, ma fatto **da noi**. Su questo lead (e su chi ha già ricevuto proposte) B1 può ritorcersi contro.
+
+### Problemi del bot Sofia da sapere prima di partire
+
+- **Non gestisce lo stop.** A "Disiscriviti" risponde ripartendo con le domande, oppure con "Non posso gestire disiscrizioni". Con la riattivazione, uno stop ignorato diventa una segnalazione a Meta e un problema legale (UWG).
+- **Scarta lead buoni per errore.** A chi chiedeva una Lexus RX "max 50'000" ha risposto "il nostro servizio è pensato per veicoli a partire da 35'000 CHF, quindi non saremmo la soluzione più adatta".
+- **Rimanda al sito per le offerte**, ma il lead risponde "sul sito non mi fa vedere le offerte".
+- **Invia a orari assurdi:** primi messaggi alle 3, 4 e 5 del mattino.
+- **Ripete le domande** a cui il lead ha già risposto, e insiste anche quando il lead ha detto "sono a posto".
+
+➡️ **Durante la riattivazione, Sofia va spenta sul numero da cui partono i messaggi, o almeno va sistemata** (stop rispettato, niente domande ripetute, passaggio diretto a Loris). È coerente con quanto deciso nel brief: chi risponde, con qualsiasi messaggio, va nel CRM e lo chiama Loris.
+
+### Domanda aperta
+
+**A inizio maggio 2026 c'è già stata una riattivazione via WhatsApp a nome di Loris?** Le 41 chat di maggio lo fanno pensare. Se sì, ci servono: il testo mandato, a quanti lead, quanti hanno risposto. Sarebbe il nostro unico dato storico vero per stimare le risposte, e cambia la frase "è la prima riattivazione".
+
+## 6. Proposta di segmenti (da discutere)
+
+Con circa 1.270 lead WhatsApp, ondate da 200-300 e risposte attese del 5-10%, ogni gruppo ha qualche decina di risposte. Bastano **3 segmenti**, separati da quello che sappiamo del lead, non dalla campagna:
 
 | Segmento | Chi | Lead | Leva del messaggio | Dato da inserire nel template |
 |-|-|-:|-|-|
-| **S1 · Auto nota** | Modello preciso (Prezzo Basso, Sito WEB, parte di IT-IT) | ~418 | Richiamo con **la loro auto**: "ci avevi chiesto una Stelvio…". La promessa "te ne troviamo una migliore" diventa concreta | `{{auto}}` (da pulire lead per lead: "Alfa Stelvio", "Mercedes GLC"…) |
-| **S2 · Profilo noto** | Tipo di auto, budget, tempistica (Auto ITA, Profilazione, Furgoni, 21OTT, 10NOV) | ~647 | Richiamo con **il tipo**: "cercavi un SUV usato…" + rata + permuta | `{{tipo}}` (SUV, berlina, station, furgone…) dove c'è |
-| **S3 · Solo frustrazione** | 29MAG Modulo Acquisto (solo risposte "psicologiche") e lead con solo il contatto (26OTT, parte di IT-IT) | ~216 | Le **loro risposte**: girare tanti concessionari senza trovarla, "spinto" verso un'altra auto, poca trasparenza. Angolo del piazzale | nessuno (solo `{{nome}}`) |
+| **S1 · Auto nota** | Modello preciso (Prezzo Basso, Sito WEB, parte di IT-IT) | ~413 | Richiamo con **la loro auto**: "ci avevi chiesto una Stelvio…". La promessa "te ne troviamo una migliore" diventa concreta | `{{auto}}` (da pulire lead per lead: "Alfa Stelvio", "Mercedes GLC"…) |
+| **S2 · Profilo noto** | Tipo di auto, budget, tempistica (Auto ITA, Profilazione, Furgoni, 21OTT, 10NOV) | ~646 | Richiamo con **il tipo**: "cercavi un SUV usato…" + rata + permuta | `{{tipo}}` (SUV, berlina, station, furgone…) dove c'è |
+| **S3 · Solo frustrazione** | 29MAG Modulo Acquisto (solo risposte "psicologiche") e lead con solo il contatto (26OTT, parte di IT-IT) | ~215 | Le **loro risposte**: girare tanti concessionari senza trovarla, "spinto" verso un'altra auto, poca trasparenza. Angolo del piazzale | nessuno (solo `{{nome}}`) |
 
 - **Sito WEB (22)** e i lead **con una conversazione vera** vanno nella **prima ondata**: sono i più caldi, e le prime reazioni positive tengono alto il quality rating del numero.
 - **I 5 messaggi possono avere lo stesso arco per tutti** (brief Q14). Cambia solo **l'apertura** del messaggio 1 (e magari del 2) per segmento. Così i copy da scrivere restano pochi: 3 varianti dell'apertura, non 15 messaggi.
 
-## 6. Proposta di test
+## 7. Proposta di test
 
 - **Un test alla volta.** Con risposte del 5-10%, due gruppi da 250 distinguono solo differenze grandi (circa 5 punti). Mescolare giorno, orario e testo nello stesso giro non ci dice niente.
 - **Giorno (sabato vs lunedì) e orario:** si testano sul **messaggio 1**, mescolando i segmenti in modo uguale nelle due metà. Per esempio metà dell'ondata il lunedì alle 18 e metà il sabato alle 10.
 - **Segmenti:** non sono un test A/B ma una personalizzazione. Si misura comunque il **tasso di risposta per segmento**, che ci dice se un richiamo preciso (S1) rende più di uno generico (S3).
 - **Metrica:** risposte di qualsiasi tipo entro 48 ore (escluso "stop"); poi, per Loris, quante diventano setting.
 
-## 7. Prossimi passi
+## 8. Prossimi passi
 
-- [ ] **Parte 2: leggere le 108 chat WhatsApp** (parole testuali, obiezioni, a che punto si sono fermati).
+- [x] Parte 2: lette le 108 chat (sezione 5).
+- [ ] Sapere se a maggio c'è stata una riattivazione (testo, numeri).
+- [ ] Decidere cosa fare di Sofia durante la riattivazione.
 - [ ] Preparare per ogni lead del segmento S1 il campo `{{auto}}` pulito e per S2 il campo `{{tipo}}`. Va fatto prima di caricare le liste su GoHighLevel.
 - [ ] Liste per ondata (con i contatti, in `_privato/`, fuori dal repo) quando segmenti e calendario sono confermati.

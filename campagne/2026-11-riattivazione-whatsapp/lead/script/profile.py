@@ -67,7 +67,12 @@ df['livello_info']=df.apply(info_level,axis=1)
 # ---- perimetro
 # Decisioni di Simone/Loris sui casi singoli (21/11), per foglio e riga del file originale
 OVERRIDE_DENTRO={('Leads Auto DE (FEBBRAIO)',35):'form in tedesco ma comune italofono (Poschiavo): dentro per decisione del 21/11'}
+# Hanno scritto "Disiscriviti" nelle chat WhatsApp di maggio 2026 (letto nelle chat il 21/11): fuori, per tutte le loro iscrizioni
+DISISCRITTI={('Modulo Prezzo IT-IT',59),('Prezzo Basso Timing',105),('Prezzo Basso Timing',110),('Prezzo Basso Timing',115),
+             ('Prezzo Basso Timing',168),('Prezzo Basso Timing',199),('Prezzo Basso Timing',247)}
+GRUPPI_DISISCRITTI=set(df[[ (a,b) in DISISCRITTI for a,b in zip(df.sheet,df.row)]].gruppo_dup)
 def perimetro(r):
+    if r.record_principale and r.gruppo_dup in GRUPPI_DISISCRITTI: return 'fuori','ha chiesto la disiscrizione su WhatsApp (maggio 2026)'
     if (r.sheet,r.row) in OVERRIDE_DENTRO and r.record_principale: return 'dentro',OVERRIDE_DENTRO[(r.sheet,r.row)]
     if not r.record_principale: return 'fuori','duplicato (tenuto il record più recente)'
     if r.tel_tipo in ('mancante_o_errore','formato_non_valido'): return 'fuori','telefono mancante o illeggibile nel file'
