@@ -14,10 +14,10 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 
 | # | Tappa | Stato |
 |-|-|-|
-| 1 | **Inventario** + legenda colori da far correggere a Loris | ✅ fatta, in revisione → `inventario.md` |
+| 1 | **Inventario** + revisione di Simone e Loris | ✅ fatta, revisione applicata (v2) → `inventario.md` |
 | 2 | Differenze tra campagne: richieste, tipo di lead, informazioni, tassi di contatto e risposta | da fare |
 | 3 | Voce dei lead (parole e auto da riusare nei messaggi) + proposta di segmenti e test (anche A/B sabato vs lunedì, orari scaglionati) | da fare |
-| 4 | Costi WhatsApp via GoHighLevel (simulazioni a 5, 10, 15 messaggi) + rischi di blocco Meta | ✅ fatta, mancano i dati di Loris e Ivan → `costi-e-rischi.md` |
+| 4 | Costi WhatsApp via GoHighLevel (simulazioni a 5, 10, 15 messaggi) + rischi di blocco Meta | ✅ fatta e decisa: 5 messaggi, ~1 a settimana. Manca solo la tariffa reale di GHL → `costi-e-rischi.md` |
 
 ## Decisioni prese (grilling del 21/11)
 
@@ -31,17 +31,24 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | Lead recenti (ott-nov 2026) | **Dentro**, come tutti gli altri |
 | Numeri non validi o falsi | **Fuori**. Unica esclusione per esito |
 | Insulti, chi ha attaccato in faccia, chi ci ha mandato a quel paese | **Dentro**: si ricontattano |
-| Clienti che hanno già comprato | **Dentro** |
 | Duplicati | Tolti, **ma solo se sicuri al 100%**. Nei casi dubbi si tengono entrambi e si segnalano |
 | Dati personali | Nel repo **solo** dati anonimizzati (ID al posto di nome, telefono, email). Il file Excel originale e le liste con i contatti restano fuori |
-| Revisione legenda | La fanno **Simone e Loris** su un file Excel (non Valentino) |
+| Revisione note (21/11) | **X1/X2/X3 = chiamato, mai risposto · WA = parlato su WhatsApp · i colori si ignorano, conta solo la nota** |
 | Consenso WhatsApp | **Sì**, i lead hanno dato il consenso a ricevere messaggi |
 | Lead ott-nov 2026 ancora in lavorazione (77) | **Si riattivano comunque** |
 | Clienti che hanno già comprato | Non serve la lista: **si riattivano tutti** |
 | Valentino, Riccardo, Paolo | **Non lavorano più con noi.** I lead li chiama solo Loris (quindi niente lead in tedesco) |
 | Colonna Chat | Sono le **chat WhatsApp con i lead** (Google Doc, una per lead, titolo = numero di telefono). Accesso verificato il 21/11: si leggono. 193 in tutto, di cui 108 di lead italiani (95 Prezzo Basso Timing, 12 Prezzo IT-IT, 1 Furgoni) e 85 di FEB Auto DE. Materiale per la tappa 3 |
 | Esiti in GoHighLevel | Export da fare più avanti. Nel frattempo Loris fornisce alcuni dati a voce |
-| Costo | Tariffe **WhatsApp via GoHighLevel**. Simulazioni a 5, 10 e 15 messaggi in 3 settimane, con i rischi di segnalazione/blocco |
+| Quanti messaggi | **5**, circa **1 a settimana**. È la prima riattivazione: è un test, non si vuole spendere troppo |
+| Chi risponde | **Esce dalla sequenza e resta in pipeline** per Loris |
+| Chi chiede stop | **Fuori** da tutto |
+| Chi non risponde | **Continua** a ricevere i messaggi successivi |
+| Ritmo degli invii | **Ondate da 200-300 lead**, scaglionate negli orari, in base a quanti Loris riesce a richiamare |
+| Numero mittente | **Numero aziendale**, non quello personale di Loris. Loris ha accesso alle chat, legge e chiama al volo |
+| Limite di invio | Il numero ha già mandato messaggi in passato (non tantissimi): si presume nessun limite stretto. Le ondate da 200-300 stanno comunque sotto anche il livello minimo (250 al giorno) |
+| Tempo di Loris | Ha il tempo per chiamare i lead che rispondono |
+| Tariffa GoHighLevel | **In attesa**: chiesto se si paga in dollari e quanto costa il messaggio |
 
 ## File
 
@@ -52,11 +59,12 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | `dati/lead-anonimi.csv` | Una riga per iscrizione (1.689), **senza nome, telefono, email**. Colonne derivate: perimetro, esito contatto, livello di informazione, budget, tempistica, marca, regione… |
 | `script/` | Script Python che rigenerano tutto dal file Excel originale (`bash script/run.sh <xlsx> <cartella-lavoro>`) |
 
-**Il file per Loris** (`Revisione-lead-per-Loris.xlsx`, con i nomi) **non è nel repo**: l'ha ricevuto Simone in chat.
+**L'Excel con le domande ancora aperte** (`_privato/Domande-aperte-lead.xlsx`, con i nomi) **non è nel repo**: la cartella `_privato/` è esclusa da git.
 
 ## Come leggere il CSV
 
 - `id` = la riga; `id_persona` = la persona dopo il dedup (stesso valore per le iscrizioni multiple). Per contare le persone, filtra `record_principale = True`.
 - `perimetro` = `dentro` / `dentro (solo chiamata)` / `fuori`, con il motivo in `motivo_perimetro`.
 - `foglio_origine` + `riga_origine` portano alla riga esatta del Google Sheet originale.
-- Le colonne `stato_colore`, `esito_contatto`, `regione_stimata`, `livello_info` sono **ricavate da me**: sono ipotesi finché Loris non conferma la legenda.
+- `esito_contatto` segue la revisione del 21/11 (conta solo la nota). `regione_stimata` e `livello_info` sono **ricavate da me** dal testo: sono stime.
+- I colori del foglio originale non sono nel CSV: abbiamo deciso di ignorarli.

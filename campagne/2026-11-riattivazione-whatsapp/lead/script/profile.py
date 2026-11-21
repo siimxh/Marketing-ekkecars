@@ -68,7 +68,7 @@ df['livello_info']=df.apply(info_level,axis=1)
 def perimetro(r):
     if not r.record_principale: return 'fuori','duplicato (tenuto il record più recente)'
     if r.tel_tipo in ('mancante_o_errore','formato_non_valido'): return 'fuori','telefono mancante o illeggibile nel file'
-    if r.esito_contatto=='numero non valido': return 'fuori','numero non valido (da nota o colore rosso)'
+    if r.esito_contatto=='numero non valido': return 'fuori','numero non valido (dalla nota)'
     if r.lingua_nota.startswith('parla tedesco'): return 'fuori','parla tedesco (dalla nota del consulente)'
     if r.lingua_form=='DE': return 'fuori','form in tedesco, nessuna risposta in italiano'
     if r.tel_tipo=='CH_fisso': return 'dentro (solo chiamata)','numero fisso: niente WhatsApp'

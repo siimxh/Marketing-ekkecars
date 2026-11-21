@@ -68,7 +68,7 @@ pn=df.phone.map(norm_phone); df['tel']=[x[0] for x in pn]; df['tel_tipo']=[x[1] 
 # ---- notes
 df['note']=(df.obs+' '+df.obs2).str.strip()
 low=df.note.str.lower()
-INVALID=r"non valid|non funzion|inesistent|collegamento non possibile|numero sbagliat|numero errat|nummero di un|numero di un|non [eè] suo il numero|non e' suo|non esiste|n\. ?non|non rintracc|non ritracc|numero non"
+INVALID=r"sbagliat|non valid|non funzion|inesistent|collegamento non possibile|numero sbagliat|numero errat|nummero di un|numero di un|non [eè] suo il numero|non e' suo|non esiste|n\. ?non|non rintracc|non ritracc|numero non"
 df['nota_numero_non_valido']=low.str.contains(INVALID)
 FILL_MAP={'FF666666':'ELIMINATO','FFD9EAD3':'INTERESSATO','FFC9DAF8':'POSTICIPATO','FFFFF2CC':'PASSATO','FFCC4125':'DOPPIO',
   'FF61D836':'CONCLUSO','FFEAD1DC':'DA RIATTIVARE','FFFFFFFF':'(bianco: nessuno stato)','':'(nessun colore)',
@@ -81,15 +81,21 @@ def attempts(s):
     xs=[int(m) for m in re.findall(r'(?:\bx\s?(\d)\b|\b(\d)\s?x\b)',s.lower()) for m in m if m]
     return max(xs) if xs else 0
 df['tentativi_x']=df.note.map(attempts)
-CODES=r'^[\s,./-]*((x\s?\d|\d\s?x|wa|crm|non ?risp\w*|segreteria|mail|e-mail|sms|perso)[\s,./-]*)+$'
+# Revisione Simone/Loris 21/11: i colori si ignorano, conta solo la nota.
+# X1/X2/2X... = chiamato, mai risposto · WA = parlato su WhatsApp
+WA=r"(?<!no )\b(wa|whatsapp|watsapp)\b"
+NORISP=r"non ?risp|mai risp|non ha risposto|segreteria|chiude subito|no risp"
+XCODE=r"\bx\s?\d\b|\b\d\s?x\b"
+CODES=r'^[\s,./+-]*((x\s?\d|\d\s?x|crm|non ?risp\w*|segreteria|mail|e-mail|perso|follow-?up|followup)[\s,./+-]*)+$'
 def outcome(r):
     n=r.note.strip().lower()
-    if r.nota_numero_non_valido or r.fill=='FFFF0000': return 'numero non valido'
+    if r.nota_numero_non_valido: return 'numero non valido'
     if not n: return 'nessuna nota'
+    if re.search(WA,n) and not re.search(NORISP,n): return 'parlato su WhatsApp'
     if re.fullmatch(r'crm',n): return 'passato al CRM'
-    if re.match(CODES,n) or re.search(r'non risp|non ha risposto|segreteria|mai risp|chiude subito',n) and len(n)<60:
-        return 'mai raggiunto'
-    return 'parlato / note di contenuto'
+    if re.match(CODES,n) or ((re.search(XCODE,n) or re.search(NORISP,n)) and len(n)<60):
+        return 'mai risposto'
+    return 'note di contenuto (parlato o in corso)'
 df['esito_contatto']=df.apply(outcome,axis=1)
 df['ha_comprato_altrove']=low.str.contains(r'comprat|acquistat|ha già trovato|ha gia trovato|preso (?:un|una|la|il)|appena preso|già preso')
 df['non_interessato']=low.str.contains(r'non interessat|non vuole|curios|per sbaglio|perditempo|perdi tempo|cliccato')
@@ -99,7 +105,7 @@ df.loc[low.str.contains(r'tedesc|deutsch|non parla (?:ne |né )?italiano|solo te
 df.loc[low.str.contains(r'frances'),'lingua_nota']='parla francese'
 df.loc[low.str.contains(r'spagnol'),'lingua_nota']='parla spagnolo'
 df.loc[low.str.contains(r'ingles|english'),'lingua_nota']+=' (inglese citato)'
-df['concluso']=(df.fill=='FF61D836')|(df.f_vendita.str.strip()!='')|low.str.contains(r'venduto|ha comprato da noi|consegnat')
+df['concluso']=(df.f_vendita.str.strip()!='')|low.str.contains(r'venduto|ha comprato da noi|consegnat')
 df['interessato_flag']=df.f_interessato.str.strip().str.lower().isin(['x','si'])
 
 # ---- dedup
