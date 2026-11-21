@@ -142,17 +142,15 @@ Altri dati disponibili (nel perimetro, dove il form li chiedeva):
 ## 7. Chi li ha lavorati
 
 Loris 360 · Valentino 128 · Simone 101 · Riccardo 81 · Giuseppe 13 · Paolo 6 · nessun consulente indicato 592.
-Valentino, Riccardo e Paolo **non lavorano più con noi**: i lead li richiama Loris. Per circa 215 lead, quindi, la persona che li ha sentiti non c'è più. Nel messaggio niente "ci siamo sentiti" (regola già nel brief).
+Valentino, Riccardo e Paolo **non lavorano più con noi**: i lead li richiama Loris. Non è un problema: i lead non si ricordano chi li ha chiamati, solo che qualcuno gli ha parlato.
 
-## 8. Domande ancora aperte
+## 8. Domande della tappa 1: tutte chiuse (21/11)
 
-Sono nell'Excel semplificato (`_privato/`, non nel repo):
-
-1. **6 possibili duplicati** (stesso telefono, nome diverso): stessa persona?
-2. **22 telefoni da recuperare** da GoHighLevel.
-3. **2 lead con la lingua da decidere** (form tedesco da un comune italofono, una nota "parla spagnolo").
-4. **Nota "Perso"** e **nota "CRM"**: che cosa vogliono dire esattamente.
-5. **Calendario:** 1 messaggio a settimana sposta l'ultimo invio dopo il 20/12 (vedi `costi-e-rischi.md`).
+- **6 possibili duplicati:** nessuna certezza, si tengono entrambi.
+- **22 telefoni illeggibili:** non si recuperano, restano fuori.
+- **Lingua:** il lead di Poschiavo e quello che "parla spagnolo" sono dentro.
+- **"Perso"** = in quel momento non era interessato, si richiama comunque. **"CRM"** = esito da recuperare da GoHighLevel, se c'è tempo.
+- **Calendario:** 2 messaggi a settimana nelle prime due settimane, chiusura entro il 14/12.
 
 ## 9. Prime impressioni (da verificare nella tappa 2)
 

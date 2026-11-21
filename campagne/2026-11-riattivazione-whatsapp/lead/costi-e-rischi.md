@@ -13,16 +13,17 @@
 
 | Tema | Decisione | Effetto sui conti e sui rischi |
 |-|-|-|
-| Messaggi | **5**, circa **1 a settimana** | Costo atteso **~235-300 CHF** in tutto (riga "5" della tabella sotto). Ritmo sotto la soglia prudente di 1-2 a settimana: rischio di blocco basso |
+| Messaggi | **5**: 2 a settimana nelle prime due settimane, poi 1, chiusura entro il 14/12 | Costo atteso **~235-300 CHF** in tutto (riga "5" della tabella sotto). Ritmo dentro la soglia prudente di 1-2 a settimana: rischio di blocco basso |
 | Chi risponde | Esce dalla sequenza, resta in pipeline per Loris | Già così nello scenario "realistico" |
 | Chi chiede stop | Fuori da tutto | Obbligatorio comunque (UWG e regole Meta) |
 | Chi non risponde | Riceve i messaggi successivi | |
 | Ondate | **200-300 lead**, scaglionate negli orari | Restano sotto anche il livello minimo di invio di Meta (250 persone al giorno), quindi il limite del numero non blocca niente anche se fosse basso |
 | Numero mittente | **Numero aziendale**, non quello di Loris | Il rischio 4.4 (blocco che colpisce le vendite di Loris) quasi sparisce |
 | Tempo di Loris | Ha tempo per richiamare | La sezione 3 serve solo per il costo pieno, non è più un vincolo |
-| Tariffa GHL | In attesa (dollari? quanto?) | Unico numero ancora da confermare |
+| Tariffa GHL | In attesa, in secondo piano | Si assume una cifra sostenibile |
+| Costo pieno con il tempo di Loris | Non serve | La sezione 3 resta solo come promemoria |
 
-⚠️ **Calendario da sistemare:** 5 messaggi a 1 a settimana durano 5 settimane. Con il primo invio lunedì 23/11, gli altri cadono intorno al 30/11, 7/12, 14/12 e **21/12**. Il brief chiudeva la sequenza il 12/12, e nella call con Hamza era emerso che dopo il 10-12 dicembre è difficile chiudere e che dal 20/12 la gente è in vacanza. Le opzioni sono due: tenere 1 a settimana e accettare che l'ultimo messaggio cada sotto Natale (o spostarlo a gennaio), oppure stringere un po' (per esempio 2 a settimana nelle prime due settimane) per chiudere entro il 14/12. Le ondate aggiungono qualche giorno di sfasamento tra un lead e l'altro.
+✅ **Calendario deciso (21/11): 2 messaggi a settimana nelle prime due settimane, poi 1, con chiusura entro il 14/12.** Il ragionamento di partenza: 5 messaggi a 1 a settimana durano 5 settimane. Con il primo invio lunedì 23/11, gli altri cadono intorno al 30/11, 7/12, 14/12 e **21/12**. Il brief chiudeva la sequenza il 12/12, e nella call con Hamza era emerso che dopo il 10-12 dicembre è difficile chiudere e che dal 20/12 la gente è in vacanza. Le opzioni sono due: tenere 1 a settimana e accettare che l'ultimo messaggio cada sotto Natale (o spostarlo a gennaio), oppure stringere un po' (per esempio 2 a settimana nelle prime due settimane) per chiudere entro il 14/12. Le ondate aggiungono qualche giorno di sfasamento tra un lead e l'altro.
 
 ## 1. Le tariffe
 
