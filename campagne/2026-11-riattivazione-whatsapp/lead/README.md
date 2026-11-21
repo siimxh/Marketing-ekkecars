@@ -17,7 +17,7 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | 1 | **Inventario** + legenda colori da far correggere a Loris | ✅ fatta, in revisione → `inventario.md` |
 | 2 | Differenze tra campagne: richieste, tipo di lead, informazioni, tassi di contatto e risposta | da fare |
 | 3 | Voce dei lead (parole e auto da riusare nei messaggi) + proposta di segmenti e test (anche A/B sabato vs lunedì, orari scaglionati) | da fare |
-| 4 | Costi WhatsApp via GoHighLevel (simulazioni a 5, 10, 15 messaggi) + rischi di blocco Meta | da fare (in parallelo) |
+| 4 | Costi WhatsApp via GoHighLevel (simulazioni a 5, 10, 15 messaggi) + rischi di blocco Meta | ✅ fatta, mancano i dati di Loris e Ivan → `costi-e-rischi.md` |
 
 ## Decisioni prese (grilling del 21/11)
 
@@ -48,6 +48,7 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | File | Cosa contiene |
 |-|-|
 | `inventario.md` | Tappa 1: quanti lead, da quali campagne, chi è dentro e chi è fuori, cosa sappiamo di loro, domande aperte |
+| `costi-e-rischi.md` | Tappa 4: tariffe, simulazioni a 5, 10 e 15 messaggi, tempo di Loris, rischi per il numero WhatsApp, raccomandazione |
 | `dati/lead-anonimi.csv` | Una riga per iscrizione (1.689), **senza nome, telefono, email**. Colonne derivate: perimetro, esito contatto, livello di informazione, budget, tempistica, marca, regione… |
 | `script/` | Script Python che rigenerano tutto dal file Excel originale (`bash script/run.sh <xlsx> <cartella-lavoro>`) |
 
