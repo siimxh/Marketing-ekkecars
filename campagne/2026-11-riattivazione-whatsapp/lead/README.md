@@ -35,6 +35,12 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | Duplicati | Tolti, **ma solo se sicuri al 100%**. Nei casi dubbi si tengono entrambi e si segnalano |
 | Dati personali | Nel repo **solo** dati anonimizzati (ID al posto di nome, telefono, email). Il file Excel originale e le liste con i contatti restano fuori |
 | Revisione legenda | La fanno **Simone e Loris** su un file Excel (non Valentino) |
+| Consenso WhatsApp | **Sì**, i lead hanno dato il consenso a ricevere messaggi |
+| Lead ott-nov 2026 ancora in lavorazione (77) | **Si riattivano comunque** |
+| Clienti che hanno già comprato | Non serve la lista: **si riattivano tutti** |
+| Valentino, Riccardo, Paolo | **Non lavorano più con noi.** I lead li chiama solo Loris (quindi niente lead in tedesco) |
+| Colonna Chat | Sono le **chat WhatsApp con i lead** (Google Doc, una per lead, titolo = numero di telefono). Accesso verificato il 21/11: si leggono. 193 in tutto, di cui 108 di lead italiani (95 Prezzo Basso Timing, 12 Prezzo IT-IT, 1 Furgoni) e 85 di FEB Auto DE. Materiale per la tappa 3 |
+| Esiti in GoHighLevel | Export da fare più avanti. Nel frattempo Loris fornisce alcuni dati a voce |
 | Costo | Tariffe **WhatsApp via GoHighLevel**. Simulazioni a 5, 10 e 15 messaggi in 3 settimane, con i rischi di segnalazione/blocco |
 
 ## File
