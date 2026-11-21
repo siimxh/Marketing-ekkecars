@@ -140,7 +140,6 @@ Con circa 1.270 lead WhatsApp, ondate da 200-300 e risposte attese del 5-10%, og
 ## 8. Prossimi passi
 
 - [x] Parte 2: lette le 108 chat (sezione 5).
-- [ ] Sapere se a maggio c'è stata una riattivazione (testo, numeri).
-- [ ] Decidere cosa fare di Sofia durante la riattivazione.
+- [x] Riattivazione di maggio e bot Sofia: **non si approfondiscono** (decisione di Simone, 21/11).
 - [ ] Preparare per ogni lead del segmento S1 il campo `{{auto}}` pulito e per S2 il campo `{{tipo}}`. Va fatto prima di caricare le liste su GoHighLevel.
 - [ ] Liste per ondata (con i contatti, in `_privato/`, fuori dal repo) quando segmenti e calendario sono confermati.
