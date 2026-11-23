@@ -11,6 +11,8 @@
 
 La stima del brief (500-700) era bassa di circa la metà.
 
+> **Lista di invio finale (23/11): 1.096 lead.** Ai 1.274 riattivabili qui sotto vanno tolti i duplicati di numero (2), i 7 numeri fissi (li chiama Loris) e i 169 lead con budget dichiarato sotto i 20'000 franchi, messi da parte come "lead con budget basso". Dettaglio in `README.md`.
+
 ## 1. Da dove vengono
 
 Il file ha 21 fogli: 19 con lead, 1 vuoto (`1OTTOBRE`) e il foglio `KPI` (solo definizioni). Le 19 campagne si raggruppano in 6 famiglie:

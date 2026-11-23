@@ -1,6 +1,6 @@
 # Riattivazione WhatsApp: cosa impostare su GoHighLevel
 
-Ciao Ivan, dobbiamo mandare **un messaggio WhatsApp** a circa 1.265 lead vecchi.
+Ciao Ivan, dobbiamo mandare **un messaggio WhatsApp** a circa 1.100 lead vecchi.
 Ci sono **3 versioni** del messaggio. Il file ti dice quale versione va a ogni lead.
 
 Ti serve il file **`Riattivazione-import-GHL.csv`** (te lo passo io).
@@ -26,7 +26,7 @@ Importa il CSV nei contatti e collega le colonne:
 
 Se ti chiede cosa fare con i contatti che esistono già: **aggiornali**, non crearne di nuovi.
 
-Alla fine controlla che i contatti con il tag `riattivazione-nov26` siano **1.265**.
+Alla fine controlla che i contatti con il tag `riattivazione-nov26` siano **1.096**.
 
 ## Passo 3 · Crea i 3 messaggi WhatsApp (template)
 
@@ -121,7 +121,7 @@ Crea 3 contatti di prova con i nostri numeri (uno S1, uno S2, uno S3), aggiungi 
 
 ## Passo 7 · Invio a ondate
 
-I lead sono divisi in **6 ondate** da circa 210. Nel file ogni lead ha già il suo tag: da `riatt-ondata-1` a `riatt-ondata-6`.
+I lead sono divisi in **6 ondate** da circa 180. Nel file ogni lead ha già il suo tag: da `riatt-ondata-1` a `riatt-ondata-6`.
 Per mandare un'ondata: filtra i contatti con il tag dell'ondata, selezionali tutti e aggiungi il tag `riatt-invia-ora`.
 
 **Prima di tutto controlla il limite di messaggi del numero** in WhatsApp Manager (Meta), alla voce del numero di telefono.
