@@ -104,8 +104,36 @@ Crea 3 contatti di prova con i nostri numeri (uno S1, uno S2, uno S3), aggiungi 
 
 ## Poi ti fermi
 
-**Non mandare niente ai lead veri** finché non ti do il via. Giorni e orari degli invii te li mando io.
-Gli invii li faremo a gruppi: nel file ogni lead ha già il suo gruppo (tag da `riatt-ondata-1` a `riatt-ondata-5`).
+**Non mandare niente ai lead veri** finché non ti do il via.
+
+## Passo 7 · Invio a ondate
+
+I lead sono divisi in **6 ondate** da circa 210. Nel file ogni lead ha già il suo tag: da `riatt-ondata-1` a `riatt-ondata-6`.
+Per mandare un'ondata: filtra i contatti con il tag dell'ondata, selezionali tutti e aggiungi il tag `riatt-invia-ora`.
+
+**Prima di tutto controlla il limite di messaggi del numero** in WhatsApp Manager (Meta), alla voce del numero di telefono.
+
+**Se il limite è 250:** un'ondata al giorno, **sempre alle 18:00**, finché non finiscono i lead. Si parte oggi oppure domani (martedì), quando sei pronto.
+
+| Ondata | Quando |
+|-|-|
+| 1 | primo giorno, ore 18:00 |
+| 2 | giorno dopo, ore 18:00 |
+| 3 | giorno dopo, ore 18:00 |
+| 4 | giorno dopo, ore 18:00 |
+| 5 | giorno dopo, ore 18:00 |
+| 6 | giorno dopo, ore 18:00 |
+
+Il limite conta le persone in 24 ore: tra un'ondata e l'altra devono passare **almeno 24 ore**.
+
+**Se il limite è 2.000:** tutto in un giorno, in due invii.
+
+| Ondate | Quando |
+|-|-|
+| 1, 2 e 3 | primo giorno, ore 9:00 |
+| 4, 5 e 6 | stesso giorno, ore 18:00 |
+
+**Se il limite è diverso da 250 o 2.000, avvisami prima di mandare.**
 
 Grazie,
 Loris

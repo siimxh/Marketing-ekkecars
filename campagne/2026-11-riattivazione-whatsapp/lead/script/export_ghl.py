@@ -10,16 +10,15 @@ wa=d[d.perimetro=='dentro'].copy()
 # stesso numero con nomi diversi (casi dubbi tenuti): un solo messaggio per numero, si tiene l'iscrizione più recente
 n0=len(wa); wa=wa.sort_values('data',ascending=False).drop_duplicates('tel'); print('numeri doppi tolti:',n0-len(wa))
 call=d[d.perimetro=='dentro (solo chiamata)'].copy()
-# ondate: 5 gruppi mescolati in modo uguale per segmento (seed fisso)
+# ondate: 6 gruppi (max ~211, sotto il limite Meta di 250 al giorno), mescolati in modo uguale per segmento (seed fisso)
 rng=np.random.default_rng(2026)
+N_ONDATE=6
 wa['ondata']=0
 for sgm,g in wa.groupby('segmento'):
     idx=rng.permutation(g.index.values)
-    for k,i in enumerate(idx): wa.at[i,'ondata']=k%5+1
-GIORNO={1:'lunedì',2:'sabato',3:'lunedì',4:'sabato',5:'lunedì'}
-wa['giorno_test']=wa.ondata.map(GIORNO)
+    for k,i in enumerate(idx): wa.at[i,'ondata']=k%N_ONDATE+1
 out=pd.DataFrame({'Phone':wa.tel,'First Name':wa['first'],'Last Name':wa['last'],'Email':wa.email.str.strip(),
- 'Riattivazione Segmento':wa.segmento,'Riattivazione Ondata':wa.ondata,'Riattivazione Giorno':wa.giorno_test,
+ 'Riattivazione Segmento':wa.segmento,'Riattivazione Ondata':wa.ondata,
  'Riattivazione Auto':np.where(wa.segmento=='S1',wa.auto_con_articolo,''),'Riattivazione Tipo':np.where(wa.segmento=='S2',wa.tipo,''),
  'Tags':'riattivazione-nov26, riatt-'+wa.segmento.str.lower()+', riatt-ondata-'+wa.ondata.astype(str),
  'ID lead':wa.id,'Campagna origine':wa.campagna}).sort_values(['Riattivazione Ondata','Riattivazione Segmento'])
@@ -31,5 +30,6 @@ assert (out[out['Riattivazione Segmento']=='S2']['Riattivazione Tipo']!='').all(
 for c in out.columns: assert not out[c].astype(str).str.contains('\n').any(), c
 out.to_csv(f'{OUTDIR}/Riattivazione-import-GHL.csv',index=False,encoding='utf-8-sig')
 pd.DataFrame({'Telefono':call.tel,'Nome':call.name,'ID lead':call.id,'Campagna':call.campagna,'Cosa cercava':call.request,'Note':call.note}).to_csv(f'{OUTDIR}/Riattivazione-solo-chiamata.csv',index=False,encoding='utf-8-sig')
+assert out.groupby('Riattivazione Ondata').size().max()<=245
 print(len(out),len(call)); print(pd.crosstab(out['Riattivazione Ondata'],out['Riattivazione Segmento'],margins=True))
 print(out['Phone'].str[:3].value_counts().to_dict())
