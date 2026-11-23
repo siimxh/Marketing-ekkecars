@@ -1,65 +1,39 @@
-# Riattivazione WhatsApp: guida setup su GoHighLevel (messaggio 1)
+# Riattivazione WhatsApp: cosa impostare su GoHighLevel
 
-> Per chi imposta l'automazione. Tempo stimato: mezza giornata, più l'attesa dell'approvazione dei template da parte di Meta (di solito poche ore).
-> I nomi dei menu di GoHighLevel possono cambiare leggermente: se una voce non si trova con questo nome, cercala nella stessa sezione.
+Ciao Ivan, dobbiamo mandare **un messaggio WhatsApp** a circa 1.265 lead vecchi.
+Ci sono **3 versioni** del messaggio. Il file ti dice quale versione va a ogni lead.
 
-## Cosa ricevi
-
-- **`Riattivazione-import-GHL.csv`**: 1.265 contatti da importare (Simone te lo passa a parte: contiene i dati personali e non sta nel repo).
-- **I 3 testi dei template** (sezione 3).
-- Il **calendario delle ondate** (sezione 6), con giorni e orari compilati da Simone.
-
-Cosa facciamo: mandiamo **un solo messaggio** (il primo della sequenza) a 1.265 lead vecchi, in **5 ondate** da circa 250. Ogni lead riceve una di **3 versioni** del messaggio in base al suo segmento. Chi risponde va a Loris; chi scrive stop esce da tutto.
+Ti serve il file **`Riattivazione-import-GHL.csv`** (te lo passo io).
 
 ---
 
-## 0. Prima di iniziare (5 minuti)
+## Passo 1 · Crea 3 campi nei contatti
 
-- [ ] Il numero WhatsApp aziendale è collegato a GoHighLevel e funziona.
-- [ ] In WhatsApp Manager (Meta) la **qualità del numero è verde**.
-- [ ] **Nessun bot o risposta automatica** attivo sul numero: chi risponde al messaggio deve arrivare a Loris, non a un questionario.
+Nelle impostazioni dei campi personalizzati dei contatti, crea 3 campi di testo:
 
-## 1. Crea 5 campi personalizzati (10 minuti)
+- **Riattivazione Segmento** (conterrà S1, S2 o S3)
+- **Riattivazione Auto** (es. "un'Audi Q3")
+- **Riattivazione Tipo** (es. "un SUV usato")
 
-*Settings → Custom Fields → Contact → Add field.* Tipo: **testo singolo** per tutti.
+## Passo 2 · Importa il file
 
-| Nome del campo | Esempio di valore |
-|-|-|
-| Riattivazione Segmento | S1 / S2 / S3 |
-| Riattivazione Ondata | 1-5 |
-| Riattivazione Giorno | lunedì / sabato |
-| Riattivazione Auto | un'Audi Q3 (solo S1) |
-| Riattivazione Tipo | un SUV usato (solo S2) |
+Importa il CSV nei contatti e collega le colonne:
 
-## 2. Importa il file (15 minuti)
+- Phone, First Name, Last Name, Email → i campi normali
+- Riattivazione Segmento, Riattivazione Auto, Riattivazione Tipo → i 3 campi del passo 1
+- Tags → Tags
+- Le altre colonne non servono: non importarle
 
-*Contacts → Import → carica `Riattivazione-import-GHL.csv`.*
+Se ti chiede cosa fare con i contatti che esistono già: **aggiornali**, non crearne di nuovi.
 
-Collega le colonne così:
+Alla fine controlla che i contatti con il tag `riattivazione-nov26` siano **1.265**.
 
-| Colonna del file | Campo di GoHighLevel |
-|-|-|
-| Phone | Phone |
-| First Name / Last Name | First Name / Last Name |
-| Email | Email |
-| Riattivazione Segmento, Ondata, Giorno, Auto, Tipo | i 5 campi creati al punto 1 |
-| Tags | Tags |
-| ID lead, Campagna origine | non importare (servono solo a noi) |
+## Passo 3 · Crea i 3 messaggi WhatsApp (template)
 
-- Se GoHighLevel chiede cosa fare con i contatti già presenti, scegli **aggiornare quelli esistenti** (riconosciuti dal telefono), **non** crearne di nuovi.
-- **Controllo dopo l'import** (filtra per tag):
-  - `riattivazione-nov26` = **1.265** contatti
-  - `riatt-s1` = **298** · `riatt-s2` = **364** · `riatt-s3` = **603**
-  - `riatt-ondata-1` … `riatt-ondata-5` = circa **250** ciascuna
+Categoria **Marketing**, lingua **Italiano**.
+Aggiungi 2 bottoni di risposta rapida: **Sì, cercamela** e **Stop**.
 
-## 3. Crea i 3 template WhatsApp (30 minuti + approvazione)
-
-*Settings → WhatsApp → Templates → Create.* Per tutti e 3:
-- **Categoria:** Marketing · **Lingua:** Italiano
-- **Bottoni (risposta rapida):** `Sì, cercamela` · `Stop`
-- Dove c'è `{{1}}`: collegalo al campo indicato e inserisci l'**esempio** che chiede Meta.
-
-### Template `riattivazione_m1_s1`  (variabile `{{1}}` = campo *Riattivazione Auto*, esempio: `un'Audi Q3`)
+**Messaggio S1**: al posto di `{{1}}` metti il campo *Riattivazione Auto* (esempio per Meta: `un'Audi Q3`)
 
 ```
 Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
@@ -71,7 +45,7 @@ Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppur
 Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancora, scrivimelo qui: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
 ```
 
-### Template `riattivazione_m1_s2`  (variabile `{{1}}` = campo *Riattivazione Tipo*, esempio: `un SUV usato`)
+**Messaggio S2**: al posto di `{{1}}` metti il campo *Riattivazione Tipo* (esempio per Meta: `un SUV usato`)
 
 ```
 Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
@@ -83,7 +57,7 @@ Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppur
 Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che modello hai in mente e che rata vuoi spendere: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore. La tua la valutiamo gratis.
 ```
 
-### Template `riattivazione_m1_s3`  (nessuna variabile)
+**Messaggio S3**: nessun campo da collegare
 
 ```
 Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
@@ -95,56 +69,40 @@ Un'auto non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spes
 Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che auto hai in mente: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
 ```
 
-Se Meta **rifiuta** un template, manda a Simone il motivo esatto del rifiuto: si corregge il testo e si reinvia.
+Se Meta rifiuta un messaggio, mandami il motivo e lo sistemiamo.
 
-## 4. Crea 2 workflow (30 minuti)
+## Passo 4 · Crea l'automazione di invio
 
-### Workflow A · "Riattivazione M1 – invio"
-- **Trigger:** aggiunta del tag `riatt-invia-ora`.
-- **If/Else** sul campo *Riattivazione Segmento*:
-  - S1 → *Send WhatsApp template* `riattivazione_m1_s1`
-  - S2 → *Send WhatsApp template* `riattivazione_m1_s2`
-  - S3 → *Send WhatsApp template* `riattivazione_m1_s3`
-- Poi: **aggiungi tag** `riatt-m1-inviato` e **togli** il tag `riatt-invia-ora`.
+Un workflow che:
 
-### Workflow B · "Riattivazione – risposte"
-- **Trigger:** *Customer replied* sul canale WhatsApp, con filtro: tag `riattivazione-nov26`.
-- **If/Else** sul testo della risposta:
-  - contiene `stop` (anche il bottone *Stop*) → **attiva DND su WhatsApp** + tag `riatt-stop`. Fine.
-  - tutto il resto → tag `riatt-risposto`, **assegna a Loris**, **notifica interna a Loris** ("Lead riattivazione ha risposto: chiamalo") e, se lo usate, apri l'opportunità nella pipeline vendite.
-- Il workflow deve partire **solo alla prima risposta**: se il lead scrive più messaggi, Loris non deve ricevere 5 notifiche.
+1. parte quando aggiungiamo a un contatto il tag `riatt-invia-ora`;
+2. guarda il campo *Riattivazione Segmento*:
+   - S1 → manda il messaggio S1
+   - S2 → manda il messaggio S2
+   - S3 → manda il messaggio S3
 
-## 5. Test prima dell'invio vero (10 minuti)
+## Passo 5 · Crea l'automazione per le risposte
 
-- Crea **3 contatti di prova** con i vostri numeri: uno S1 (Auto = `un'Audi Q3`), uno S2 (Tipo = `un SUV usato`), uno S3.
-- Aggiungi il tag `riatt-invia-ora` ai 3 contatti di prova e controlla che:
-  - [ ] arrivi il template giusto, con la parola al posto giusto ("…per un'Audi Q3.");
-  - [ ] rispondendo "ok" scatti la notifica a Loris;
-  - [ ] rispondendo "stop" (o premendo il bottone) il contatto vada in DND.
-- **Manda a Simone gli screenshot** dei 3 messaggi ricevuti prima di partire con l'ondata 1.
+Un workflow che parte quando un contatto con il tag `riattivazione-nov26` risponde su WhatsApp:
 
-## 6. Invio delle ondate
+- se scrive **stop** (o preme il bottone Stop) → non deve ricevere più niente (DND su WhatsApp);
+- **qualsiasi altra risposta** → assegna il contatto a **Loris** e mandagli una notifica, così lo chiama.
 
-Per ogni ondata, al giorno e all'ora stabiliti: *Contacts → filtro tag `riatt-ondata-N` → seleziona tutti → Add tag `riatt-invia-ora`.* Il workflow A fa il resto.
+Loris deve ricevere la notifica **solo alla prima risposta**, non a ogni messaggio.
 
-| Ondata | Contatti | Giorno (test) | Data | Ora |
-|-|-:|-|-|-|
-| 1 | 254 | lunedì | __ / __ | __:__ |
-| 2 | 254 | sabato | __ / __ | __:__ |
-| 3 | 254 | lunedì | __ / __ | __:__ |
-| 4 | 252 | sabato | __ / __ | __:__ |
-| 5 | 251 | lunedì | __ / __ | __:__ |
+**Nessun bot o risposta automatica** deve rispondere al posto di Loris.
 
-- **Massimo un'ondata al giorno**, così Loris riesce a richiamare chi risponde.
-- Ogni ondata ha gli stessi segmenti nelle stesse proporzioni, così il confronto tra lunedì e sabato è pulito.
-- Mai invii prima delle 8 o dopo le 21.
+## Passo 6 · Prova
 
-## 7. Durante le ondate
+Crea 3 contatti di prova con i nostri numeri (uno S1, uno S2, uno S3), aggiungi il tag `riatt-invia-ora` e controlla che:
 
-- Ogni giorno: guarda la **qualità del numero** in WhatsApp Manager. Se passa a **gialla o rossa**, ferma le ondate successive e avvisa Simone.
-- Fine di ogni ondata: manda a Simone **quanti inviati, quanti consegnati, quante risposte, quanti stop**.
+- arrivi il messaggio giusto, con l'auto o il tipo al posto giusto;
+- rispondendo "ok" arrivi la notifica a Loris;
+- rispondendo "stop" il contatto venga bloccato.
 
-## Fuori da questa guida
+**Mandami gli screenshot** dei 3 messaggi.
 
-- **7 lead con numero fisso** (niente WhatsApp): file `Riattivazione-solo-chiamata.csv`, li chiama direttamente Loris.
-- I messaggi dal 2 al 5 si decidono dopo aver visto i risultati del primo.
+## Poi ti fermi
+
+**Non mandare niente ai lead veri.** Giorni e orari degli invii li decidiamo insieme.
+Gli invii li faremo a gruppi: nel file ogni lead ha già il suo gruppo (tag da `riatt-ondata-1` a `riatt-ondata-5`).
