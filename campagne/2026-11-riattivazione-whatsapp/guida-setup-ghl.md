@@ -31,7 +31,7 @@ Alla fine controlla che i contatti con il tag `riattivazione-nov26` siano **1.26
 ## Passo 3 · Crea i 3 messaggi WhatsApp (template)
 
 Categoria **Marketing**, lingua **Italiano**.
-Aggiungi 2 bottoni di risposta rapida: **Sì, cercamela** e **Stop**.
+Aggiungi 2 bottoni di risposta rapida: **Sì, cercamela** e **No, grazie**.
 
 **Messaggio S1**: al posto di `{{1}}` metti il campo *Riattivazione Auto* (esempio per Meta: `un'Audi Q3`)
 
@@ -85,8 +85,17 @@ Un workflow che:
 
 Un workflow che parte quando un contatto con il tag `riattivazione-nov26` risponde su WhatsApp:
 
-- se scrive **stop** (o preme il bottone Stop) → non deve ricevere più niente (DND su WhatsApp);
-- **qualsiasi altra risposta** → crea un'opportunità nella pipeline **"Pipeline riattivazione"**, fase **"Lead generati"** e assegnala **a me**.
+- preme **No, grazie** (oppure scrive "no" o "stop") → non deve ricevere più niente (DND su WhatsApp) e **non** va in pipeline;
+- preme **Sì, cercamela** → crea un'opportunità nella pipeline **"Pipeline riattivazione"**, fase **"Lead generati"**, assegnala **a me** e mandagli subito il messaggio qui sotto;
+- scrive **qualsiasi altra cosa** → crea l'opportunità in **"Lead generati"** e assegnala **a me**, ma **senza** messaggio automatico.
+
+**Messaggio automatico per chi preme "Sì, cercamela"** (è una risposta dentro le 24 ore, quindi non serve un template approvato da Meta):
+
+```
+Perfetto, partiamo.
+Se vuoi l'offerta prima degli altri, fissa una chiamata conoscitiva di 15 minuti con Loris, il nostro consulente: con due dettagli in più ti troviamo l'auto giusta più in fretta.
+https://api.sendalo.it/widget/bookings/apt-loris
+```
 
 La pipeline **"Pipeline riattivazione"** la creo io, con una sola fase: **"Lead generati"**. Le altre fasi le aggiungo io più avanti: tu non devi crearne altre.
 In pipeline entra **solo chi risponde**. Chi non risponde resta un contatto normale e non va in nessuna pipeline.
@@ -100,8 +109,9 @@ L'opportunità si crea **solo alla prima risposta**, non a ogni messaggio.
 Crea 3 contatti di prova con i nostri numeri (uno S1, uno S2, uno S3), aggiungi il tag `riatt-invia-ora` e controlla che:
 
 - arrivi il messaggio giusto, con l'auto o il tipo al posto giusto;
-- rispondendo "ok" il contatto compaia nella "Pipeline riattivazione", fase "Lead generati", assegnato a me;
-- rispondendo "stop" il contatto venga bloccato.
+- premendo **Sì, cercamela** il contatto compaia nella "Pipeline riattivazione", fase "Lead generati", assegnato a me, e arrivi il messaggio con il calendario;
+- premendo **No, grazie** il contatto venga bloccato e non compaia in pipeline;
+- scrivendo un messaggio qualsiasi (es. "ok") il contatto compaia in "Lead generati" senza messaggio automatico.
 
 **Mandami gli screenshot** dei 3 messaggi.
 

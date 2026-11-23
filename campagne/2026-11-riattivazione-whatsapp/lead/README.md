@@ -56,6 +56,7 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | Possibili duplicati (6) | Nessuna certezza: **si tengono entrambi** |
 | Telefoni illeggibili (22) | **Non si recuperano**: restano fuori |
 | Lingua: Poschiavo e "parla spagnolo" | **Dentro** (il lead di Poschiavo era già dentro con un'altra iscrizione in italiano) |
+| Bottoni del messaggio 1 (23/11) | **Sì, cercamela** → pipeline "Lead generati" + messaggio automatico con il calendario di Loris (bozza E), Loris chiama comunque · **No, grazie** (o "no"/"stop") → niente più messaggi, niente pipeline · messaggio libero → pipeline, senza messaggio automatico |
 | Documento di strategia | Il Google Doc "Riattivazione 21 Nov - 12 Dic: Strategia" va **aggiornato a ogni decisione** (ultima revisione: 23/11) |
 | Lead con auto sotto i 20k | Elenco in `_privato/Lead-auto-sotto-20k.xlsx` (169: 157 dal form, 12 da note o chat) |
 | Copy messaggio 1 (23/11) | B2, versioni **S1-A, S2-A, S3-A**, **senza nome** nel template |
