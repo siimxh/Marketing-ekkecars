@@ -2,17 +2,17 @@ import pandas as pd,re,sys
 df=pd.read_pickle(sys.argv[1]); OUT=sys.argv[2]
 d=df[df.perimetro.str.startswith('dentro')].copy()
 # (regex, nome da mostrare, articolo, economica?)
-M=[(r'\ba ?1\b','Audi A1','una',1),(r'kia rio|\brio\b','Kia Rio','una',1),(r'proceed|\bceed','Kia ProCeed','una',1),(r'touran','VW Touran','una',0),(r'\beos\b','VW Eos','una',0),
+M=[(r'e ?-?klasse|e-class','Mercedes Classe E','una',0),(r'model ?([3ysx])\b','Tesla Model {0}','una',0),(r'tesla','Tesla','una',0),(r'sealion','BYD Sealion','una',0),(r'junior','Alfa Romeo Junior','una',0),(r'c ?-?class|classe? ?c\b','Mercedes Classe C','una',0),(r'\ba ?(35|45)\b','Mercedes Classe A','una',0),(r'classe? ?v\b|\bv ?250','Mercedes Classe V','una',0),(r'\beqc\b','Mercedes EQC','una',0),(r'\bv ?60\b','Volvo V60','una',0),(r'audi ?q ?([2-8])','Audi Q{0}','una',0),(r'bmw ?([1-8])\b','BMW Serie {0}','una',0),(r'\b([1-8])[1-6]0\b','BMW Serie {0}','una',0),(r'\bseal\b','BYD Seal','una',0),(r'atto ?3','BYD Atto 3','una',0),(r'avenger','Jeep Avenger','una',1),(r'compass','Jeep Compass','una',0),(r'renegade','Jeep Renegade','una',1),(r'wrangler','Jeep Wrangler','una',0),(r'grand cherokee','Jeep Grand Cherokee','una',0),(r'\ba ?1\b','Audi A1','una',1),(r'kia rio|\brio\b','Kia Rio','una',1),(r'proceed|\bceed','Kia ProCeed','una',1),(r'touran','VW Touran','una',0),(r'\beos\b','VW Eos','una',0),
  (r'\ba ?(180|200|220|250)e?\b|a class','Mercedes Classe A','una',0),(r'\bb ?(180|200|220|250)|class[ea] b\b','Mercedes Classe B','una',0),(r'grandland','Opel Grandland','una',0),
  (r'scenic','Renault Scenic','una',1),(r'kodiak','Skoda Kodiaq','una',0),(r'a6 ?allroad','Audi A6 Allroad','una',0),(r'cayen','Porsche Cayenne','una',0),(r'giula','Alfa Romeo Giulia','una',0),
  (r'\bs ?60\b','Volvo S60','una',0),(r'berlingo','Citroen Berlingo','un',1),(r'fornentor','Cupra Formentor','una',0),(r'\b124\b','Fiat 124 Spider','una',0),(r'\b992|\b991','Porsche 911','una',0),
  (r'\b([1-8])[1-6]0 ?[di]\b','BMW Serie {0}','una',0),(r'proace','Toyota Proace','un',1),(r'\b147\b','Alfa Romeo 147','una',1)]+[(r'\bglc\b','Mercedes GLC','una',0),(r'\bgle\b','Mercedes GLE','una',0),(r'\bgla\b','Mercedes GLA','una',0),(r'\bglb\b','Mercedes GLB','una',0),(r'\bgls\b','Mercedes GLS','una',0),
  (r'\bg ?63\b|classe g\b','Mercedes Classe G','una',0),(r'\bcla\b','Mercedes CLA','una',0),(r'class[ea] a\b|\ba ?180|\ba ?200','Mercedes Classe A','una',0),
  (r'class[ea] c\b|\bc ?(180|200|220|300)','Mercedes Classe C','una',0),(r'class[ea] e\b|\be ?(200|220|300|350)','Mercedes Classe E','una',0),
- (r'\brs ?q ?3|\brsq3','Audi RS Q3','una',0),(r'\brs ?q ?8|\brsq8','Audi RS Q8','una',0),(r'\bs ?q ?[578]\b','Audi SQ5/SQ7/SQ8','una',0),(r'\brs ?([3-7])\b','Audi RS{0}','una',0),
+ (r'\brs ?q ?3|\brsq3','Audi RS Q3','una',0),(r'\brs ?q ?8|\brsq8','Audi RS Q8','una',0),(r'\bs ?q ?([578])\b','Audi SQ{0}','una',0),(r'\brs ?([3-7])\b','Audi RS{0}','una',0),
  (r'\bq ?([2-8])\b(?: ?sportback)?','Audi Q{0}','una',0),(r'\ba ?([3-8])\b(?: ?(sportback|avant|allroad))?','Audi A{0}','una',0),(r'\bs ?([3-8])\b','Audi S{0}','una',0),
  (r'\bx ?([1-7])\b','BMW X{0}','una',0),(r'\bm ?([2-8])\b','BMW M{0}','una',0),(r'serie ?([1-8])\b','BMW Serie {0}','una',0),(r'\b([1-5])[12][08][di]\b','BMW Serie {0}','una',0),
- (r'golf','VW Golf','una',0),(r'tiguan','VW Tiguan','una',0),(r't-?roc','VW T-Roc','una',0),(r'touareg|tuareg','VW Touareg','una',0),(r'passat','VW Passat','una',0),(r'\bid\.? ?([3-7])','VW ID.{0}','una',0),
+ (r'golf','VW Golf','una',0),(r'tiguan','VW Tiguan','una',0),(r'\bt[ -]?roc\b','VW T-Roc','una',0),(r'touareg|tuareg','VW Touareg','una',0),(r'passat','VW Passat','una',0),(r'\bid\.? ?([3-7])','VW ID.{0}','una',0),
  (r'transporter|trasporter|multivan|california','VW Transporter','un',0),(r'caddy','VW Caddy','un',0),(r'\bpolo\b','VW Polo','una',1),
  (r'stelvio','Alfa Romeo Stelvio','una',0),(r'giulia','Alfa Romeo Giulia','una',0),(r'tonale','Alfa Romeo Tonale','una',0),(r'mito','Alfa Romeo MiTo','una',1),
  (r'macan|meccan|maccan','Porsche Macan','una',0),(r'cayenne','Porsche Cayenne','una',0),(r'panamera','Porsche Panamera','una',0),(r'\b911\b','Porsche 911','una',0),(r'taycan','Porsche Taycan','una',0),
@@ -30,15 +30,24 @@ M=[(r'\ba ?1\b','Audi A1','una',1),(r'kia rio|\brio\b','Kia Rio','una',1),(r'pro
  (r'jimny|jimmy','Suzuki Jimny','una',1),(r'vitara','Suzuki Vitara','una',1),(r'swift','Suzuki Swift','una',1),(r'qashqai','Nissan Qashqai','una',1),(r'x-?trail','Nissan X-Trail','una',0),
  (r'\b2008\b','Peugeot 2008','una',1),(r'\b3008\b','Peugeot 3008','una',0),(r'\b5008\b','Peugeot 5008','una',0),(r'\bbyd\b','BYD','una',0),(r'\bmg\b','MG','una',1),
  (r'corsa','Opel Corsa','una',1),(r'mokka','Opel Mokka','una',1)]
+BRANDKW=[(r'merced|metcedes|marcedes|merzedes|\bamg\b','Mercedes'),(r'\bbmw\b','BMW'),(r'\baudi\b','Audi'),(r'\bvw\b|volkswagen|volsvagen','VW'),(r'\balfa','Alfa'),(r'porsche','Porsche'),(r'toyota','Toyota'),(r'volvo','Volvo'),(r'skoda','Skoda'),(r'cupra','Cupra'),(r'\bseat\b','Seat'),(r'\bford\b','Ford'),(r'tesla','Tesla'),(r'\bbyd\b','BYD'),(r'\bjeep\b','Jeep'),(r'\bkia\b','Kia'),(r'hyundai','Hyundai'),(r'renault','Renault'),(r'\bfiat\b','Fiat'),(r'land rover|range','Range|Land')]
+CODE=[e for e in M if '{0}' in e[1] or e[1] in ('Mercedes Classe A','Mercedes Classe B','Mercedes Classe C','Mercedes Classe E')]
+M=[e for e in M if e not in CODE]+CODE
+OVERRIDE={'L1191':("Audi RS4",'una',0),'L1542':("Audi A4 Avant",'una',0),'L1585':("Audi Q3",'una',0)}
 def auto(t):
     t=t.lower()
+    first=None;pos=10**9
+    for rx,pre in BRANDKW:
+        m=re.search(rx,t)
+        if m and m.start()<pos: pos=m.start(); first=pre
     for rx,name,art,cheap in M:
+        if first and not re.match(first,name): continue
         m=re.search(rx,t)
         if m:
             g=[x for x in m.groups() if x and x.isdigit()]
             return name.format(g[0] if g else ''),art,cheap
     return '','',0
-r=d.request.map(auto)
+r=[OVERRIDE.get(i) or auto(t) for i,t in zip(d.id,d.request)]
 d['auto']=[x[0] for x in r]; d['articolo']=[x[1] for x in r]; d['auto_economica']=[x[2] for x in r]
 # solo marca premium, senza modello riconosciuto: si usa la marca
 PREMIUM={'Mercedes':'Mercedes','Audi':'Audi','BMW':'BMW','Porsche':'Porsche','Alfa Romeo':'Alfa Romeo','Volvo':'Volvo','Range/Land Rover':'Land Rover','Tesla':'Tesla','Lexus':'Lexus'}
@@ -64,7 +73,8 @@ def tipo(r):
 d['tipo']=d.apply(tipo,axis=1)
 def seg(r):
     economica = r.auto_economica or r.budget_fascia=='meno di 20k'
-    if r.livello_info.startswith(('A','B')) and r.auto and not economica: return 'S1'
+    attuale = bool(re.match(r'\s*ha (un|una|il|la)\b',r.request.lower()))  # nota sull'auto che ha, non su quella che cerca
+    if r.livello_info.startswith(('A','B')) and r.auto and not economica and not attuale: return 'S1'
     if r.tipo: return 'S2'
     return 'S3'
 d['segmento']=d.apply(seg,axis=1)

@@ -154,6 +154,8 @@
 
 # Versioni complete da scegliere (23/11)
 
+> ✅ **Scelte il 23/11: S1-A, S2-A, S3-A.**
+
 > B2 è il **copy deciso** (Google Doc "Messaggio 1: 21 Novembre", sezione "Copy deciso"; B1 e B8 sotto "Copy scartati").
 > Fase 1: un solo template per segmento. Tre candidate per segmento, tra cui sceglierne **una**.
 
