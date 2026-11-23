@@ -245,3 +245,15 @@ Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il
 Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
 Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che auto hai in mente: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
+
+---
+
+# Messaggio automatico dopo "Sì, cercamela" (23/11)
+
+✅ **Scelta: bozza E.** Parte solo a chi preme il bottone "Sì, cercamela". È dentro la finestra di 24 ore aperta dalla risposta del lead, quindi non serve un template approvato da Meta.
+
+```
+Perfetto, partiamo.
+Se vuoi l'offerta prima degli altri, fissa una chiamata conoscitiva di 15 minuti con Loris, il nostro consulente: con due dettagli in più ti troviamo l'auto giusta più in fretta.
+https://api.sendalo.it/widget/bookings/apt-loris
+```
