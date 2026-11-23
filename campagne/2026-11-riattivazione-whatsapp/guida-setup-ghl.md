@@ -86,9 +86,12 @@ Un workflow che:
 Un workflow che parte quando un contatto con il tag `riattivazione-nov26` risponde su WhatsApp:
 
 - se scrive **stop** (o preme il bottone Stop) → non deve ricevere più niente (DND su WhatsApp);
-- **qualsiasi altra risposta** → assegna il contatto **a me** e mandami una notifica, così lo chiamo.
+- **qualsiasi altra risposta** → crea un'opportunità nella pipeline **"Pipeline riattivazione"**, fase **"Lead generati"**, assegnala **a me** e mandami una notifica, così lo chiamo.
 
-Devo ricevere la notifica **solo alla prima risposta**, non a ogni messaggio.
+La pipeline **"Pipeline riattivazione"** la creo io, con una sola fase: **"Lead generati"**. Le altre fasi le aggiungo io più avanti: tu non devi crearne altre.
+In pipeline entra **solo chi risponde**. Chi non risponde resta un contatto normale e non va in nessuna pipeline.
+
+L'opportunità e la notifica partono **solo alla prima risposta**, non a ogni messaggio.
 
 **Nessun bot o risposta automatica** deve rispondere al posto mio.
 
@@ -97,7 +100,7 @@ Devo ricevere la notifica **solo alla prima risposta**, non a ogni messaggio.
 Crea 3 contatti di prova con i nostri numeri (uno S1, uno S2, uno S3), aggiungi il tag `riatt-invia-ora` e controlla che:
 
 - arrivi il messaggio giusto, con l'auto o il tipo al posto giusto;
-- rispondendo "ok" arrivi la notifica a me;
+- rispondendo "ok" il contatto compaia nella "Pipeline riattivazione", fase "Lead generati", e arrivi la notifica a me;
 - rispondendo "stop" il contatto venga bloccato.
 
 **Mandami gli screenshot** dei 3 messaggi.
