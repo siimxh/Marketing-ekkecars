@@ -73,6 +73,7 @@ Il messaggio è firmato da Giuseppe, ma chiama Loris: in apertura di chiamata va
 - **Cosa è piaciuto:** esempi specifici e concreti (la Serie 4 grigia con il pacchetto M), modelli da gioiellino (GLC, A7), "ci arrivi dopo anni di lavoro" → il regalo va fatto in modo ponderato, non di fretta. Copy snelli e diretti (B8).
 
 ## Esito messaggio 1
+- **23/11: deciso B2** come copy del messaggio 1 (Google Doc: sezione "Copy deciso"; B1 e B8 in "Copy scartati"). Aperture per segmento in `copy/messaggio-1-aperture-segmenti.md`.
 - **Tenute (nel doc):** B1, B2, B8 (B1 e B8 con il richiamo corretto, B8 con il meccanismo spiegato meglio).
 - Scartate: tutto il gruppo A, B3, B4, B5, B6, B7, B9, B10.
 

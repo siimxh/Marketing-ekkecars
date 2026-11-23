@@ -149,3 +149,97 @@
 
 - Dentro ogni segmento: **controllo (A) contro sfidante**, metà ondata ciascuno. Con 300-600 lead per segmento si vedono solo differenze grandi, quindi un solo sfidante.
 - Il test sabato contro lunedì resta separato (vedi `../lead/voce-dei-lead.md`, sezione 7): non va mescolato con il test sulle varianti nella stessa ondata.
+
+---
+
+# Versioni complete da scegliere (23/11)
+
+> B2 è il **copy deciso** (Google Doc "Messaggio 1: 21 Novembre", sezione "Copy deciso"; B1 e B8 sotto "Copy scartati").
+> Fase 1: un solo template per segmento. Tre candidate per segmento, tra cui sceglierne **una**.
+
+## S1 · Auto nota
+
+### S1-A
+Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per {{auto}}.
+
+Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancora, scrivimelo qui: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
+
+### S1-B
+Qualche mese fa cercavi {{auto}}. L'hai poi trovata come la volevi, o ti sei accontentato di quella che c'era?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Ci avevi lasciato il contatto proprio per quella.
+
+Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancora, scrivimelo qui: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
+
+### S1-C
+Cercavi {{auto}}, a una rata che non ti pesasse ogni mese. Hai trovato tutte e due le cose, o solo una?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per quell'auto.
+
+Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancora, scrivimelo qui: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
+
+## S2 · Profilo noto
+
+### S2-A
+Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa cercavi {{tipo}}.
+
+Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che modello hai in mente e che rata vuoi spendere: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore. La tua la valutiamo gratis.
+
+### S2-B
+Cercavi {{tipo}}. Quante volte ti sei sentito dire "quello che vuole non ce l'abbiamo, però guardi quest'altra"?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto proprio per questo.
+
+Un'auto non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che modello hai in mente e che rata vuoi spendere: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore. La tua la valutiamo gratis.
+
+### S2-C
+Cercavi {{tipo}}, con una rata giusta e la tua da dare dentro. Ti hanno fatto un'offerta che teneva insieme tutte e due le cose?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per questo.
+
+Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che modello hai in mente e che rata vuoi spendere: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore. La tua la valutiamo gratis.
+
+## S3 · Solo frustrazione
+
+### S3-A
+Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
+
+Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che auto hai in mente: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
+
+### S3-B
+Ti è mai capitato di entrare da un concessionario per un'auto e uscire con in testa un'altra?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
+
+Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che auto hai in mente: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
+
+### S3-C
+Quando cerchi un'auto, cosa ti pesa di più: girare un concessionario dopo l'altro senza trovare quella giusta, o non capire mai qual è il prezzo vero?
+
+Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
+
+Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+
+Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che auto hai in mente: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
