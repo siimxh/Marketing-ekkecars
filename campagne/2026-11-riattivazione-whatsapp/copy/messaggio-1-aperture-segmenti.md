@@ -154,7 +154,7 @@
 
 # Versioni complete da scegliere (23/11)
 
-> ✅ **Scelte il 23/11: S1-A, S2-A, S3-A.** Il nome è stato tolto dal template ("Ciao, sono Giuseppe…"): nel file dei lead troppi nomi sono sporchi (ditte, cognome prima del nome, nomi finti).
+> ✅ **Scelte il 23/11: S1-A, S2-A, S3-A.** In S3 la riga "Un'auto come una GLC o un'A7" diventa "Un'auto non si compra tutti gli anni" (S3 contiene anche i lead con budget basso). Il nome è stato tolto dal template ("Ciao, sono Giuseppe…"): nel file dei lead troppi nomi sono sporchi (ditte, cognome prima del nome, nomi finti).
 
 > B2 è il **copy deciso** (Google Doc "Messaggio 1: 21 Novembre", sezione "Copy deciso"; B1 e B8 sotto "Copy scartati").
 > Fase 1: un solo template per segmento. Tre candidate per segmento, tra cui sceglierne **una**.
@@ -224,7 +224,7 @@ Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "c
 
 Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
 
-Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
+Un'auto non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
 Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che auto hai in mente: la cerchiamo in tutta Europa, il prezzo lo trattiamo noi e ti troviamo un'offerta migliore.
 
