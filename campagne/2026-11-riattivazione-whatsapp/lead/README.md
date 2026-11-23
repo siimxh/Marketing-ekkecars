@@ -56,6 +56,7 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | Possibili duplicati (6) | Nessuna certezza: **si tengono entrambi** |
 | Telefoni illeggibili (22) | **Non si recuperano**: restano fuori |
 | Lingua: Poschiavo e "parla spagnolo" | **Dentro** (il lead di Poschiavo era già dentro con un'altra iscrizione in italiano) |
+| Fase 1 (23/11) | **Si manda solo il messaggio 1**: 3 template, uno per segmento, nessun A/B sulle aperture. I messaggi 2-5 si decidono dopo aver visto i risultati del primo |
 | Segmenti | **Approvati i 3 segmenti** (S1 auto nota, S2 profilo noto, S3 solo frustrazione) |
 | Chi ha scritto "Disiscriviti" nelle chat di maggio (7) | **Fuori** (chi chiede stop esce da tutto) |
 | Lead seguiti da ex consulenti | **Nessun problema**: non si ricordano chi li ha chiamati, si ricordano solo che qualcuno gli ha parlato |
