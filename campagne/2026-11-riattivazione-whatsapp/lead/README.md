@@ -56,6 +56,8 @@ Il brief della riattivazione è partito da una stima (500-700 lead, un messaggio
 | Possibili duplicati (6) | Nessuna certezza: **si tengono entrambi** |
 | Telefoni illeggibili (22) | **Non si recuperano**: restano fuori |
 | Lingua: Poschiavo e "parla spagnolo" | **Dentro** (il lead di Poschiavo era già dentro con un'altra iscrizione in italiano) |
+| Copy messaggio 1 (23/11) | B2, versioni **S1-A, S2-A, S3-A**, **senza nome** nel template |
+| Spostamenti tra segmenti (23/11) | Auto economiche, budget sotto i 20k, rata fino a 300, note "niente soldi", city car, furgoni e note sull'auto attuale → **S3**. Finale: S1 298 · S2 364 · S3 603 = **1.265** numeri WhatsApp |
 | Fase 1 (23/11) | **Si manda solo il messaggio 1**: 3 template, uno per segmento, nessun A/B sulle aperture. I messaggi 2-5 si decidono dopo aver visto i risultati del primo |
 | Segmenti | **Approvati i 3 segmenti** (S1 auto nota, S2 profilo noto, S3 solo frustrazione) |
 | Chi ha scritto "Disiscriviti" nelle chat di maggio (7) | **Fuori** (chi chiede stop esce da tutto) |

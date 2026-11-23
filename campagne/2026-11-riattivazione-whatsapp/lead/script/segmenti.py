@@ -71,15 +71,43 @@ def tipo(r):
         t+=' '+('usato' if t.startswith('un ') and r.nuova_usata=='Usata' else 'usata' if r.nuova_usata=='Usata' else 'nuovo' if t.startswith('un ') else 'nuova')
     return t
 d['tipo']=d.apply(tipo,axis=1)
+def rata_bassa(t):
+    t=t.lower()
+    for m in re.finditer(r"(\d{2,4})(?:[.,]\d+)?\s*(?:chf|fr\w*|franchi|ch|\.-)?\s*(?:/|al|a|mensil\w*|settiman\w*)?\s*(mes\w*|settiman\w*|mensil\w*)?",t):
+        v=int(m.group(1))
+        if m.group(2) and 'settiman' in m.group(2): v*=4
+        if 50<=v<=300: return True
+    return False
+CHEAP_TXT=r'buon mercato|buon prezzo|economic|poco prezzo|spendere poco|low cost'
+def motivo_sposta(r):
+    """Perché il lead non può ricevere la versione 'auto/tipo' del messaggio (vuoto = va bene)."""
+    if r.auto_economica: return 'auto economica'
+    if r.budget_fascia=='meno di 20k': return 'budget sotto i 20k'
+    if r.budget_fascia=='rata mensile' and rata_bassa(r.budget_testo): return 'rata fino a 300 al mese'
+    if re.search(r'\b([12]\d\d|300)\s*(chf)?\s*(/|al)\s*mes',r.request.lower()): return 'rata fino a 300 al mese'
+    if re.search(CHEAP_TXT,r.request.lower()): return 'cerca un\'auto economica'
+    if r.budget_basso: return 'nota: budget basso / niente soldi'
+    return ''
 def seg(r):
-    economica = r.auto_economica or r.budget_fascia=='meno di 20k'
-    attuale = bool(re.match(r'\s*ha (un|una|il|la)\b',r.request.lower()))  # nota sull'auto che ha, non su quella che cerca
-    if r.livello_info.startswith(('A','B')) and r.auto and not economica and not attuale: return 'S1'
-    if r.tipo: return 'S2'
+    mot=motivo_sposta(r)
+    attuale = bool(re.match(r'\s*ha (un|una|il|la)\b',r.request.lower()))
+    if r.livello_info.startswith(('A','B')) and r.auto and not mot and not attuale: return 'S1'
+    if r.tipo and not mot and r.tipo not in ('un furgone',) and not r.tipo.startswith('una city car'): return 'S2'
     return 'S3'
+d['motivo_spostamento']=d.apply(motivo_sposta,axis=1)
 d['segmento']=d.apply(seg,axis=1)
-d['nota_segmento']=''
-d.loc[d.livello_info.str.startswith(('A','B'))&(d.segmento!='S1'),'nota_segmento']=d.apply(lambda r:'auto economica o budget basso: spostato' if (r.auto_economica or r.budget_fascia=='meno di 20k') and r.auto else 'modello non riconosciuto: da controllare',axis=1)
+def nota(r):
+    if r.segmento=='S1': return ''
+    if r.livello_info.startswith(('A','B')) and r.auto:
+        if re.match(r'\s*ha (un|una|il|la)\b',r.request.lower()): return 'S1 -> '+r.segmento+": la nota descrive l'auto che ha, non quella che cerca"
+        return 'S1 -> '+r.segmento+': '+r.motivo_spostamento
+    if r.tipo and r.segmento=='S3':
+        if r.tipo=='un furgone': return 'S2 -> S3: furgone (lavoro, non "regalo")'
+        if r.tipo.startswith('una city car'): return 'S2 -> S3: city car'
+        return 'S2 -> S3: '+r.motivo_spostamento
+    if r.livello_info.startswith(('A','B')) and not r.auto: return 'modello non riconosciuto'
+    return ''
+d['nota_segmento']=d.apply(nota,axis=1)
 d.to_pickle(OUT)
 print(d.segmento.value_counts().to_dict())
 print(d.nota_segmento.value_counts().to_dict())

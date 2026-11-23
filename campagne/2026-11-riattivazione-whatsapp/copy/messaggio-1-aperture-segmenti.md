@@ -154,7 +154,7 @@
 
 # Versioni complete da scegliere (23/11)
 
-> ✅ **Scelte il 23/11: S1-A, S2-A, S3-A.**
+> ✅ **Scelte il 23/11: S1-A, S2-A, S3-A.** Il nome è stato tolto dal template ("Ciao, sono Giuseppe…"): nel file dei lead troppi nomi sono sporchi (ditte, cognome prima del nome, nomi finti).
 
 > B2 è il **copy deciso** (Google Doc "Messaggio 1: 21 Novembre", sezione "Copy deciso"; B1 e B8 sotto "Copy scartati").
 > Fase 1: un solo template per segmento. Tre candidate per segmento, tra cui sceglierne **una**.
@@ -164,7 +164,7 @@
 ### S1-A
 Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per {{auto}}.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per {{auto}}.
 
 Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -173,7 +173,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancor
 ### S1-B
 Qualche mese fa cercavi {{auto}}. L'hai poi trovata come la volevi, o ti sei accontentato di quella che c'era?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Ci avevi lasciato il contatto proprio per quella.
+Ciao, sono Giuseppe, fondatore di ekkecars. Ci avevi lasciato il contatto proprio per quella.
 
 Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -182,7 +182,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancor
 ### S1-C
 Cercavi {{auto}}, a una rata che non ti pesasse ogni mese. Hai trovato tutte e due le cose, o solo una?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per quell'auto.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per quell'auto.
 
 Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -193,7 +193,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Se la cerchi ancor
 ### S2-A
 Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa cercavi {{tipo}}.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa cercavi {{tipo}}.
 
 Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -202,7 +202,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che m
 ### S2-B
 Cercavi {{tipo}}. Quante volte ti sei sentito dire "quello che vuole non ce l'abbiamo, però guardi quest'altra"?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto proprio per questo.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto proprio per questo.
 
 Un'auto non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -211,7 +211,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che m
 ### S2-C
 Cercavi {{tipo}}, con una rata giusta e la tua da dare dentro. Ti hanno fatto un'offerta che teneva insieme tutte e due le cose?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per questo.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per questo.
 
 Un'auto così non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -222,7 +222,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che m
 ### S3-A
 Tra tre anni, quando guarderai la tua auto, cosa vuoi pensare: "che affare" o "che fregatura"?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
 
 Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -231,7 +231,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che a
 ### S3-B
 Ti è mai capitato di entrare da un concessionario per un'auto e uscire con in testa un'altra?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
 
 Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 
@@ -240,7 +240,7 @@ Se quest'anno vuoi farti questo regalo, fattelo come si deve. Scrivimi qui che a
 ### S3-C
 Quando cerchi un'auto, cosa ti pesa di più: girare un concessionario dopo l'altro senza trovare quella giusta, o non capire mai qual è il prezzo vero?
 
-Ciao {{nome}}, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
+Ciao, sono Giuseppe, fondatore di ekkecars. Qualche mese fa ci avevi lasciato il contatto per un'auto.
 
 Un'auto come una GLC o un'A7 non si compra tutti gli anni. Ci arrivi dopo anni di lavoro. Eppure spesso la si prende di fretta, al concessionario sotto casa, al prezzo che ti fanno, con un leasing pensato per chiudere il contratto e non per rivenderla bene dopo.
 

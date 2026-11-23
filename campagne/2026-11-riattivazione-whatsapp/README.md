@@ -8,3 +8,4 @@ Progetto B2C separato dalle Meta Ads. Sequenza di 5 messaggi WhatsApp ai lead ve
 | `fonti/lavagna-miro.png` | Lavagna Miro della progettazione (fa fede) |
 | `fonti/call-simone-hamza-2026-11-14.md` | Sintesi della call Simone–Hamza (da prendere con le pinze) |
 | `lead/` | Inventario e analisi dei lead storici (1.689 iscrizioni → 1.280 riattivabili). Lavoro separato dai copy |
+| `guida-setup-ghl.md` | Guida passo per passo per impostare il messaggio 1 su GoHighLevel (campi, import, 3 template, workflow, ondate) |
