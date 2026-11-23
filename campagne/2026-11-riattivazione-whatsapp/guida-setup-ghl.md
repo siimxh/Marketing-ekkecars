@@ -86,23 +86,26 @@ Un workflow che:
 Un workflow che parte quando un contatto con il tag `riattivazione-nov26` risponde su WhatsApp:
 
 - se scrive **stop** (o preme il bottone Stop) → non deve ricevere più niente (DND su WhatsApp);
-- **qualsiasi altra risposta** → assegna il contatto a **Loris** e mandagli una notifica, così lo chiama.
+- **qualsiasi altra risposta** → assegna il contatto **a me** e mandami una notifica, così lo chiamo.
 
-Loris deve ricevere la notifica **solo alla prima risposta**, non a ogni messaggio.
+Devo ricevere la notifica **solo alla prima risposta**, non a ogni messaggio.
 
-**Nessun bot o risposta automatica** deve rispondere al posto di Loris.
+**Nessun bot o risposta automatica** deve rispondere al posto mio.
 
 ## Passo 6 · Prova
 
 Crea 3 contatti di prova con i nostri numeri (uno S1, uno S2, uno S3), aggiungi il tag `riatt-invia-ora` e controlla che:
 
 - arrivi il messaggio giusto, con l'auto o il tipo al posto giusto;
-- rispondendo "ok" arrivi la notifica a Loris;
+- rispondendo "ok" arrivi la notifica a me;
 - rispondendo "stop" il contatto venga bloccato.
 
 **Mandami gli screenshot** dei 3 messaggi.
 
 ## Poi ti fermi
 
-**Non mandare niente ai lead veri.** Giorni e orari degli invii li decidiamo insieme.
+**Non mandare niente ai lead veri** finché non ti do il via. Giorni e orari degli invii te li mando io.
 Gli invii li faremo a gruppi: nel file ogni lead ha già il suo gruppo (tag da `riatt-ondata-1` a `riatt-ondata-5`).
+
+Grazie,
+Loris
